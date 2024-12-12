@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
+    "STEER": 
+        filters: ["STEER", "EPS","MPC]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
