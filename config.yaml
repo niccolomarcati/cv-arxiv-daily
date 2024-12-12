@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "STEER": 
-        filters: ["STEER", "EPS","MPC]
+        filters: ["STEER","MPC]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
