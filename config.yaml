@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "STEER": 
-        filters: ["STEER","MPC]
+        filters: ["STEER","MPC"]
     "MPC":
         filters: ["MPC", "control"]
     "statistic":
