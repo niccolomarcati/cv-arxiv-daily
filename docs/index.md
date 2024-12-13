@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,8 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Bilevel Learning for Dual-Quadruped Collaborative Transportation under Kinematic and Anisotropic Velocity Constraints**|Williard Joshua Jose et.al.|[2412.08644](http://arxiv.org/abs/2412.08644)|null|
+|**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
 |**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
+|**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613](http://arxiv.org/abs/2412.08613)|null|
 |**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
+|**2024-12-11**|**Real-Time Trajectory Generation for Soft Robot Manipulators Using Differential Flatness**|Akua Dickson et.al.|[2412.08568](http://arxiv.org/abs/2412.08568)|null|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+|**2024-12-11**|**An Enhanced Levenberg--Marquardt Method via Gram Reduction**|Chengchang Liu et.al.|[2412.08561](http://arxiv.org/abs/2412.08561)|null|
+|**2024-12-11**|**A numerical method to simulate the stochastic linear-quadratic optimal control problem with control constraint in higher dimensions**|Abhishek Chaudhary et.al.|[2412.08553](http://arxiv.org/abs/2412.08553)|null|
+|**2024-12-11**|**Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations**|Hugo Flores García et.al.|[2412.08550](http://arxiv.org/abs/2412.08550)|null|
 |**2024-12-11**|**Open-Loop and Model Predictive Control for Electric Vehicle Charging to Manage Excess Renewable Energy Supply in Texas**|Kelsey M. Nelson et.al.|[2412.08505](http://arxiv.org/abs/2412.08505)|null|
 |**2024-12-11**|**Calibrating the Tully-Fisher Relation to Measure the Hubble Constant**|Daniel Scolnic et.al.|[2412.08449](http://arxiv.org/abs/2412.08449)|null|
 |**2024-12-11**|**First Principles based High-precision Modelling and Identification of Piezoelectric Fast Steering Mirror**|Sen Yang et.al.|[2412.08332](http://arxiv.org/abs/2412.08332)|null|
@@ -4022,6 +4030,14 @@ layout: default
 |**2024-12-11**|**A numerical method to simulate the stochastic linear-quadratic optimal control problem with control constraint in higher dimensions**|Abhishek Chaudhary et.al.|[2412.08553](http://arxiv.org/abs/2412.08553)|null|
 |**2024-12-11**|**Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations**|Hugo Flores García et.al.|[2412.08550](http://arxiv.org/abs/2412.08550)|null|
 |**2024-12-11**|**Orderly Management of Packets in RDMA by Eunomia**|Sana Mahmood et.al.|[2412.08540](http://arxiv.org/abs/2412.08540)|null|
+|**2024-12-11**|**Open-Loop and Model Predictive Control for Electric Vehicle Charging to Manage Excess Renewable Energy Supply in Texas**|Kelsey M. Nelson et.al.|[2412.08505](http://arxiv.org/abs/2412.08505)|null|
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496](http://arxiv.org/abs/2412.08496)|null|
+|**2024-12-11**|**Calibrating the Tully-Fisher Relation to Measure the Hubble Constant**|Daniel Scolnic et.al.|[2412.08449](http://arxiv.org/abs/2412.08449)|null|
+|**2024-12-11**|**GDSG: Graph Diffusion-based Solution Generation for Optimization Problems in MEC Networks**|Ruihuai Liang et.al.|[2412.08296](http://arxiv.org/abs/2412.08296)|**[link](https://github.com/qiyu3816/gdsg)**|
+|**2024-12-11**|**Semantic Scene Completion Based 3D Traversability Estimation for Off-Road Terrains**|Zitong Chen et.al.|[2412.08195](http://arxiv.org/abs/2412.08195)|null|
+|**2024-12-11**|**A Survey on Private Transformer Inference**|Yang Li et.al.|[2412.08145](http://arxiv.org/abs/2412.08145)|null|
+|**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
+|**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
 ## statistic
 
