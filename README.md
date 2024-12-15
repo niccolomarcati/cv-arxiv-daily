@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.13
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620](http://arxiv.org/abs/2412.09620)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
+|**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|
+|**2024-12-12**|**Axionic quantum criticality of generalized Weyl semimetals**|Gabriel Malave et.al.|[2412.09609](http://arxiv.org/abs/2412.09609)|null|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**Wait-Less Offline Tuning and Re-solving for Online Decision Making**|Jingruo Sun et.al.|[2412.09594](http://arxiv.org/abs/2412.09594)|null|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**Omnidirectional shuttling to avoid valley excitations in Si/SiGe quantum wells**|Róbert Németh et.al.|[2412.09574](http://arxiv.org/abs/2412.09574)|null|
+|**2024-12-12**|**Arbitrary Spectral Edge of Regular Graphs**|Dingding Dong et.al.|[2412.09570](http://arxiv.org/abs/2412.09570)|null|
 |**2024-12-11**|**Bilevel Learning for Dual-Quadruped Collaborative Transportation under Kinematic and Anisotropic Velocity Constraints**|Williard Joshua Jose et.al.|[2412.08644](http://arxiv.org/abs/2412.08644)|null|
 |**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
 |**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
@@ -4039,12 +4049,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**A universal and physically motivated threshold for Hessian-based cosmic web identification: V-Web case**|Edward Olex et.al.|[2412.09531](http://arxiv.org/abs/2412.09531)|null|
+|**2024-12-12**|**FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity fields**|Lurdes Ondaro-Mallea et.al.|[2412.09526](http://arxiv.org/abs/2412.09526)|null|
+|**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
+|**2024-12-12**|**Nonlinear control and stability analysis of a unified Tethered UAV-winder system**|Samuel Folorunsho et.al.|[2412.09502](http://arxiv.org/abs/2412.09502)|null|
+|**2024-12-12**|**A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions**|Mehrdad Raeesi et.al.|[2412.09499](http://arxiv.org/abs/2412.09499)|null|
+|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466](http://arxiv.org/abs/2412.09466)|null|
+|**2024-12-12**|**Distributed Intelligent System Architecture for UAV-Assisted Monitoring of Wind Energy Infrastructure**|Serhii Svystun et.al.|[2412.09387](http://arxiv.org/abs/2412.09387)|null|
+|**2024-12-12**|**When to use simulated annealing for solving CVRP? A case study of fuel deliveries in Poland**|Vitalii Naumov et.al.|[2412.09293](http://arxiv.org/abs/2412.09293)|null|
+|**2024-12-12**|**Multi-Aircraft Scheduling Optimization in Urban Environments**|Jin Zhang et.al.|[2412.09279](http://arxiv.org/abs/2412.09279)|null|
+|**2024-12-12**|**Disturbance-Adaptive Data-Driven Predictive Control: Trading Comfort Violations for Savings in Building Climate Control**|Jicheng Shi et.al.|[2412.09238](http://arxiv.org/abs/2412.09238)|null|
 |**2024-12-11**|**Bilevel Learning for Dual-Quadruped Collaborative Transportation under Kinematic and Anisotropic Velocity Constraints**|Williard Joshua Jose et.al.|[2412.08644](http://arxiv.org/abs/2412.08644)|null|
 |**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
 |**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
@@ -4064,12 +4084,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598](http://arxiv.org/abs/2412.09598)|null|
+|**2024-12-12**|**Dissipative Dynamical Phase Transition as a Complex Ising Model**|Stephen W. Yan et.al.|[2412.09591](http://arxiv.org/abs/2412.09591)|null|
+|**2024-12-12**|**Gradient-Boosted Mixture Regression Models for Postprocessing Ensemble Weather Forecasts**|David Jobst et.al.|[2412.09583](http://arxiv.org/abs/2412.09583)|null|
+|**2024-12-12**|**Engineering micromotion in Floquet prethermalization via space-time symmetries**|Ilyoun Na et.al.|[2412.09577](http://arxiv.org/abs/2412.09577)|null|
+|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
+|**2024-12-12**|**Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance**|Jiyao Hu et.al.|[2412.09564](http://arxiv.org/abs/2412.09564)|null|
+|**2024-12-12**|**Identification of structures driving trailing-edge noise. Part II -- Numerical investigation**|Zhenyang Yuan et.al.|[2412.09562](http://arxiv.org/abs/2412.09562)|null|
+|**2024-12-12**|**Ferromagnetic ordering in mazelike stripe liquid of a dipolar six-state clock model**|Quentin Simmons et.al.|[2412.09550](http://arxiv.org/abs/2412.09550)|null|
+|**2024-12-12**|**Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking**|Paria Rashidinejad et.al.|[2412.09544](http://arxiv.org/abs/2412.09544)|null|
+|**2024-12-12**|**Bayesian nonparametric mixtures of Archimedean copulas**|Ruyi Pan et.al.|[2412.09539](http://arxiv.org/abs/2412.09539)|null|
 |**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633](http://arxiv.org/abs/2412.08633)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
 |**2024-12-11**|**Enhancing the use of family planning service statistics using a Bayesian modelling approach to inform estimates of modern contraceptive use in low- and middle-income countries**|Shauna Mooney et.al.|[2412.08606](http://arxiv.org/abs/2412.08606)|null|
@@ -4081,7 +4111,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

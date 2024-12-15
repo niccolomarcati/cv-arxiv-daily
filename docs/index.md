@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.13
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620](http://arxiv.org/abs/2412.09620)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
+|**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|
+|**2024-12-12**|**Axionic quantum criticality of generalized Weyl semimetals**|Gabriel Malave et.al.|[2412.09609](http://arxiv.org/abs/2412.09609)|null|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**Wait-Less Offline Tuning and Re-solving for Online Decision Making**|Jingruo Sun et.al.|[2412.09594](http://arxiv.org/abs/2412.09594)|null|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**Omnidirectional shuttling to avoid valley excitations in Si/SiGe quantum wells**|Róbert Németh et.al.|[2412.09574](http://arxiv.org/abs/2412.09574)|null|
+|**2024-12-12**|**Arbitrary Spectral Edge of Regular Graphs**|Dingding Dong et.al.|[2412.09570](http://arxiv.org/abs/2412.09570)|null|
 |**2024-12-11**|**Bilevel Learning for Dual-Quadruped Collaborative Transportation under Kinematic and Anisotropic Velocity Constraints**|Williard Joshua Jose et.al.|[2412.08644](http://arxiv.org/abs/2412.08644)|null|
 |**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
 |**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
@@ -4020,6 +4030,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**A universal and physically motivated threshold for Hessian-based cosmic web identification: V-Web case**|Edward Olex et.al.|[2412.09531](http://arxiv.org/abs/2412.09531)|null|
+|**2024-12-12**|**FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity fields**|Lurdes Ondaro-Mallea et.al.|[2412.09526](http://arxiv.org/abs/2412.09526)|null|
+|**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
+|**2024-12-12**|**Nonlinear control and stability analysis of a unified Tethered UAV-winder system**|Samuel Folorunsho et.al.|[2412.09502](http://arxiv.org/abs/2412.09502)|null|
+|**2024-12-12**|**A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions**|Mehrdad Raeesi et.al.|[2412.09499](http://arxiv.org/abs/2412.09499)|null|
+|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466](http://arxiv.org/abs/2412.09466)|null|
+|**2024-12-12**|**Distributed Intelligent System Architecture for UAV-Assisted Monitoring of Wind Energy Infrastructure**|Serhii Svystun et.al.|[2412.09387](http://arxiv.org/abs/2412.09387)|null|
+|**2024-12-12**|**When to use simulated annealing for solving CVRP? A case study of fuel deliveries in Poland**|Vitalii Naumov et.al.|[2412.09293](http://arxiv.org/abs/2412.09293)|null|
+|**2024-12-12**|**Multi-Aircraft Scheduling Optimization in Urban Environments**|Jin Zhang et.al.|[2412.09279](http://arxiv.org/abs/2412.09279)|null|
+|**2024-12-12**|**Disturbance-Adaptive Data-Driven Predictive Control: Trading Comfort Violations for Savings in Building Climate Control**|Jicheng Shi et.al.|[2412.09238](http://arxiv.org/abs/2412.09238)|null|
 |**2024-12-11**|**Bilevel Learning for Dual-Quadruped Collaborative Transportation under Kinematic and Anisotropic Velocity Constraints**|Williard Joshua Jose et.al.|[2412.08644](http://arxiv.org/abs/2412.08644)|null|
 |**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
 |**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
@@ -4043,6 +4063,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598](http://arxiv.org/abs/2412.09598)|null|
+|**2024-12-12**|**Dissipative Dynamical Phase Transition as a Complex Ising Model**|Stephen W. Yan et.al.|[2412.09591](http://arxiv.org/abs/2412.09591)|null|
+|**2024-12-12**|**Gradient-Boosted Mixture Regression Models for Postprocessing Ensemble Weather Forecasts**|David Jobst et.al.|[2412.09583](http://arxiv.org/abs/2412.09583)|null|
+|**2024-12-12**|**Engineering micromotion in Floquet prethermalization via space-time symmetries**|Ilyoun Na et.al.|[2412.09577](http://arxiv.org/abs/2412.09577)|null|
+|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
+|**2024-12-12**|**Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance**|Jiyao Hu et.al.|[2412.09564](http://arxiv.org/abs/2412.09564)|null|
+|**2024-12-12**|**Identification of structures driving trailing-edge noise. Part II -- Numerical investigation**|Zhenyang Yuan et.al.|[2412.09562](http://arxiv.org/abs/2412.09562)|null|
+|**2024-12-12**|**Ferromagnetic ordering in mazelike stripe liquid of a dipolar six-state clock model**|Quentin Simmons et.al.|[2412.09550](http://arxiv.org/abs/2412.09550)|null|
+|**2024-12-12**|**Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking**|Paria Rashidinejad et.al.|[2412.09544](http://arxiv.org/abs/2412.09544)|null|
+|**2024-12-12**|**Bayesian nonparametric mixtures of Archimedean copulas**|Ruyi Pan et.al.|[2412.09539](http://arxiv.org/abs/2412.09539)|null|
 |**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633](http://arxiv.org/abs/2412.08633)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
 |**2024-12-11**|**Enhancing the use of family planning service statistics using a Bayesian modelling approach to inform estimates of modern contraceptive use in low- and middle-income countries**|Shauna Mooney et.al.|[2412.08606](http://arxiv.org/abs/2412.08606)|null|
