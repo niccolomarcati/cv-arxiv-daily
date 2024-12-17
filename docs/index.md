@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
+|**2024-12-13**|**High-throughput Search for Metallic Altermagnets by Embedded Dynamical Mean Field Theory**|Xuhao Wan et.al.|[2412.10356](http://arxiv.org/abs/2412.10356)|null|
+|**2024-12-13**|**Adaptive Dual-Headway Unicycle Pose Control and Motion Prediction for Optimal Sampling-Based Feedback Motion Planning**|Aykut İşleyen et.al.|[2412.10350](http://arxiv.org/abs/2412.10350)|null|
+|**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345](http://arxiv.org/abs/2412.10345)|null|
+|**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
+|**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|null|
+|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
+|**2024-12-13**|**Iterating the Transient Light Transport Matrix for Non-Line-of-Sight Imaging**|Talha Sultan et.al.|[2412.10300](http://arxiv.org/abs/2412.10300)|null|
+|**2024-12-13**|**Shaping the Future of Social Media with Middleware**|Luke Hogg et.al.|[2412.10283](http://arxiv.org/abs/2412.10283)|null|
+|**2024-12-13**|**A model-based approach for transforming InSAR-derived vertical land motion from a local to a global reference frame**|Mahmoud Reshadati et.al.|[2412.10282](http://arxiv.org/abs/2412.10282)|null|
 |**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
 |**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620](http://arxiv.org/abs/2412.09620)|null|
 |**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
@@ -4030,6 +4040,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Adaptive Dual-Headway Unicycle Pose Control and Motion Prediction for Optimal Sampling-Based Feedback Motion Planning**|Aykut İşleyen et.al.|[2412.10350](http://arxiv.org/abs/2412.10350)|null|
+|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
+|**2024-12-13**|**A Two-Step Warm Start Method Used for Solving Large-Scale Stochastic Mixed-Integer Problems**|Berend Markhorst et.al.|[2412.10098](http://arxiv.org/abs/2412.10098)|null|
+|**2024-12-13**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
+|**2024-12-13**|**Virtualization & Microservice Architecture for Software-Defined Vehicles: An Evaluation and Exploration**|Long Wen et.al.|[2412.09995](http://arxiv.org/abs/2412.09995)|null|
+|**2024-12-13**|**Coordinated vehicle dispatching and charging scheduling for an electric ride-hailing fleet under charging congestion and dynamic prices**|Tai-Yu Ma et.al.|[2412.09978](http://arxiv.org/abs/2412.09978)|null|
+|**2024-12-13**|**Exploring the anisotropic gravitational wave background from all-sky mock gravitational wave event catalogues**|Zhencheng Li et.al.|[2412.09956](http://arxiv.org/abs/2412.09956)|null|
+|**2024-12-13**|**SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models**|Arindam Khanda et.al.|[2412.09948](http://arxiv.org/abs/2412.09948)|null|
+|**2024-12-13**|**V2Sim: An Open-Source Microscopic V2G Simulation Platform in Urban Power and Transportation Network**|Tao Qian et.al.|[2412.09808](http://arxiv.org/abs/2412.09808)|null|
+|**2024-12-13**|**Unified gas-kinetic scheme for reactive flow with multi-scale transport and chemical non-equilibrium**|Yufeng Wei et.al.|[2412.09787](http://arxiv.org/abs/2412.09787)|null|
 |**2024-12-12**|**A universal and physically motivated threshold for Hessian-based cosmic web identification: V-Web case**|Edward Olex et.al.|[2412.09531](http://arxiv.org/abs/2412.09531)|null|
 |**2024-12-12**|**FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity fields**|Lurdes Ondaro-Mallea et.al.|[2412.09526](http://arxiv.org/abs/2412.09526)|null|
 |**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
@@ -4063,6 +4083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Separate length scale for coarsening and for fractal formation by persistent sites**|Dalia Hernandez et.al.|[2412.10368](http://arxiv.org/abs/2412.10368)|null|
+|**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
+|**2024-12-13**|**Applied Statistics in the Era of Artificial Intelligence: A Review and Vision**|Jie Min et.al.|[2412.10331](http://arxiv.org/abs/2412.10331)|null|
+|**2024-12-13**|**Reciprocity in Interbank Markets**|Lutz Honvehlmann et.al.|[2412.10329](http://arxiv.org/abs/2412.10329)|null|
+|**2024-12-13**|**Sampling from exponential distributions in the time domain with superparamagnetic tunnel junctions**|Temitayo N. Adeyeye et.al.|[2412.10317](http://arxiv.org/abs/2412.10317)|null|
+|**2024-12-13**|**Simulation-based inference on warm dark matter from HERA forecasts**|Quentin Decant et.al.|[2412.10310](http://arxiv.org/abs/2412.10310)|null|
+|**2024-12-13**|**Stochastic relativistic viscous hydrodynamics from the Metropolis algorithm**|Jay Bhambure et.al.|[2412.10306](http://arxiv.org/abs/2412.10306)|null|
+|**2024-12-13**|**My Statistics is Better than Yours**|Simon Benhaïem et.al.|[2412.10296](http://arxiv.org/abs/2412.10296)|null|
+|**2024-12-13**|**The Stein-log-Sobolev inequality and the exponential rate of convergence for the continuous Stein variational gradient descent method**|José A. Carrillo et.al.|[2412.10295](http://arxiv.org/abs/2412.10295)|null|
+|**2024-12-13**|**Performance evaluation of predictive AI models to support medical decisions: Overview and guidance**|Ben Van Calster et.al.|[2412.10288](http://arxiv.org/abs/2412.10288)|null|
 |**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598](http://arxiv.org/abs/2412.09598)|null|
 |**2024-12-12**|**Dissipative Dynamical Phase Transition as a Complex Ising Model**|Stephen W. Yan et.al.|[2412.09591](http://arxiv.org/abs/2412.09591)|null|
 |**2024-12-12**|**Gradient-Boosted Mixture Regression Models for Postprocessing Ensemble Weather Forecasts**|David Jobst et.al.|[2412.09583](http://arxiv.org/abs/2412.09583)|null|
