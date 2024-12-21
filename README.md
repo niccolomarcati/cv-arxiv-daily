@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
+|**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200](http://arxiv.org/abs/2412.15200)|null|
+|**2024-12-19**|**Flavor at FASER: Discovering Light Scalars Beyond Minimal Flavor Violation**|Reuven Balkin et.al.|[2412.15197](http://arxiv.org/abs/2412.15197)|null|
+|**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196](http://arxiv.org/abs/2412.15196)|null|
+|**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Neutral atom transport and transfer between optical tweezers**|Cristina Cicali et.al.|[2412.15173](http://arxiv.org/abs/2412.15173)|null|
+|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
+|**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167](http://arxiv.org/abs/2412.15167)|null|
+|**2024-12-19**|**Measuring DNA Microswimmer Locomotion in Complex Flow Environments**|Taryn Imamura et.al.|[2412.15152](http://arxiv.org/abs/2412.15152)|null|
 |**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
 |**2024-12-17**|**Moment-sos and spectral hierarchies for polynomial optimization on the sphere and quantum de Finetti theorems**|Alexander Taveira Blomenhofer et.al.|[2412.13191](http://arxiv.org/abs/2412.13191)|null|
 |**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190](http://arxiv.org/abs/2412.13190)|null|
@@ -4069,12 +4079,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**A Traffic Adapative Physics-informed Learning Control for Energy Savings of Connected and Automated Vehicles**|Yunli Shao et.al.|[2412.15079](http://arxiv.org/abs/2412.15079)|null|
+|**2024-12-19**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
+|**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/abs/2412.14984)|null|
+|**2024-12-19**|**Efficient Motion Sickness Assessment: Recreation of On-Road Driving on a Compact Test Track**|Huseyin Harmankaya et.al.|[2412.14982](http://arxiv.org/abs/2412.14982)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
+|**2024-12-19**|**Testing anisotropic Hubble expansion**|Paula Boubel et.al.|[2412.14607](http://arxiv.org/abs/2412.14607)|null|
+|**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
+|**2024-12-19**|**High-Accuracy Model Predictive Control with Inverse Hysteresis for High-Speed Trajectory Tracking of Piezoelectric Fast Steering Mirror**|Sen Yang et.al.|[2412.14511](http://arxiv.org/abs/2412.14511)|null|
+|**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494](http://arxiv.org/abs/2412.14494)|null|
+|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[2412.14442](http://arxiv.org/abs/2412.14442)|null|
 |**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
 |**2024-12-17**|**Adaptive Economic Model Predictive Control: Performance Guarantees for Nonlinear Systems**|Maximilian Degner et.al.|[2412.13046](http://arxiv.org/abs/2412.13046)|null|
 |**2024-12-17**|**Harnessing Event Sensory Data for Error Pattern Prediction in Vehicles: A Language Model Approach**|Hugo Math et.al.|[2412.13041](http://arxiv.org/abs/2412.13041)|**[link](https://github.com/Mathugo/AAAI2025-CarFormer-EPredictor)**|
@@ -4124,12 +4144,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196](http://arxiv.org/abs/2412.15196)|null|
+|**2024-12-19**|**Effective Energy, Interactions And Out Of Equilibrium Nature Of Scalar Active Matter**|Antonin Brossollet et.al.|[2412.15175](http://arxiv.org/abs/2412.15175)|null|
+|**2024-12-19**|**Dynamic structure factor of a spin-1/2 Heisenberg chain with long-range interactions**|Sibin Yang et.al.|[2412.15168](http://arxiv.org/abs/2412.15168)|null|
+|**2024-12-19**|**Supernovae evidence for foundational change to cosmological models**|Antonia Seifert et.al.|[2412.15143](http://arxiv.org/abs/2412.15143)|null|
+|**2024-12-19**|**Estimating Heterogeneous Treatment Effects for Spatio-Temporal Causal Inference: How Economic Assistance Moderates the Effects of Airstrikes on Insurgent Violence**|Lingxiao Zhou et.al.|[2412.15128](http://arxiv.org/abs/2412.15128)|null|
+|**2024-12-19**|**Efficient Ranking, Order Statistics, and Sorting under CKKS**|Federico Mazzone et.al.|[2412.15126](http://arxiv.org/abs/2412.15126)|null|
+|**2024-12-19**|**Revisiting the Classics: On the Optical Colours of Novae as Standard Crayons**|Peter Craig et.al.|[2412.15108](http://arxiv.org/abs/2412.15108)|null|
+|**2024-12-19**|**Topological Landau Theory**|Canon Sun et.al.|[2412.15103](http://arxiv.org/abs/2412.15103)|null|
+|**2024-12-19**|**Tests for model misspecification in simulation-based inference: from local distortions to global model checks**|Noemi Anau Montel et.al.|[2412.15100](http://arxiv.org/abs/2412.15100)|null|
+|**2024-12-19**|**Digital N-of-1 Trials and their Application in Experimental Physiology**|Stefan Konigorski et.al.|[2412.15076](http://arxiv.org/abs/2412.15076)|null|
 |**2024-12-17**|**How the cool-core population transitions from galaxy groups to massive clusters: A comparison of the largest Magneticum simulation with eROSITA, XMM-Newton, Chandra and LOFAR observations**|Justo Antonio Gonzalez Villalba et.al.|[2412.13182](http://arxiv.org/abs/2412.13182)|null|
 |**2024-12-17**|**Universal Patterns in the Long-term Growth of Urban Infrastructure in U.S. Cities from 1900 to 2015**|Keith Burghardt et.al.|[2412.13181](http://arxiv.org/abs/2412.13181)|null|
 |**2024-12-17**|**Expressions of Market-Based Correlations Between Prices and Returns of Two Assets**|Victor Olkhov et.al.|[2412.13172](http://arxiv.org/abs/2412.13172)|null|
@@ -4171,7 +4201,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
