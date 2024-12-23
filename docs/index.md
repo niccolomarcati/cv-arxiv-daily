@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4002,7 +4002,7 @@ layout: default
 |**2024-12-19**|**Flavor at FASER: Discovering Light Scalars Beyond Minimal Flavor Violation**|Reuven Balkin et.al.|[2412.15197](http://arxiv.org/abs/2412.15197)|null|
 |**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196](http://arxiv.org/abs/2412.15196)|null|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
 |**2024-12-19**|**Neutral atom transport and transfer between optical tweezers**|Cristina Cicali et.al.|[2412.15173](http://arxiv.org/abs/2412.15173)|null|
 |**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167](http://arxiv.org/abs/2412.15167)|null|
