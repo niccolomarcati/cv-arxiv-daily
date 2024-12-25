@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors**|Luke Ellert-Beck et.al.|[2412.17789](http://arxiv.org/abs/2412.17789)|null|
+|**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769](http://arxiv.org/abs/2412.17769)|**[link](https://github.com/dmar-bonn/active-gs)**|
+|**2024-12-23**|**HyperQ-Opt: Q-learning for Hyperparameter Optimization**|Md. Tarek Hasan et.al.|[2412.17765](http://arxiv.org/abs/2412.17765)|null|
+|**2024-12-23**|**Minimax Optimal Simple Regret in Two-Armed Best-Arm Identification**|Masahiro Kato et.al.|[2412.17753](http://arxiv.org/abs/2412.17753)|null|
+|**2024-12-23**|**Aerial Assistive Payload Transportation Using Quadrotor UAVs with Nonsingular Fast Terminal SMC for Human Physical Interaction**|Hussein Naser et.al.|[2412.17748](http://arxiv.org/abs/2412.17748)|null|
+|**2024-12-23**|**LASE: Learned Adjacency Spectral Embeddings**|Sofía Pérez Casulo et.al.|[2412.17734](http://arxiv.org/abs/2412.17734)|null|
+|**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
+|**2024-12-23**|**Establishing Reality-Virtuality Interconnections in Urban Digital Twins for Superior Intelligent Road Inspection**|Yikang Zhang et.al.|[2412.17699](http://arxiv.org/abs/2412.17699)|null|
+|**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696](http://arxiv.org/abs/2412.17696)|null|
+|**2024-12-23**|**A Reproducible Method for Mapping Electricity Transmission Infrastructure for Space Weather Risk Assessment**|Edward J. Oughton et.al.|[2412.17685](http://arxiv.org/abs/2412.17685)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200](http://arxiv.org/abs/2412.15200)|null|
 |**2024-12-19**|**Flavor at FASER: Discovering Light Scalars Beyond Minimal Flavor Violation**|Reuven Balkin et.al.|[2412.15197](http://arxiv.org/abs/2412.15197)|null|
@@ -4060,6 +4070,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769](http://arxiv.org/abs/2412.17769)|**[link](https://github.com/dmar-bonn/active-gs)**|
+|**2024-12-23**|**Aerial Assistive Payload Transportation Using Quadrotor UAVs with Nonsingular Fast Terminal SMC for Human Physical Interaction**|Hussein Naser et.al.|[2412.17748](http://arxiv.org/abs/2412.17748)|null|
+|**2024-12-23**|**Dynamic safety cases for frontier AI**|Carmen Cârlan et.al.|[2412.17618](http://arxiv.org/abs/2412.17618)|null|
+|**2024-12-23**|**Synergistic Integration of Blockchain and Software-Defined Networking in the Internet of Energy Systems**|Vahideh Hayyolalam et.al.|[2412.17530](http://arxiv.org/abs/2412.17530)|null|
+|**2024-12-23**|**DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**|Yizhe Li et.al.|[2412.17487](http://arxiv.org/abs/2412.17487)|null|
+|**2024-12-23**|**Sampling-Based Constrained Motion Planning with Products of Experts**|Amirreza Razmjoo et.al.|[2412.17462](http://arxiv.org/abs/2412.17462)|null|
+|**2024-12-23**|**Advanced Models for Hourly Marginal CO2 Emission Factor Estimation: A Synergy between Fundamental and Statistical Approaches**|Souhir Ben Amor et.al.|[2412.17379](http://arxiv.org/abs/2412.17379)|null|
+|**2024-12-23**|**Outage Probability Analysis of Uplink Heterogeneous Non-terrestrial Networks: A Novel Stochastic Geometry Model**|Wen-Yu Dong et.al.|[2412.17372](http://arxiv.org/abs/2412.17372)|null|
+|**2024-12-23**|**Routing mobile health clinics: An integrated routing and resupply plan based on synchronization**|Faisal Alkaabneh et.al.|[2412.17299](http://arxiv.org/abs/2412.17299)|null|
+|**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
 |**2024-12-19**|**A Traffic Adapative Physics-informed Learning Control for Energy Savings of Connected and Automated Vehicles**|Yunli Shao et.al.|[2412.15079](http://arxiv.org/abs/2412.15079)|null|
 |**2024-12-19**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/abs/2412.14984)|null|
@@ -4123,6 +4143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|null|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models**|Precious Jones et.al.|[2412.17803](http://arxiv.org/abs/2412.17803)|null|
+|**2024-12-23**|**To Study Properties of a Known Procedure in Adaptive Sequential Sampling Design**|Sampurna Kundu et.al.|[2412.17791](http://arxiv.org/abs/2412.17791)|null|
+|**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
+|**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|
+|**2024-12-23**|**Minimax Optimal Simple Regret in Two-Armed Best-Arm Identification**|Masahiro Kato et.al.|[2412.17753](http://arxiv.org/abs/2412.17753)|null|
+|**2024-12-23**|**Group Testing with General Correlation Using Hypergraphs**|Hesam Nikpey et.al.|[2412.17751](http://arxiv.org/abs/2412.17751)|null|
+|**2024-12-23**|**Bivariate Matrix-valued Linear Regression (BMLR): Finite-sample performance under Identifiability and Sparsity Assumptions**|Nayel Bettache et.al.|[2412.17749](http://arxiv.org/abs/2412.17749)|**[link](https://github.com/nayelbettache/bmlr)**|
+|**2024-12-23**|**Sensitivity Curve Maximization: Attacking Robust Aggregators in Distributed Learning**|Christian A. Schroth et.al.|[2412.17740](http://arxiv.org/abs/2412.17740)|null|
 |**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196](http://arxiv.org/abs/2412.15196)|null|
 |**2024-12-19**|**Effective Energy, Interactions And Out Of Equilibrium Nature Of Scalar Active Matter**|Antonin Brossollet et.al.|[2412.15175](http://arxiv.org/abs/2412.15175)|null|
 |**2024-12-19**|**Dynamic structure factor of a spin-1/2 Heisenberg chain with long-range interactions**|Sibin Yang et.al.|[2412.15168](http://arxiv.org/abs/2412.15168)|null|
