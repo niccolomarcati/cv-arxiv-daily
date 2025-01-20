@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## NeRF
 
@@ -2921,7 +2921,7 @@
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
 |**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
-|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
+|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|**[link](https://github.com/wenwhx/nerfdirector)**|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
 |**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
@@ -3080,7 +3080,7 @@
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
-|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|**[link](https://github.com/Lxiangyue/GenN2N)**|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
 |**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
@@ -4014,7 +4014,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## STEER
 
@@ -4064,7 +4064,7 @@
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
 |**2025-01-07**|**Impact of Leg Stiffness on Energy Efficiency in One Legged Hopping**|Iskandar Khemakhem et.al.|[2501.03971](http://arxiv.org/abs/2501.03971)|null|
-|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|**[link](https://github.com/microsoft/scene-aware-robot-BT-planner)**|
 |**2025-01-07**|**Multi-functional Wafer-Scale Van der Waals Heterostructures and Polymorphs**|M. Micica et.al.|[2501.03955](http://arxiv.org/abs/2501.03955)|null|
 |**2025-01-07**|**Learning to Relax Nonconvex Quadratically Constrained Quadratic Programs**|Buket Ozen et.al.|[2501.03954](http://arxiv.org/abs/2501.03954)|null|
 |**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948](http://arxiv.org/abs/2501.03948)|null|
@@ -4077,7 +4077,7 @@
 |**2025-01-03**|**Landau-Levich Scaling for Optimization of Quantum Dot Layer Morphology and Thickness for Enhanced Quantum-Dot Light-Emitting Diode Performance**|Yiman Xu et.al.|[2501.01918](http://arxiv.org/abs/2501.01918)|null|
 |**2025-01-03**|**Restoring Heisenberg-Limited Precision in Non-Markovian Open Quantum Systems via Dynamical Decoupling**|Bakmou Lahcen et.al.|[2501.01917](http://arxiv.org/abs/2501.01917)|null|
 |**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913](http://arxiv.org/abs/2501.01913)|null|
-|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|**[link](https://github.com/analysis-tools-dev/dynamic-analysis)**|
 |**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[2501.01886](http://arxiv.org/abs/2501.01886)|null|
 |**2025-01-03**|**Accuracy Can Lie: On the Impact of Surrogate Model in Configuration Tuning**|Pengzhou Chen et.al.|[2501.01876](http://arxiv.org/abs/2501.01876)|**[link](https://github.com/ideas-labo/model-impact)**|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
@@ -4179,7 +4179,7 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## MPC
 
@@ -4289,7 +4289,7 @@
 |**2024-12-19**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/abs/2412.14984)|null|
 |**2024-12-19**|**Efficient Motion Sickness Assessment: Recreation of On-Road Driving on a Compact Test Track**|Huseyin Harmankaya et.al.|[2412.14982](http://arxiv.org/abs/2412.14982)|null|
-|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|**[link](https://github.com/ml-research/answersetnetworks)**|
 |**2024-12-19**|**Testing anisotropic Hubble expansion**|Paula Boubel et.al.|[2412.14607](http://arxiv.org/abs/2412.14607)|null|
 |**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
 |**2024-12-19**|**High-Accuracy Model Predictive Control with Inverse Hysteresis for High-Speed Trajectory Tracking of Piezoelectric Fast Steering Mirror**|Sen Yang et.al.|[2412.14511](http://arxiv.org/abs/2412.14511)|null|
@@ -4344,7 +4344,7 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## statistic
 
@@ -4501,7 +4501,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
