@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Parton distributions confront LHC Run II data: a quantitative appraisal**|Amedeo Chiefa et.al.|[2501.10359](http://arxiv.org/abs/2501.10359)|null|
+|**2025-01-17**|**Photonic chiral state transfer near the Liouvillian exceptional point**|Huixia Gao et.al.|[2501.10349](http://arxiv.org/abs/2501.10349)|null|
+|**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
+|**2025-01-17**|**3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results**|Benjamin Kiefer et.al.|[2501.10343](http://arxiv.org/abs/2501.10343)|null|
+|**2025-01-17**|**Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in Immersive Environments**|Dongyun Han et.al.|[2501.10338](http://arxiv.org/abs/2501.10338)|null|
+|**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
+|**2025-01-17**|**Quantifying Argon Concentration within Insulating Glass Units using Low Frequency Ultrasonic Technique**|Hamed Khaleghi et.al.|[2501.10317](http://arxiv.org/abs/2501.10317)|null|
+|**2025-01-17**|**Hopper flows of dense suspensions: a 2D microfluidic model system**|Lars Kool et.al.|[2501.10308](http://arxiv.org/abs/2501.10308)|null|
+|**2025-01-17**|**Micro-Macro Decomposition of Particle Swarm Optimization Methods**|Michael Herty et.al.|[2501.10306](http://arxiv.org/abs/2501.10306)|null|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
 |**2025-01-16**|**FAST: Efficient Action Tokenization for Vision-Language-Action Models**|Karl Pertsch et.al.|[2501.09747](http://arxiv.org/abs/2501.09747)|null|
 |**2025-01-16**|**Active contacts create controllable friction**|Rohan Shah et.al.|[2501.09746](http://arxiv.org/abs/2501.09746)|null|
 |**2025-01-16**|**Tensor-based Dinkelbach method for computing generalized tensor eigenvalues and its applications**|Haibin Chen et.al.|[2501.09735](http://arxiv.org/abs/2501.09735)|null|
@@ -4160,6 +4170,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results**|Benjamin Kiefer et.al.|[2501.10343](http://arxiv.org/abs/2501.10343)|null|
+|**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
+|**2025-01-17**|**Actively Coupled Sensor Configuration and Planning in Unknown Dynamic Environments**|Prakash Poudel et.al.|[2501.10236](http://arxiv.org/abs/2501.10236)|null|
+|**2025-01-17**|**Streaming Graph Algorithms in the Massively Parallel Computation Model**|Artur Czumaj et.al.|[2501.10230](http://arxiv.org/abs/2501.10230)|null|
+|**2025-01-17**|**Adaptive Attack Mitigation for IoV Flood Attacks**|Erol Gelenbe et.al.|[2501.10224](http://arxiv.org/abs/2501.10224)|null|
+|**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
+|**2025-01-17**|**Tethered Variable Inertial Attitude Control Mechanisms through a Modular Jumping Limbed Robot**|Yusuke Tanaka et.al.|[2501.10156](http://arxiv.org/abs/2501.10156)|null|
+|**2025-01-17**|**Enhancing UAV Path Planning Efficiency Through Accelerated Learning**|Joseanne Viana et.al.|[2501.10141](http://arxiv.org/abs/2501.10141)|null|
+|**2025-01-17**|**Decomposition and Quantification of SOTIF Requirements for Perception Systems of Autonomous Vehicles**|Ruilin Yu et.al.|[2501.10097](http://arxiv.org/abs/2501.10097)|null|
+|**2025-01-17**|**A Comprehensive Insights into Drones: History, Classification, Architecture, Navigation, Applications, Challenges, and Future Trends**|Ruchita Singh et.al.|[2501.10066](http://arxiv.org/abs/2501.10066)|null|
 |**2025-01-16**|**Velocity fields and turbulence from cosmic filaments to galaxy clusters**|Théo Lebeau et.al.|[2501.09573](http://arxiv.org/abs/2501.09573)|null|
 |**2025-01-16**|**On a Variant of the Minimum Path Cover Problem in Acyclic Digraphs: Computational Complexity Results and Exact Method**|Nour ElHouda Tellache et.al.|[2501.09560](http://arxiv.org/abs/2501.09560)|null|
 |**2025-01-16**|**WALLABY Pilot Survey & ASymba: Comparing HI Detection Asymmetries to the SIMBA Simulation**|Mathieu Perron-Cormier et.al.|[2501.09547](http://arxiv.org/abs/2501.09547)|null|
@@ -4323,6 +4343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Exploring the Standard Model and Beyond from the Evidence of CE $ν$ NS with Reactor Antineutrinos in CONUS+**|M. Alpízar-Venegas et.al.|[2501.10355](http://arxiv.org/abs/2501.10355)|null|
+|**2025-01-17**|**3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results**|Benjamin Kiefer et.al.|[2501.10343](http://arxiv.org/abs/2501.10343)|null|
+|**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
+|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339](http://arxiv.org/abs/2501.10339)|null|
+|**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
+|**2025-01-17**|**Calibration of the Polarimetric GNSS-R Sensor in the Rongowai Mission**|Dinan Bai et.al.|[2501.10334](http://arxiv.org/abs/2501.10334)|null|
+|**2025-01-17**|**Hopper flows of dense suspensions: a 2D microfluidic model system**|Lars Kool et.al.|[2501.10308](http://arxiv.org/abs/2501.10308)|null|
+|**2025-01-17**|**Martingale Approach to Gambler's Ruin Problem for Correlated Random Walks**|Vladimir Pozdnyakov et.al.|[2501.10302](http://arxiv.org/abs/2501.10302)|null|
+|**2025-01-17**|**Investigation of Polymer Association Behaviors in Solvents Using a Coarse-Grained Model**|Xiangyu Zhang et.al.|[2501.10286](http://arxiv.org/abs/2501.10286)|null|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
 |**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
