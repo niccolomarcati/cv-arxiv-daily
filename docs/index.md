@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
+|**2025-01-23**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante et.al.|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|null|
+|**2025-01-23**|**Forbidden Induced Subgraphs for Bounded Shrub-Depth and the Expressive Power of MSO**|Nikolas Mählmann et.al.|[2501.13903](http://arxiv.org/abs/2501.13903)|null|
+|**2025-01-23**|**Federated Granger Causality Learning for Interdependent Clients with State Space Representation**|Ayush Mohanty et.al.|[2501.13890](http://arxiv.org/abs/2501.13890)|null|
+|**2025-01-23**|**Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves**|Abhishek Tandon et.al.|[2501.13889](http://arxiv.org/abs/2501.13889)|**[link](https://github.com/abhishektandon/bspline-fc)**|
+|**2025-01-23**|**On the Almost Sure Convergence of the Stochastic Three Points Algorithm**|Taha El Bakkali El Kadi And Omar Saadi et.al.|[2501.13886](http://arxiv.org/abs/2501.13886)|null|
+|**2025-01-23**|**Quantum model reduction for continuous-time quantum filters**|Tommaso Grigoletto et.al.|[2501.13885](http://arxiv.org/abs/2501.13885)|null|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**|Yilun Zhao et.al.|[2501.12380](http://arxiv.org/abs/2501.12380)|**[link](https://github.com/yale-nlp/mmvu)**|
@@ -4180,6 +4190,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
+|**2025-01-23**|**A Multi-stage Optimisation Approach to Design Relocation Strategies in One-way Car-sharing Systems with Stackable Cars**|Riccardo Iacobucci et.al.|[2501.13843](http://arxiv.org/abs/2501.13843)|null|
+|**2025-01-23**|**Temporal Logic Guided Safe Navigation for Autonomous Vehicles**|Aditya Parameshwaran et.al.|[2501.13817](http://arxiv.org/abs/2501.13817)|null|
+|**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
+|**2025-01-23**|**Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**|Lu Wang et.al.|[2501.13563](http://arxiv.org/abs/2501.13563)|null|
+|**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
+|**2025-01-23**|**What is Inside the Double-Double Structure of the Radio Galaxy J0028+0035?**|S. Frey et.al.|[2501.13523](http://arxiv.org/abs/2501.13523)|null|
+|**2025-01-23**|**Deep Multi-modal Neural Receiver for 6G Vehicular Communication**|Osama Saleem et.al.|[2501.13464](http://arxiv.org/abs/2501.13464)|null|
+|**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
+|**2025-01-23**|**BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch**|Yulong Hu et.al.|[2501.13448](http://arxiv.org/abs/2501.13448)|null|
 |**2025-01-21**|**Light commodity devices for building vehicular ad hoc networks: An experimental study**|Jamal Toutouh et.al.|[2501.12317](http://arxiv.org/abs/2501.12317)|null|
 |**2025-01-21**|**QoS-Aware Radio Access Technology (RAT) Selection in Hybrid Vehicular Networks**|Zeeshan Hameed Mir et.al.|[2501.12304](http://arxiv.org/abs/2501.12304)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
@@ -4363,6 +4383,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Exponentially slow thermalization in 1D fragmented dynamics**|Cheng Wang et.al.|[2501.13930](http://arxiv.org/abs/2501.13930)|null|
+|**2025-01-23**|**HD 206893 B at High Spectral Resolution with the Keck Planet Imager and Characterizer (KPIC)**|Ben Sappey et.al.|[2501.13917](http://arxiv.org/abs/2501.13917)|null|
+|**2025-01-23**|**Optimizing Portfolios with Pakistan-Exposed ETFs: Risk and Performance Insight**|Ali Jaffri et.al.|[2501.13901](http://arxiv.org/abs/2501.13901)|null|
+|**2025-01-23**|**The simplest 2D quantum walk detects chaoticity**|C. Alonso-Lobo et.al.|[2501.13900](http://arxiv.org/abs/2501.13900)|null|
+|**2025-01-23**|**Multimodal Sensor Dataset for Monitoring Older Adults Post Lower-Limb Fractures in Community Settings**|Ali Abedi et.al.|[2501.13888](http://arxiv.org/abs/2501.13888)|null|
+|**2025-01-23**|**Finite mixture representations of zero-&- $N$ -inflated distributions for count-compositional data**|André F. B. Menezes et.al.|[2501.13879](http://arxiv.org/abs/2501.13879)|null|
+|**2025-01-23**|**Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**|I. G. Marchenko et.al.|[2501.13875](http://arxiv.org/abs/2501.13875)|null|
+|**2025-01-23**|**Exploring Various Dark Matter Halo Profiles in Milky Way and Andromeda Galaxies within the Framework of Standard Cosmology**|Darshan Kumar et.al.|[2501.13861](http://arxiv.org/abs/2501.13861)|null|
+|**2025-01-23**|**Can effective descriptions of bosonic systems be considered complete?**|Francesco Arzani et.al.|[2501.13857](http://arxiv.org/abs/2501.13857)|null|
+|**2025-01-23**|**Identifying and Mitigating Machine Learning Biases for the Gravitational-wave Detection Problem**|Narenraju Nagarajan et.al.|[2501.13846](http://arxiv.org/abs/2501.13846)|null|
 |**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391](http://arxiv.org/abs/2501.12391)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
 |**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
 |**2025-01-21**|**Measured Hockey-Stick Divergence and its Applications to Quantum Pufferfish Privacy**|Theshani Nuradha et.al.|[2501.12359](http://arxiv.org/abs/2501.12359)|null|
