@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4001,7 +4001,7 @@ layout: default
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
 |**2025-01-23**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante et.al.|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
-|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|**[link](https://github.com/davidzwz/cde-cf)**|
 |**2025-01-23**|**Forbidden Induced Subgraphs for Bounded Shrub-Depth and the Expressive Power of MSO**|Nikolas Mählmann et.al.|[2501.13903](http://arxiv.org/abs/2501.13903)|null|
 |**2025-01-23**|**Federated Granger Causality Learning for Interdependent Clients with State Space Representation**|Ayush Mohanty et.al.|[2501.13890](http://arxiv.org/abs/2501.13890)|null|
 |**2025-01-23**|**Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves**|Abhishek Tandon et.al.|[2501.13889](http://arxiv.org/abs/2501.13889)|**[link](https://github.com/abhishektandon/bspline-fc)**|
