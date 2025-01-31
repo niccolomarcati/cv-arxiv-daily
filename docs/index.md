@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**PIETOOLS 2024: User Manual**|Sachin Shivakumar et.al.|[2501.17854](http://arxiv.org/abs/2501.17854)|null|
+|**2025-01-29**|**UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR Control Strategy and Recursive Guidance System**|Zhizun Xu et.al.|[2501.17851](http://arxiv.org/abs/2501.17851)|null|
+|**2025-01-29**|**Self-organised dynamics and emergent shape spaces of active isotropic fluid surfaces**|Da Gao et.al.|[2501.17849](http://arxiv.org/abs/2501.17849)|null|
+|**2025-01-29**|**IRONMAP: Iron Network Mapping and Analysis Protocol for Detecting Over-Time Brain Iron Abnormalities in Neurological Disease**|Jack A. Reeves et.al.|[2501.17838](http://arxiv.org/abs/2501.17838)|null|
+|**2025-01-29**|**An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data**|Sky Qiu et.al.|[2501.17835](http://arxiv.org/abs/2501.17835)|null|
+|**2025-01-29**|**Quantum oscillations in a dipolar excitonic insulator**|Phuong X. Nguyen et.al.|[2501.17829](http://arxiv.org/abs/2501.17829)|null|
+|**2025-01-29**|**Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**|Haque Ishfaq et.al.|[2501.17827](http://arxiv.org/abs/2501.17827)|null|
+|**2025-01-29**|**A trilinear quantum dot architecture for semiconductor spin qubits**|R. Li et.al.|[2501.17814](http://arxiv.org/abs/2501.17814)|null|
+|**2025-01-29**|**Replacing the Gallium Oxide Shell with Conductive Ag: Toward a Printable and Recyclable Composite for Highly Stretchable Electronics, Electromagnetic Shielding, and Thermal Interfaces**|Abdollah Hajalilou et.al.|[2501.17808](http://arxiv.org/abs/2501.17808)|null|
+|**2025-01-29**|**Recyclable Thin-Film Soft Electronics for Smart Packaging and E-Skins**|Manuel Reis Carneiro et.al.|[2501.17804](http://arxiv.org/abs/2501.17804)|null|
 |**2025-01-27**|**Weak-emission-line quasars: A new clue from their optical variability**|Ritish Kumar et.al.|[2501.16328](http://arxiv.org/abs/2501.16328)|null|
 |**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
 |**2025-01-27**|**Implicit Bias in Matrix Factorization and its Explicit Realization in a New Architecture**|Yikun Hou et.al.|[2501.16322](http://arxiv.org/abs/2501.16322)|null|
@@ -4200,6 +4210,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR Control Strategy and Recursive Guidance System**|Zhizun Xu et.al.|[2501.17851](http://arxiv.org/abs/2501.17851)|null|
+|**2025-01-29**|**SMT-Boosted Security Types for Low-Level MPC**|Christian Skalka et.al.|[2501.17824](http://arxiv.org/abs/2501.17824)|null|
+|**2025-01-29**|**Predictive Beamforming with Distributed MIMO**|Hasret Taha Akçalı et.al.|[2501.17746](http://arxiv.org/abs/2501.17746)|null|
+|**2025-01-29**|**Automated Repair of Cyber-Physical Systems**|Pablo Valle et.al.|[2501.17678](http://arxiv.org/abs/2501.17678)|null|
+|**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[2501.17664](http://arxiv.org/abs/2501.17664)|null|
+|**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653](http://arxiv.org/abs/2501.17653)|null|
+|**2025-01-29**|**Economic Nonlinear Model Predictive Control of Prosumer District Heating Networks: The Extended Version**|Max Sibeijn et.al.|[2501.17597](http://arxiv.org/abs/2501.17597)|null|
+|**2025-01-29**|**Coalitional Control: Cooperative game theory and control**|Filiberto Fele et.al.|[2501.17582](http://arxiv.org/abs/2501.17582)|null|
+|**2025-01-29**|**HI Intensity Mapping with the MIGHTEE Survey: First Results of the HI Power Spectrum**|Aishrila Mazumder et.al.|[2501.17564](http://arxiv.org/abs/2501.17564)|null|
+|**2025-01-29**|**Coalitional model predictive control of an irrigation canal**|Filiberto Fele et.al.|[2501.17561](http://arxiv.org/abs/2501.17561)|null|
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
 |**2025-01-27**|**Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**|Arsalan Ali Malik et.al.|[2501.16217](http://arxiv.org/abs/2501.16217)|null|
 |**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212](http://arxiv.org/abs/2501.16212)|null|
@@ -4403,6 +4423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Holographic Fluctuation-Dissipation Relations in Finite Density Systems**|Shivam K. Sharma et.al.|[2501.17852](http://arxiv.org/abs/2501.17852)|null|
+|**2025-01-29**|**Implications of the first CONUS+ measurement of coherent elastic neutrino-nucleus scattering**|Valentina De Romeri et.al.|[2501.17843](http://arxiv.org/abs/2501.17843)|null|
+|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
+|**2025-01-29**|**A machine-learning study of phase transitions in Ising, Blume-Capel, and Ising-metamagnet models**|Vasanth Kumar Babu et.al.|[2501.17815](http://arxiv.org/abs/2501.17815)|null|
+|**2025-01-29**|**Domino Tilings, Domino Shuffling, and the Nabla Operator**|Ian Cavey et.al.|[2501.17765](http://arxiv.org/abs/2501.17765)|null|
+|**2025-01-29**|**Glioma Multimodal MRI Analysis System for Tumor Layered Diagnosis via Multi-task Semi-supervised Learning**|Yihao Liu et.al.|[2501.17758](http://arxiv.org/abs/2501.17758)|null|
+|**2025-01-29**|**Feasibility of true muonium observation in Belle-II existing dataset**|Ruben Gargiulo et.al.|[2501.17753](http://arxiv.org/abs/2501.17753)|null|
+|**2025-01-29**|**Dynamics of Transient Structure in In-Context Linear Regression Transformers**|Liam Carroll et.al.|[2501.17745](http://arxiv.org/abs/2501.17745)|null|
+|**2025-01-29**|**A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches**|Ana R. Baião et.al.|[2501.17729](http://arxiv.org/abs/2501.17729)|null|
+|**2025-01-29**|**A Multi-Dimensional Cathodoluminescence Detector with 3D Printed Micro-Optics on a Fiber**|Paul H. Bittorf et.al.|[2501.17723](http://arxiv.org/abs/2501.17723)|null|
 |**2025-01-27**|**Tailored Forecasting from Short Time Series via Meta-learning**|Declan A. Norton et.al.|[2501.16325](http://arxiv.org/abs/2501.16325)|null|
 |**2025-01-27**|**A varifold-type estimation for data sampled on a rectifiable set**|Blanche Buet et.al.|[2501.16315](http://arxiv.org/abs/2501.16315)|null|
 |**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
