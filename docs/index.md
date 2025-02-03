@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4225,7 +4225,7 @@ layout: default
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
 |**2025-01-30**|**Battery State of Health Estimation Using LLM Framework**|Aybars Yunusoglu et.al.|[2501.18123](http://arxiv.org/abs/2501.18123)|null|
 |**2025-01-30**|**Statistical Design of Thermal Protection System Using Physics-Informed Neural Network**|Karthik Reddy Lyathakula et.al.|[2501.18078](http://arxiv.org/abs/2501.18078)|null|
-|**2025-01-29**|**Learning Prosumer Behavior in Energy Communities: Integrating Bilevel Programming and Online Learning**|Bennevis Crowley et.al.|[2501.18017](http://arxiv.org/abs/2501.18017)|null|
+|**2025-01-29**|**Learning Prosumer Behavior in Energy Communities: Integrating Bilevel Programming and Online Learning**|Bennevis Crowley et.al.|[2501.18017](http://arxiv.org/abs/2501.18017)|**[link](https://github.com/bewcro/learning-prosumer-behavior)**|
 |**2025-01-29**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
 |**2025-01-29**|**Testing the local void solution to the Hubble tension using baryon acoustic oscillation measurements over the last twenty years**|Indranil Banik et.al.|[2501.17934](http://arxiv.org/abs/2501.17934)|null|
 |**2025-01-29**|**UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR Control Strategy and Recursive Guidance System**|Zhizun Xu et.al.|[2501.17851](http://arxiv.org/abs/2501.17851)|null|
@@ -4443,11 +4443,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597](http://arxiv.org/abs/2501.18597)|null|
 |**2025-01-30**|**Entropy functionals and equilibrium states in mixed quantum-classical dynamics**|Cesare Tronci et.al.|[2501.18587](http://arxiv.org/abs/2501.18587)|null|
-|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
 |**2025-01-30**|**Derivation of the free energy, entropy and specific heat for planar Ising models: Application to Archimedean lattices and their duals**|Laurent Pierre et.al.|[2501.18569](http://arxiv.org/abs/2501.18569)|null|
 |**2025-01-30**|**Probing topological matter and fermion dynamics on a neutral-atom quantum computer**|Simon J. Evered et.al.|[2501.18554](http://arxiv.org/abs/2501.18554)|null|
 |**2025-01-30**|**The No-Underrun Sampler: A Locally-Adaptive, Gradient-Free MCMC Method**|Nawaf Bou-Rabee et.al.|[2501.18548](http://arxiv.org/abs/2501.18548)|null|
-|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-30**|**Optimal generalisation and learning transition in extensive-width shallow neural networks near interpolation**|Jean Barbier et.al.|[2501.18530](http://arxiv.org/abs/2501.18530)|null|
 |**2025-01-30**|**Deep learning with reflection high-energy electron diffraction images to predict cation ratio in Sr $_x$Ti$_{1-x}$ O3 thin films**|Sumner B. Harris et.al.|[2501.18523](http://arxiv.org/abs/2501.18523)|null|
 |**2025-01-30**|**One-Bit Distributed Mean Estimation with Unknown Variance**|Ritesh Kumar et.al.|[2501.18502](http://arxiv.org/abs/2501.18502)|null|
