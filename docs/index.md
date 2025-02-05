@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|**[link](https://github.com/mustafakarabag/llmchameleon)**|
+|**2025-02-03**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393](http://arxiv.org/abs/2501.19393)|**[link](https://github.com/simplescaling/s1)**|
+|**2025-01-31**|**Perceptive Mixed-Integer Footstep Control for Underactuated Bipedal Walking on Rough Terrain**|Brian Acosta et.al.|[2501.19391](http://arxiv.org/abs/2501.19391)|null|
+|**2025-01-31**|**From a Frequency-Domain Willems' Lemma to Data-Driven Predictive Control**|T. J. Meijer et.al.|[2501.19390](http://arxiv.org/abs/2501.19390)|null|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
+|**2025-01-31**|**Global and local approaches for the minimization of a sum of pointwise minima of convex functions**|Guillaume Van Dessel et.al.|[2501.19372](http://arxiv.org/abs/2501.19372)|null|
+|**2025-01-31**|**Greedy Stein Variational Gradient Descent: An algorithmic approach for wave prospection problems**|Jose L. Varona-Santana et.al.|[2501.19370](http://arxiv.org/abs/2501.19370)|null|
+|**2025-01-31**|**We're Different, We're the Same: Creative Homogeneity Across LLMs**|Emily Wenger et.al.|[2501.19361](http://arxiv.org/abs/2501.19361)|null|
+|**2025-01-31**|**Carefree multiple testing with e-processes**|Yury Tavyrikov et.al.|[2501.19360](http://arxiv.org/abs/2501.19360)|null|
+|**2025-01-31**|**PUATE: Semiparametric Efficient Average Treatment Effect Estimation from Treated (Positive) and Unlabeled Units**|Masahiro Kato et.al.|[2501.19345](http://arxiv.org/abs/2501.19345)|null|
 |**2025-01-30**|**Singlet-only Always-on Gapless Exchange Qubits with Baseband Control**|Nathan L. Foulk et.al.|[2501.18589](http://arxiv.org/abs/2501.18589)|null|
 |**2025-01-30**|**Reducing Simulation Effort for RIS Optimization using an Efficient Far-Field Approximation**|Hans-Dieter Lang et.al.|[2501.18583](http://arxiv.org/abs/2501.18583)|null|
 |**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579](http://arxiv.org/abs/2501.18579)|null|
@@ -4220,6 +4230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Unveiling the largest structures in the nearby Universe: Discovery of the Quipu superstructure**|Hans Boehringer et.al.|[2501.19236](http://arxiv.org/abs/2501.19236)|null|
+|**2025-01-31**|**Learning While Repositioning in On-Demand Vehicle Sharing Networks**|Hansheng Jiang et.al.|[2501.19208](http://arxiv.org/abs/2501.19208)|null|
+|**2025-01-31**|**Secured Communication Schemes for UAVs in 5G: CRYSTALS-Kyber and IDS**|Taneya Sharma et.al.|[2501.19191](http://arxiv.org/abs/2501.19191)|**[link](https://github.com/taneya1987/crystals-kyber-and-ids)**|
+|**2025-01-31**|**It's not $σ_8$ : constraining the non-linear matter power spectrum with the Dark Energy Survey Year-5 supernova sample**|Paul Shah et.al.|[2501.19117](http://arxiv.org/abs/2501.19117)|null|
+|**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[2501.19070](http://arxiv.org/abs/2501.19070)|null|
+|**2025-01-31**|**Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic**|Shiyu Fang et.al.|[2501.19025](http://arxiv.org/abs/2501.19025)|null|
+|**2025-01-31**|**A heuristic for the deployment of collecting routes for urban recycle stations (eco-points)**|Guido Marseglia et.al.|[2501.19007](http://arxiv.org/abs/2501.19007)|null|
+|**2025-01-31**|**Bilevel optimization for the deployment of refuelling stations for electric vehicles on road networks**|Ramón Piedra-de-la-Cuadra et.al.|[2501.19000](http://arxiv.org/abs/2501.19000)|null|
+|**2025-01-31**|**Assessing the effectiveness of park-and-ride facilities on multimodal networks in smart cities**|Juan A Mesa et.al.|[2501.18999](http://arxiv.org/abs/2501.18999)|null|
+|**2025-01-31**|**Minimum Time Strategies for a Differential Drive Robot Escaping from a Circular Detection Region**|Ubaldo Ruiz et.al.|[2501.18899](http://arxiv.org/abs/2501.18899)|null|
 |**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579](http://arxiv.org/abs/2501.18579)|null|
 |**2025-01-30**|**Constraints on Baryon Density from the Effective Optical Depth of High-Redshift Quasars**|Wen-Fei Liu et.al.|[2501.18182](http://arxiv.org/abs/2501.18182)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
@@ -4441,6 +4461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Using gradient of Lagrangian function to compute efficient channels for the ideal observer**|Weimin Zhou et.al.|[2501.19381](http://arxiv.org/abs/2501.19381)|null|
+|**2025-01-31**|**Turbulence: A Nonequilibrium Field Theory**|Mahendra Verma et.al.|[2501.19367](http://arxiv.org/abs/2501.19367)|null|
+|**2025-01-31**|**Carefree multiple testing with e-processes**|Yury Tavyrikov et.al.|[2501.19360](http://arxiv.org/abs/2501.19360)|null|
+|**2025-01-31**|**Addressing the correlation of Stokes-shifted photons emitted from two quantum emitters**|Adrián Juan-Delgado et.al.|[2501.19356](http://arxiv.org/abs/2501.19356)|null|
+|**2025-01-31**|**Neural Implicit Solution Formula for Efficiently Solving Hamilton-Jacobi Equations**|Yesom Park et.al.|[2501.19351](http://arxiv.org/abs/2501.19351)|null|
+|**2025-01-31**|**PUATE: Semiparametric Efficient Average Treatment Effect Estimation from Treated (Positive) and Unlabeled Units**|Masahiro Kato et.al.|[2501.19345](http://arxiv.org/abs/2501.19345)|null|
+|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|
+|**2025-02-03**|**What is causal about causal models and representations?**|Frederik Hytting Jørgensen et.al.|[2501.19335](http://arxiv.org/abs/2501.19335)|null|
+|**2025-01-31**|**Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys**|Ankit Kumar et.al.|[2501.19327](http://arxiv.org/abs/2501.19327)|null|
+|**2025-01-31**|**A Generic Hybrid Framework for 2D Visual Reconstruction**|Daniel Rika et.al.|[2501.19325](http://arxiv.org/abs/2501.19325)|null|
 |**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597](http://arxiv.org/abs/2501.18597)|null|
 |**2025-01-30**|**Entropy functionals and equilibrium states in mixed quantum-classical dynamics**|Cesare Tronci et.al.|[2501.18587](http://arxiv.org/abs/2501.18587)|null|
 |**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
