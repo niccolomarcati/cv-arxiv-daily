@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Observation of a dynamic magneto-chiral instability in photoexcited tellurium**|Yijing Huang et.al.|[2502.05170](http://arxiv.org/abs/2502.05170)|null|
+|**2025-02-07**|**Multitwine: Multi-Object Compositing with Text and Layout Control**|Gemma Canet Tarrés et.al.|[2502.05165](http://arxiv.org/abs/2502.05165)|null|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161](http://arxiv.org/abs/2502.05161)|null|
+|**2025-02-07**|**Extreme-Scale EV Charging Infrastructure Planning for Last-Mile Delivery Using High-Performance Parallel Computing**|Waquar Kaleem et.al.|[2502.05152](http://arxiv.org/abs/2502.05152)|null|
+|**2025-02-07**|**Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons**|Marcello Carioni et.al.|[2502.05149](http://arxiv.org/abs/2502.05149)|null|
+|**2025-02-07**|**Optimizing Wireless Resource Management and Synchronization in Digital Twin Networks**|Hanzhi Yu et.al.|[2502.05116](http://arxiv.org/abs/2502.05116)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Hands vs. Controllers: Comparing User Interactions in Virtual Reality Shopping Environments**|Francesco Vona et.al.|[2502.05100](http://arxiv.org/abs/2502.05100)|null|
+|**2025-02-07**|**Experimental validation of boson sampling using detector binning**|Malaquias Correa Anguita et.al.|[2502.05093](http://arxiv.org/abs/2502.05093)|null|
+|**2025-02-07**|**Nonlinear manifold approximation using compositional polynomial networks**|Antoine Bensalah et.al.|[2502.05088](http://arxiv.org/abs/2502.05088)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
 |**2025-02-06**|**Value-Based Deep RL Scales Predictably**|Oleh Rybkin et.al.|[2502.04327](http://arxiv.org/abs/2502.04327)|null|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
@@ -4269,12 +4279,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161](http://arxiv.org/abs/2502.05161)|null|
+|**2025-02-07**|**Extreme-Scale EV Charging Infrastructure Planning for Last-Mile Delivery Using High-Performance Parallel Computing**|Waquar Kaleem et.al.|[2502.05152](http://arxiv.org/abs/2502.05152)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069](http://arxiv.org/abs/2502.05069)|null|
+|**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[2502.05040](http://arxiv.org/abs/2502.05040)|null|
+|**2025-02-07**|**FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy**|David Čapek et.al.|[2502.05038](http://arxiv.org/abs/2502.05038)|null|
+|**2025-02-07**|**Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits**|Yuri Shimane et.al.|[2502.05013](http://arxiv.org/abs/2502.05013)|null|
+|**2025-02-07**|**Terahertz Integrated Sensing and Communication-Empowered UAVs in 6G: A Transceiver Design Perspective**|Ruoyu Zhang et.al.|[2502.04877](http://arxiv.org/abs/2502.04877)|null|
+|**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874](http://arxiv.org/abs/2502.04874)|null|
+|**2025-02-07**|**UAV-Based Cell-Free Massive MIMO: Joint Placement and Power Optimization under Fronthaul Capacity Limitations**|Neetu R. R et.al.|[2502.04846](http://arxiv.org/abs/2502.04846)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
@@ -4522,12 +4542,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Observation of a dynamic magneto-chiral instability in photoexcited tellurium**|Yijing Huang et.al.|[2502.05170](http://arxiv.org/abs/2502.05170)|null|
+|**2025-02-07**|**Deep Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2502.05155](http://arxiv.org/abs/2502.05155)|null|
+|**2025-02-07**|**Information-Theoretic Guarantees for Recovering Low-Rank Tensors from Symmetric Rank-One Measurements**|Eren C. Kızıldağ et.al.|[2502.05134](http://arxiv.org/abs/2502.05134)|null|
+|**2025-02-07**|**Fluctuation thermometry of an atom-resolved quantum gas: Beyond the fluctuation-dissipation theorem**|Maxime Dixmerias et.al.|[2502.05132](http://arxiv.org/abs/2502.05132)|null|
+|**2025-02-07**|**SpecTUS: Spectral Translator for Unknown Structures annotation from EI-MS spectra**|Adam Hájek et.al.|[2502.05114](http://arxiv.org/abs/2502.05114)|null|
+|**2025-02-07**|**Disentangling the Effects of Curvature and Misorientation on the Shrinkage Behavior of Loop-Shaped Grain Boundaries**|Fabrizio Camerin et.al.|[2502.05112](http://arxiv.org/abs/2502.05112)|null|
+|**2025-02-07**|**Towards Emotionally Intelligent Software Engineers: Understanding Students' Self-Perceptions After a Cooperative Learning Experience**|Allysson Allex Araújo et.al.|[2502.05108](http://arxiv.org/abs/2502.05108)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Dirac's variational approach to semiclassical Kramers problem in Smoluchowski limit**|Choon-Lin Ho et.al.|[2502.05079](http://arxiv.org/abs/2502.05079)|null|
+|**2025-02-07**|**Noise Sensitivity of Hierarchical Functions and Deep Learning Lower Bounds in General Product Measures**|Rupert Li et.al.|[2502.05073](http://arxiv.org/abs/2502.05073)|null|
 |**2025-02-06**|**Non-unitary time dynamics of topological modes in open planar quantum systems**|Saakshi Porwal et.al.|[2502.04325](http://arxiv.org/abs/2502.04325)|null|
 |**2025-02-06**|**The Uniformly Rotated Mondrian Kernel**|Calvin Osborne et.al.|[2502.04323](http://arxiv.org/abs/2502.04323)|**[link](https://github.com/COsborne25/uniformly-rotated-mondrian-kernel)**|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
@@ -4769,7 +4799,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

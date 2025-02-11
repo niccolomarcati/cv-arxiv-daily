@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Observation of a dynamic magneto-chiral instability in photoexcited tellurium**|Yijing Huang et.al.|[2502.05170](http://arxiv.org/abs/2502.05170)|null|
+|**2025-02-07**|**Multitwine: Multi-Object Compositing with Text and Layout Control**|Gemma Canet Tarrés et.al.|[2502.05165](http://arxiv.org/abs/2502.05165)|null|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161](http://arxiv.org/abs/2502.05161)|null|
+|**2025-02-07**|**Extreme-Scale EV Charging Infrastructure Planning for Last-Mile Delivery Using High-Performance Parallel Computing**|Waquar Kaleem et.al.|[2502.05152](http://arxiv.org/abs/2502.05152)|null|
+|**2025-02-07**|**Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons**|Marcello Carioni et.al.|[2502.05149](http://arxiv.org/abs/2502.05149)|null|
+|**2025-02-07**|**Optimizing Wireless Resource Management and Synchronization in Digital Twin Networks**|Hanzhi Yu et.al.|[2502.05116](http://arxiv.org/abs/2502.05116)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Hands vs. Controllers: Comparing User Interactions in Virtual Reality Shopping Environments**|Francesco Vona et.al.|[2502.05100](http://arxiv.org/abs/2502.05100)|null|
+|**2025-02-07**|**Experimental validation of boson sampling using detector binning**|Malaquias Correa Anguita et.al.|[2502.05093](http://arxiv.org/abs/2502.05093)|null|
+|**2025-02-07**|**Nonlinear manifold approximation using compositional polynomial networks**|Antoine Bensalah et.al.|[2502.05088](http://arxiv.org/abs/2502.05088)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
 |**2025-02-06**|**Value-Based Deep RL Scales Predictably**|Oleh Rybkin et.al.|[2502.04327](http://arxiv.org/abs/2502.04327)|null|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
@@ -4250,6 +4260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161](http://arxiv.org/abs/2502.05161)|null|
+|**2025-02-07**|**Extreme-Scale EV Charging Infrastructure Planning for Last-Mile Delivery Using High-Performance Parallel Computing**|Waquar Kaleem et.al.|[2502.05152](http://arxiv.org/abs/2502.05152)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069](http://arxiv.org/abs/2502.05069)|null|
+|**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[2502.05040](http://arxiv.org/abs/2502.05040)|null|
+|**2025-02-07**|**FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy**|David Čapek et.al.|[2502.05038](http://arxiv.org/abs/2502.05038)|null|
+|**2025-02-07**|**Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits**|Yuri Shimane et.al.|[2502.05013](http://arxiv.org/abs/2502.05013)|null|
+|**2025-02-07**|**Terahertz Integrated Sensing and Communication-Empowered UAVs in 6G: A Transceiver Design Perspective**|Ruoyu Zhang et.al.|[2502.04877](http://arxiv.org/abs/2502.04877)|null|
+|**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874](http://arxiv.org/abs/2502.04874)|null|
+|**2025-02-07**|**UAV-Based Cell-Free Massive MIMO: Joint Placement and Power Optimization under Fronthaul Capacity Limitations**|Neetu R. R et.al.|[2502.04846](http://arxiv.org/abs/2502.04846)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
@@ -4501,6 +4521,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Observation of a dynamic magneto-chiral instability in photoexcited tellurium**|Yijing Huang et.al.|[2502.05170](http://arxiv.org/abs/2502.05170)|null|
+|**2025-02-07**|**Deep Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2502.05155](http://arxiv.org/abs/2502.05155)|null|
+|**2025-02-07**|**Information-Theoretic Guarantees for Recovering Low-Rank Tensors from Symmetric Rank-One Measurements**|Eren C. Kızıldağ et.al.|[2502.05134](http://arxiv.org/abs/2502.05134)|null|
+|**2025-02-07**|**Fluctuation thermometry of an atom-resolved quantum gas: Beyond the fluctuation-dissipation theorem**|Maxime Dixmerias et.al.|[2502.05132](http://arxiv.org/abs/2502.05132)|null|
+|**2025-02-07**|**SpecTUS: Spectral Translator for Unknown Structures annotation from EI-MS spectra**|Adam Hájek et.al.|[2502.05114](http://arxiv.org/abs/2502.05114)|null|
+|**2025-02-07**|**Disentangling the Effects of Curvature and Misorientation on the Shrinkage Behavior of Loop-Shaped Grain Boundaries**|Fabrizio Camerin et.al.|[2502.05112](http://arxiv.org/abs/2502.05112)|null|
+|**2025-02-07**|**Towards Emotionally Intelligent Software Engineers: Understanding Students' Self-Perceptions After a Cooperative Learning Experience**|Allysson Allex Araújo et.al.|[2502.05108](http://arxiv.org/abs/2502.05108)|null|
+|**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
+|**2025-02-07**|**Dirac's variational approach to semiclassical Kramers problem in Smoluchowski limit**|Choon-Lin Ho et.al.|[2502.05079](http://arxiv.org/abs/2502.05079)|null|
+|**2025-02-07**|**Noise Sensitivity of Hierarchical Functions and Deep Learning Lower Bounds in General Product Measures**|Rupert Li et.al.|[2502.05073](http://arxiv.org/abs/2502.05073)|null|
 |**2025-02-06**|**Non-unitary time dynamics of topological modes in open planar quantum systems**|Saakshi Porwal et.al.|[2502.04325](http://arxiv.org/abs/2502.04325)|null|
 |**2025-02-06**|**The Uniformly Rotated Mondrian Kernel**|Calvin Osborne et.al.|[2502.04323](http://arxiv.org/abs/2502.04323)|**[link](https://github.com/COsborne25/uniformly-rotated-mondrian-kernel)**|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
