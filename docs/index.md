@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
+|**2025-02-17**|**VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution**|Chendong Wang et.al.|[2502.12151](http://arxiv.org/abs/2502.12151)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Personal Danger Signals Reprocessing: New Online Group Intervention for Chronic Pain**|Carmit Himmelblau Gat et.al.|[2502.12106](http://arxiv.org/abs/2502.12106)|null|
+|**2025-02-17**|**Bandwidth-Adaptive Spatiotemporal Correspondence Identification for Collaborative Perception**|Peng Gao et.al.|[2502.12098](http://arxiv.org/abs/2502.12098)|null|
+|**2025-02-17**|**WeVibe: Weight Change Estimation Through Audio-Induced Shelf Vibrations In Autonomous Stores**|Jiale Zhang et.al.|[2502.12093](http://arxiv.org/abs/2502.12093)|null|
+|**2025-02-17**|**Optimal control in combination therapy for heterogeneous cell populations with drug synergies**|Simon F. Martina-Perez et.al.|[2502.12079](http://arxiv.org/abs/2502.12079)|null|
+|**2025-02-17**|**Translation Mappings of Quasimonotonicity Beyond Smoothness**|Oday Hazaimah et.al.|[2502.12071](http://arxiv.org/abs/2502.12071)|null|
+|**2025-02-17**|**Fractional Sobolev paths on Wasserstein spaces and their energy-minimizing particle representations**|Ehsan Abedi et.al.|[2502.12068](http://arxiv.org/abs/2502.12068)|null|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
 |**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
 |**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
 |**2025-02-13**|**A Data-Driven Method for Microgrid System Identification: Physically Consistent Sparse Identification of Nonlinear Dynamics**|Mohan Du et.al.|[2502.09592](http://arxiv.org/abs/2502.09592)|null|
@@ -4280,6 +4290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Bandwidth-Adaptive Spatiotemporal Correspondence Identification for Collaborative Perception**|Peng Gao et.al.|[2502.12098](http://arxiv.org/abs/2502.12098)|null|
+|**2025-02-17**|**Determination of Hubble constant from Megamaser Cosmology Project using Profile Likelihood**|Shubham Barua et.al.|[2502.11998](http://arxiv.org/abs/2502.11998)|null|
+|**2025-02-17**|**Stonefish: Supporting Machine Learning Research in Marine Robotics**|Michele Grimaldi et.al.|[2502.11887](http://arxiv.org/abs/2502.11887)|null|
+|**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|null|
+|**2025-02-17**|**Residual Learning towards High-fidelity Vehicle Dynamics Modeling with Transformer**|Jinyu Miao et.al.|[2502.11800](http://arxiv.org/abs/2502.11800)|null|
+|**2025-02-17**|**Proactive Depot Discovery: A Generative Framework for Flexible Location-Routing**|Site Qu et.al.|[2502.11715](http://arxiv.org/abs/2502.11715)|null|
+|**2025-02-17**|**On the Locality of the Lovász Local Lemma**|Peter Davies-Peck et.al.|[2502.11690](http://arxiv.org/abs/2502.11690)|null|
+|**2025-02-17**|**An Innovative Brain-Computer Interface Interaction System Based on the Large Language Model**|Jing Jina et.al.|[2502.11659](http://arxiv.org/abs/2502.11659)|null|
+|**2025-02-17**|**Statistical and Deterministic RCS Characterization for ISAC Channel Modeling**|Ali Waqar Azim et.al.|[2502.11540](http://arxiv.org/abs/2502.11540)|null|
+|**2025-02-17**|**Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**|Tong Xu et.al.|[2502.11426](http://arxiv.org/abs/2502.11426)|null|
 |**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
 |**2025-02-13**|**Enhancing Traffic Safety Analysis with Digital Twin Technology: Integrating Vehicle Dynamics and Environmental Factors into Microscopic Traffic Simulation**|Guanhao Xu et.al.|[2502.09561](http://arxiv.org/abs/2502.09561)|null|
 |**2025-02-13**|**Discovery of large-scale radio emission enveloping the mini-halo in the most X-ray luminous galaxy cluster RX~J1347.5-1145**|D. N. Hoang et.al.|[2502.09472](http://arxiv.org/abs/2502.09472)|null|
@@ -4561,6 +4581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy**|Michele Mancarella et.al.|[2502.12156](http://arxiv.org/abs/2502.12156)|null|
+|**2025-02-17**|**Correlative X-ray and electron tomography for scale-bridging, quantitative analysis of complex, hierarchical particle systems**|Alexander Götz et.al.|[2502.12140](http://arxiv.org/abs/2502.12140)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
+|**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
+|**2025-02-17**|**Topology from Nothing**|Jacob R. Taylor et.al.|[2502.12121](http://arxiv.org/abs/2502.12121)|null|
+|**2025-02-17**|**High-dimensional long-range statistical mechanical models have random walk correlation functions**|Yucheng Liu et.al.|[2502.12104](http://arxiv.org/abs/2502.12104)|null|
+|**2025-02-17**|**Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022**|Onur Batın Doğan et.al.|[2502.12099](http://arxiv.org/abs/2502.12099)|null|
+|**2025-02-17**|**Using economic value signals from primate prefrontal cortex in neuro-engineering applications**|Tevin C. Rouse et.al.|[2502.12092](http://arxiv.org/abs/2502.12092)|null|
+|**2025-02-17**|**How compositional generalization and creativity improve as diffusion models are trained**|Alessandro Favero et.al.|[2502.12089](http://arxiv.org/abs/2502.12089)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
 |**2025-02-13**|**Memorization and Generalization in Generative Diffusion under the Manifold Hypothesis**|Beatrice Achilli et.al.|[2502.09578](http://arxiv.org/abs/2502.09578)|null|
