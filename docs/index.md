@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|null|
+|**2025-02-20**|**Taming Recoil Effect in Cavity-Assisted Quantum Interconnects**|Seigo Kikura et.al.|[2502.14859](http://arxiv.org/abs/2502.14859)|null|
+|**2025-02-20**|**On the $H$ -property for Step-graphons: Residual Case**|Wanting Gao et.al.|[2502.14853](http://arxiv.org/abs/2502.14853)|null|
+|**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-02-20**|**Meshless Shape Optimization using Neural Networks and Partial Differential Equations on Graphs**|Eloi Martinet et.al.|[2502.14821](http://arxiv.org/abs/2502.14821)|null|
+|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819](http://arxiv.org/abs/2502.14819)|null|
+|**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[2502.14803](http://arxiv.org/abs/2502.14803)|null|
+|**2025-02-20**|**Entanglement entropy evolution during gravitational collapse**|Alessio Belfiglio et.al.|[2502.14797](http://arxiv.org/abs/2502.14797)|null|
+|**2025-02-20**|**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**|Pengxiang Ding et.al.|[2502.14795](http://arxiv.org/abs/2502.14795)|null|
+|**2025-02-20**|**Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing**|Yoel Levy et.al.|[2502.14789](http://arxiv.org/abs/2502.14789)|null|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
 |**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961](http://arxiv.org/abs/2502.13961)|null|
 |**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951](http://arxiv.org/abs/2502.13951)|null|
@@ -4300,6 +4310,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Building reliable sim driving agents by scaling self-play**|Daphne Cornelisse et.al.|[2502.14706](http://arxiv.org/abs/2502.14706)|null|
+|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|null|
+|**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
+|**2025-02-20**|**Dynamic Preference-based Multi-modal Trip Planning of Public Transport and Shared Mobility**|Yimeng Zhang et.al.|[2502.14528](http://arxiv.org/abs/2502.14528)|null|
+|**2025-02-20**|**A multi-model study of the air pollution related to traffic flow in a two-dimensional porous metropolitan area**|N. Garcia-Chan et.al.|[2502.14466](http://arxiv.org/abs/2502.14466)|null|
+|**2025-02-20**|**An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs**|Luca Crupi et.al.|[2502.14455](http://arxiv.org/abs/2502.14455)|null|
+|**2025-02-20**|**MPPI-DBaS: Safe Trajectory Optimization with Adaptive Exploration**|Fanxin Wang et.al.|[2502.14387](http://arxiv.org/abs/2502.14387)|null|
+|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
+|**2025-02-20**|**Deep learning based infrared small object segmentation: Challenges and future directions**|Zhengeng Yang et.al.|[2502.14168](http://arxiv.org/abs/2502.14168)|null|
+|**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 |**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-02-19**|**The Round Complexity of Black-Box Post-Quantum Secure Computation**|Rohit Chatterjee et.al.|[2502.13830](http://arxiv.org/abs/2502.13830)|null|
@@ -4601,6 +4621,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Emergence of Fermi's Golden Rule in the Probing of a Quantum Many-Body System**|Jianyi Chen et.al.|[2502.14867](http://arxiv.org/abs/2502.14867)|null|
+|**2025-02-20**|**Fast Generation of Weak Lensing Maps in Modified Gravity with COLA**|Sophie Hoyland et.al.|[2502.14851](http://arxiv.org/abs/2502.14851)|null|
+|**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
+|**2025-02-20**|**PETRA: From the global fit for LISA's Galactic binaries to a catalog of sources**|Aaron D. Johnson et.al.|[2502.14818](http://arxiv.org/abs/2502.14818)|null|
+|**2025-02-20**|**On the role of symmetry and geometry in global quantum sensing**|Julia Boeyens et.al.|[2502.14817](http://arxiv.org/abs/2502.14817)|null|
+|**2025-02-20**|**PREM: Privately Answering Statistical Queries with Relative Error**|Badih Ghazi et.al.|[2502.14809](http://arxiv.org/abs/2502.14809)|null|
+|**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|null|
+|**2025-02-20**|**An Adversarial Analysis of Thompson Sampling for Full-information Online Learning: from Finite to Infinite Action Spaces**|Alexander Terenin et.al.|[2502.14790](http://arxiv.org/abs/2502.14790)|null|
+|**2025-02-20**|**Branching with selection and mutation II: Mutant fitness of Gumbel type**|Su-Chan Park et.al.|[2502.14774](http://arxiv.org/abs/2502.14774)|null|
+|**2025-02-20**|**Efficient Multivariate Robust Mean Estimation Under Mean-Shift Contamination**|Ilias Diakonikolas et.al.|[2502.14772](http://arxiv.org/abs/2502.14772)|null|
 |**2025-02-19**|**GPU-Friendly Laplacian Texture Blending**|Bartlomiej Wronski et.al.|[2502.13945](http://arxiv.org/abs/2502.13945)|null|
 |**2025-02-19**|**Diagnosing chaos with projected ensembles of process tensors**|Peter O'Donovan et.al.|[2502.13930](http://arxiv.org/abs/2502.13930)|null|
 |**2025-02-19**|**Quorum sensing and absorbing phase transitions in colloidal active matter**|Thibault Lefranc et.al.|[2502.13919](http://arxiv.org/abs/2502.13919)|null|
