@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Inversion-free feed-forward and feedback control of MSM based actuator with large non-smooth input hysteresis**|Michael Ruderman et.al.|[2502.18444](http://arxiv.org/abs/2502.18444)|null|
+|**2025-02-25**|**Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks**|Yanning Yin et.al.|[2502.18442](http://arxiv.org/abs/2502.18442)|null|
+|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
+|**2025-02-25**|**Quadratic solitons in higher-order topological insulators**|Yaroslav V. Kartashov et.al.|[2502.18432](http://arxiv.org/abs/2502.18432)|null|
+|**2025-02-25**|**PyEvalAI: AI-assisted evaluation of Jupyter Notebooks for immediate personalized feedback**|Nils Wandel et.al.|[2502.18425](http://arxiv.org/abs/2502.18425)|null|
+|**2025-02-25**|**Off-Policy Temporal Difference Learning for Perturbed Markov Decision Processes: Theoretical Insights and Extensive Simulations**|Ali Forootani et.al.|[2502.18415](http://arxiv.org/abs/2502.18415)|null|
+|**2025-02-25**|**AgentRM: Enhancing Agent Generalization with Reward Modeling**|Yu Xia et.al.|[2502.18407](http://arxiv.org/abs/2502.18407)|null|
+|**2025-02-25**|**Equidistant-Sample or Wait-and-Sample to Minimize Age Under Sampling Constraint?**|Subhankar Banerjee et.al.|[2502.18404](http://arxiv.org/abs/2502.18404)|null|
+|**2025-02-25**|**Controllable Interlocking from Irregularity in Two-Phase Composites**|Chelsea Fox et.al.|[2502.18392](http://arxiv.org/abs/2502.18392)|null|
+|**2025-02-25**|**Monolithic On-Chip Phononic Chiral Anomalous Bulk States on LiNbO3 Thin-films**|Zhe Li et.al.|[2502.18385](http://arxiv.org/abs/2502.18385)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668](http://arxiv.org/abs/2502.15668)|null|
 |**2025-02-21**|**Probabilistic Formulations for System Identification of Linear Dynamics with Bilinear Observation Models**|Diyou Liu et.al.|[2502.15667](http://arxiv.org/abs/2502.15667)|null|
@@ -4320,6 +4330,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**The Electric Location-Routing Problem: Improved Formulations and Effects of Nonlinear Charging**|Luiz Eduardo Cotta Monteiro et.al.|[2502.18234](http://arxiv.org/abs/2502.18234)|null|
+|**2025-02-25**|**DDO68-C: HST confirms yet another companion of the isolated dwarf galaxy DDO 68**|Matteo Correnti et.al.|[2502.18171](http://arxiv.org/abs/2502.18171)|null|
+|**2025-02-25**|**You Shall Not Pass: Warning Drivers of Unsafe Overtaking Maneuvers on Country Roads by Predicting Safe Sight Distance**|Adrian Bauske et.al.|[2502.18163](http://arxiv.org/abs/2502.18163)|null|
+|**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151](http://arxiv.org/abs/2502.18151)|null|
+|**2025-02-25**|**Ordered Genetic Algorithm for Entrance Dependent Vehicle Routing Problem in Farms**|Haotian Xu et.al.|[2502.18062](http://arxiv.org/abs/2502.18062)|null|
+|**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[2502.17949](http://arxiv.org/abs/2502.17949)|null|
+|**2025-02-25**|**Quantum Annealing-Based Sum Rate Maximization for Multi-UAV-Aided Wireless Networks**|Seon-Geun Jeong et.al.|[2502.17916](http://arxiv.org/abs/2502.17916)|null|
+|**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|null|
+|**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[2502.17843](http://arxiv.org/abs/2502.17843)|null|
+|**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821](http://arxiv.org/abs/2502.17821)|null|
 |**2025-02-21**|**Blockchain-based Trust Management in Security Credential Management System for Vehicular Network**|SangHyun Byun et.al.|[2502.15653](http://arxiv.org/abs/2502.15653)|null|
 |**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-21**|**Reduced-Order Model Guided Contact-Implicit Model Predictive Control for Humanoid Locomotion**|Sergio A. Esteban et.al.|[2502.15630](http://arxiv.org/abs/2502.15630)|null|
@@ -4641,6 +4661,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$ 0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464](http://arxiv.org/abs/2502.18464)|null|
+|**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
+|**2025-02-25**|**Spectral modelling of Cygnus A between 110 and 250 MHz. Impact on the LOFAR 21-cm signal power spectrum**|E. Ceccotti et.al.|[2502.18459](http://arxiv.org/abs/2502.18459)|null|
+|**2025-02-25**|**Random Number Generation from Pulsars**|Hayder Tirmazi et.al.|[2502.18430](http://arxiv.org/abs/2502.18430)|null|
+|**2025-02-25**|**MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**|Zhuoqin Yang et.al.|[2502.18416](http://arxiv.org/abs/2502.18416)|null|
+|**2025-02-25**|**Comparative Analysis of MDL-VAE vs. Standard VAE on 202 Years of Gynecological Data**|Paula Santos et.al.|[2502.18412](http://arxiv.org/abs/2502.18412)|null|
+|**2025-02-25**|**The Gradient of Algebraic Model Counting**|Jaron Maene et.al.|[2502.18406](http://arxiv.org/abs/2502.18406)|null|
+|**2025-02-25**|**Single file dynamics of tethered random walkers**|S. B. Yuste et.al.|[2502.18402](http://arxiv.org/abs/2502.18402)|null|
+|**2025-02-25**|**Learning sparse generalized linear models with binary outcomes via iterative hard thresholding**|Namiko Matsumoto et.al.|[2502.18393](http://arxiv.org/abs/2502.18393)|null|
+|**2025-02-25**|**New insights into the distribution of the topmost gap in random walks and Lévy flights**|Claude Godrèche et.al.|[2502.18391](http://arxiv.org/abs/2502.18391)|null|
 |**2025-02-21**|**The Eggbox Ising Model**|Mutian Shen et.al.|[2502.15664](http://arxiv.org/abs/2502.15664)|null|
 |**2025-02-21**|**Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions**|Gerard Ben Arous et.al.|[2502.15655](http://arxiv.org/abs/2502.15655)|null|
 |**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640](http://arxiv.org/abs/2502.15640)|null|
