@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.07
+## Updated on 2025.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**An Extended State Space Model of Aggregated Electric Vehicles for Flexibility Estimation and Power Control**|Yiping Liu et.al.|[2503.04714](http://arxiv.org/abs/2503.04714)|null|
+|**2025-03-06**|**Efficiently Escaping Saddle Points under Generalized Smoothness via Self-Bounding Regularity**|Daniel Yiming Cao et.al.|[2503.04712](http://arxiv.org/abs/2503.04712)|null|
+|**2025-03-06**|**Sharp multipolar $L^p$ -Hardy-type inequalities on Riemannian manifolds**|Cristian Ciulică et.al.|[2503.04703](http://arxiv.org/abs/2503.04703)|null|
+|**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702](http://arxiv.org/abs/2503.04702)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697](http://arxiv.org/abs/2503.04697)|null|
+|**2025-03-06**|**Rapid updating of multivariate resource models based on new information using EnKF-MDA and multi-Gaussian transformation**|Sultan Abulkhair et.al.|[2503.04694](http://arxiv.org/abs/2503.04694)|null|
+|**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
+|**2025-03-06**|**What Are You Doing? A Closer Look at Controllable Human Video Generation**|Emanuele Bugliarello et.al.|[2503.04666](http://arxiv.org/abs/2503.04666)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
 |**2025-03-05**|**Comparison of Experimental and Theoretical Mechanical Jitter in a THz Communication Link**|Ethan Abele et.al.|[2503.03740](http://arxiv.org/abs/2503.03740)|null|
 |**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
@@ -4360,6 +4370,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**An Extended State Space Model of Aggregated Electric Vehicles for Flexibility Estimation and Power Control**|Yiping Liu et.al.|[2503.04714](http://arxiv.org/abs/2503.04714)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Multistage Economic MPC for Systems with a Cyclic Steady State: A Gas Network Case Study**|Sakshi S. Naik et.al.|[2503.04622](http://arxiv.org/abs/2503.04622)|null|
+|**2025-03-06**|**Whole-Body Model-Predictive Control of Legged Robots with MuJoCo**|John Z. Zhang et.al.|[2503.04613](http://arxiv.org/abs/2503.04613)|null|
+|**2025-03-06**|**Method for recovering data on unreported low-severity crashes**|Alberto Morando et.al.|[2503.04529](http://arxiv.org/abs/2503.04529)|null|
+|**2025-03-06**|**Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**|Chenhao Yang et.al.|[2503.04516](http://arxiv.org/abs/2503.04516)|null|
+|**2025-03-06**|**Energy Consumption of Robotic Arm with the Local Reduction Method**|Halima Ibrahim Kure et.al.|[2503.04340](http://arxiv.org/abs/2503.04340)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
+|**2025-03-06**|**Towards Intelligent Transportation with Pedestrians and Vehicles In-the-Loop: A Surveillance Video-Assisted Federated Digital Twin Framework**|Xiaolong Li et.al.|[2503.04170](http://arxiv.org/abs/2503.04170)|null|
+|**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[2503.04159](http://arxiv.org/abs/2503.04159)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**A modeling framework to support the electrification of private transport in African cities: a case study of Addis Ababa**|Jérémy Dumoulin et.al.|[2503.03671](http://arxiv.org/abs/2503.03671)|null|
 |**2025-03-05**|**Optimal Policy Design for Repeated Decision-Making under Social Influence**|Chiara Ravazzi et.al.|[2503.03657](http://arxiv.org/abs/2503.03657)|null|
@@ -4721,6 +4741,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**One Extension to Explain Them All, One Parameter to Minimize $χ^2$ , One Framework to Bring Them All, and in One Model Bind Them**|Matteo Forconi et.al.|[2503.04705](http://arxiv.org/abs/2503.04705)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Assessing Student Adoption of Generative Artificial Intelligence across Engineering Education from 2023 to 2024**|Jesan Ahammed Ovi et.al.|[2503.04696](http://arxiv.org/abs/2503.04696)|null|
+|**2025-03-06**|**Integrability and charge transport in asymmetric quantum-circuit geometries**|Chiara Paletta et.al.|[2503.04673](http://arxiv.org/abs/2503.04673)|null|
+|**2025-03-06**|**Electrically-Small Rydberg Sensor for Three-Dimensional Determination of rf k-Vectors**|Peter K. Elgee et.al.|[2503.04670](http://arxiv.org/abs/2503.04670)|null|
+|**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
+|**2025-03-06**|**Predicting Heteropolymer Phase Separation Using Two-Chain Contact Maps**|Jessica Jin et.al.|[2503.04659](http://arxiv.org/abs/2503.04659)|null|
+|**2025-03-06**|**Euclideanization without Complexification of the Spacetime**|Nicole Drew et.al.|[2503.04654](http://arxiv.org/abs/2503.04654)|null|
+|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-05**|**MaNGA AGN dwarf galaxies (MAD) -- III. The role of mergers and environment in AGN activity in dwarf galaxies**|A. Eróstegui et.al.|[2503.03742](http://arxiv.org/abs/2503.03742)|null|
 |**2025-03-05**|**Comparison of Experimental and Theoretical Mechanical Jitter in a THz Communication Link**|Ethan Abele et.al.|[2503.03740](http://arxiv.org/abs/2503.03740)|null|
 |**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736](http://arxiv.org/abs/2503.03736)|null|
