@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
+|**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
+|**2025-03-11**|**Some commutation principles for optimization problems over transformation groups and semi-FTvN systems**|M. Seetharama Gowda et.al.|[2503.08654](http://arxiv.org/abs/2503.08654)|null|
+|**2025-03-11**|**Leveraging national forest inventory data to estimate forest carbon density status and trends for small areas**|Elliot S. Shannon et.al.|[2503.08653](http://arxiv.org/abs/2503.08653)|null|
+|**2025-03-11**|**Mitigating transients in flux-control signals in a superconducting quantum processor**|Anuj Aggarwal et.al.|[2503.08645](http://arxiv.org/abs/2503.08645)|null|
+|**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|null|
+|**2025-03-11**|**Design and Construction of an Affordable Adjustable Repetition Rate Optical Frequency Comb**|Christopher E. Latchford et.al.|[2503.08635](http://arxiv.org/abs/2503.08635)|null|
+|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634](http://arxiv.org/abs/2503.08634)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-07**|**How pairing mechanism dictates topology in valley-polarized superconductors with Berry curvature**|Julian May-Mann et.al.|[2503.05697](http://arxiv.org/abs/2503.05697)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696](http://arxiv.org/abs/2503.05696)|null|
@@ -4380,6 +4390,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
+|**2025-03-11**|**Optimizing Ride-Pooling Operations with Extended Pickup and Drop-Off Flexibility**|Hao Jiang et.al.|[2503.08472](http://arxiv.org/abs/2503.08472)|null|
+|**2025-03-11**|**ICPR 2024 Competition on Rider Intention Prediction**|Shankar Gangisetty et.al.|[2503.08437](http://arxiv.org/abs/2503.08437)|null|
+|**2025-03-11**|**A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles**|Weiyi Yang et.al.|[2503.08416](http://arxiv.org/abs/2503.08416)|null|
+|**2025-03-11**|**Multi-particle-collision simulation of heat transfer in low-dimensional fluids**|Rongxiang Luo et.al.|[2503.08409](http://arxiv.org/abs/2503.08409)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302](http://arxiv.org/abs/2503.08302)|null|
+|**2025-03-11**|**Cloud populations versus galactic environment in NGC4689, NGC628, NGC1566, and NGC4321**|H. Faustino Vieira et.al.|[2503.08212](http://arxiv.org/abs/2503.08212)|null|
+|**2025-03-11**|**Coordinated Path Following of UAVs using Event-Triggered Communication over Networks with Digraph Topologies**|Hyungsoo Kang et.al.|[2503.08129](http://arxiv.org/abs/2503.08129)|null|
 |**2025-03-07**|**Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**|Yulun Zhuang et.al.|[2503.05666](http://arxiv.org/abs/2503.05666)|null|
 |**2025-03-07**|**Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap**|Jianye Xu et.al.|[2503.05656](http://arxiv.org/abs/2503.05656)|null|
 |**2025-03-07**|**Physics-based machine learning framework for predicting NOx emissions from compression ignition engines using on-board diagnostics data**|Harish Panneer Selvam et.al.|[2503.05648](http://arxiv.org/abs/2503.05648)|null|
@@ -4761,6 +4781,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Cosmic topology. Part IIIb. Eigenmodes and correlation matrices of spin-2 perturbations in orientable Euclidean manifolds**|Amirhossein Samandar et.al.|[2503.08671](http://arxiv.org/abs/2503.08671)|null|
+|**2025-03-11**|**On a new robust method of inference for general time series models**|Zihan Wang et.al.|[2503.08655](http://arxiv.org/abs/2503.08655)|**[link](https://github.com/Wang-ZH-Stat/TSQMLE)**|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning**|Hubert Baniecki et.al.|[2503.08636](http://arxiv.org/abs/2503.08636)|null|
+|**2025-03-11**|**Secret-Key Generation from Private Identifiers under Channel Uncertainty**|Vamoua Yachongka et.al.|[2503.08632](http://arxiv.org/abs/2503.08632)|null|
+|**2025-03-11**|**Hierarchical autoregressive neural networks in three-dimensional statistical system**|Piotr Białas et.al.|[2503.08610](http://arxiv.org/abs/2503.08610)|null|
+|**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609](http://arxiv.org/abs/2503.08609)|null|
+|**2025-03-11**|**A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data**|Seungjun Ahn et.al.|[2503.08606](http://arxiv.org/abs/2503.08606)|null|
+|**2025-03-11**|**Towards species' classification of the \textit{Anastrepha pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598](http://arxiv.org/abs/2503.08598)|null|
+|**2025-03-11**|**Integration of nested cross-validation, automated hyperparameter optimization, high-performance computing to reduce and quantify the variance of test performance estimation of deep learning models**|Paul Calle et.al.|[2503.08589](http://arxiv.org/abs/2503.08589)|**[link](https://github.com/thepanlab/NACHOS)**|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-07**|**ALMAGAL III. Compact source catalog: Fragmentation statistics and physical evolution of the core population**|A. Coletta et.al.|[2503.05663](http://arxiv.org/abs/2503.05663)|null|
 |**2025-03-07**|**Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**|Manuel Morales-Alvarado et.al.|[2503.05658](http://arxiv.org/abs/2503.05658)|null|
