@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.15
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,20 +4014,20 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|null|
+|**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
 |**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623](http://arxiv.org/abs/2503.10623)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|**[link](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
 |**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
@@ -4419,22 +4419,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|**[link](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432](http://arxiv.org/abs/2503.10432)|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421](http://arxiv.org/abs/2503.10421)|null|
-|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
 |**2025-03-13**|**HALO: Fault-Tolerant Safety Architecture For High-Speed Autonomous Racing**|Aron Harder et.al.|[2503.10341](http://arxiv.org/abs/2503.10341)|null|
 |**2025-03-13**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296](http://arxiv.org/abs/2503.10296)|null|
 |**2025-03-13**|**Thermal Management of Lithium-Ion Batteries: A Comparative Study of Phase Change Materials and Air-Cooling Systems Equipped with Fins**|Masoumeh Karimi Kisomi et.al.|[2503.10244](http://arxiv.org/abs/2503.10244)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-13**|**V2X-ReaLO: An Open Online Framework and Dataset for Cooperative Perception in Reality**|Hao Xiang et.al.|[2503.10034](http://arxiv.org/abs/2503.10034)|null|
-|**2025-03-13**|**LEVA: A high-mobility logistic vehicle with legged suspension**|Marco Arnold et.al.|[2503.10028](http://arxiv.org/abs/2503.10028)|null|
+|**2025-03-14**|**LEVA: A high-mobility logistic vehicle with legged suspension**|Marco Arnold et.al.|[2503.10028](http://arxiv.org/abs/2503.10028)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
 |**2025-03-11**|**Optimizing Ride-Pooling Operations with Extended Pickup and Drop-Off Flexibility**|Hao Jiang et.al.|[2503.08472](http://arxiv.org/abs/2503.08472)|null|
@@ -4822,7 +4822,7 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## statistic
 
@@ -5219,7 +5219,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

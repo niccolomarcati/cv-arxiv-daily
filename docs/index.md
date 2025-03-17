@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.15
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,14 +3997,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|null|
+|**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
 |**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623](http://arxiv.org/abs/2503.10623)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|**[link](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
 |**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
@@ -4400,16 +4400,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|**[link](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432](http://arxiv.org/abs/2503.10432)|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421](http://arxiv.org/abs/2503.10421)|null|
-|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
 |**2025-03-13**|**HALO: Fault-Tolerant Safety Architecture For High-Speed Autonomous Racing**|Aron Harder et.al.|[2503.10341](http://arxiv.org/abs/2503.10341)|null|
 |**2025-03-13**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296](http://arxiv.org/abs/2503.10296)|null|
 |**2025-03-13**|**Thermal Management of Lithium-Ion Batteries: A Comparative Study of Phase Change Materials and Air-Cooling Systems Equipped with Fins**|Masoumeh Karimi Kisomi et.al.|[2503.10244](http://arxiv.org/abs/2503.10244)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-13**|**V2X-ReaLO: An Open Online Framework and Dataset for Cooperative Perception in Reality**|Hao Xiang et.al.|[2503.10034](http://arxiv.org/abs/2503.10034)|null|
-|**2025-03-13**|**LEVA: A high-mobility logistic vehicle with legged suspension**|Marco Arnold et.al.|[2503.10028](http://arxiv.org/abs/2503.10028)|null|
+|**2025-03-14**|**LEVA: A high-mobility logistic vehicle with legged suspension**|Marco Arnold et.al.|[2503.10028](http://arxiv.org/abs/2503.10028)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
 |**2025-03-11**|**Optimizing Ride-Pooling Operations with Extended Pickup and Drop-Off Flexibility**|Hao Jiang et.al.|[2503.08472](http://arxiv.org/abs/2503.08472)|null|
