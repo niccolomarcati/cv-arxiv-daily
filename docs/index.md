@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns**|Kushagra Gupta et.al.|[2503.15486](http://arxiv.org/abs/2503.15486)|null|
+|**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
+|**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481](http://arxiv.org/abs/2503.15481)|null|
+|**2025-03-19**|**Active wetting transitions induced by rotational noise at solid interfaces**|Suchismita Das et.al.|[2503.15476](http://arxiv.org/abs/2503.15476)|null|
+|**2025-03-19**|**Supercell environments using GridRad-Severe and the HRRR: Addressing discrepancies between prior tornado datasets**|Brice Coffer et.al.|[2503.15466](http://arxiv.org/abs/2503.15466)|null|
+|**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
+|**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461](http://arxiv.org/abs/2503.15461)|null|
+|**2025-03-19**|**Self-aligned pillar arrays embedding site-controlled single quantum dots for enhanced non-classical light emission**|Gediminas Juska et.al.|[2503.15458](http://arxiv.org/abs/2503.15458)|null|
+|**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
+|**2025-03-19**|**On the optimal control of viscous Cahn-Hilliard systems with hyperbolic relaxation of the chemical potential**|Pierluigi Colli et.al.|[2503.15444](http://arxiv.org/abs/2503.15444)|null|
 |**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
 |**2025-03-17**|**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**|Haoyang Li et.al.|[2503.13443](http://arxiv.org/abs/2503.13443)|null|
 |**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442](http://arxiv.org/abs/2503.13442)|null|
@@ -4410,6 +4420,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461](http://arxiv.org/abs/2503.15461)|null|
+|**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
+|**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
+|**2025-03-19**|**Energy-efficient Merging of Connected and Automated Vehicles using Control Barrier Functions**|Shreshta Rajakumar Deshpande et.al.|[2503.15379](http://arxiv.org/abs/2503.15379)|null|
+|**2025-03-19**|**Priority-driven Constraints Softening in Safe MPC for Perturbed Systems**|Ying Shuai Quan et.al.|[2503.15373](http://arxiv.org/abs/2503.15373)|null|
+|**2025-03-19**|**Euclid: Quick Data Release (Q1) -- A census of dwarf galaxies across a range of distances and environments**|F. R. Marleau et.al.|[2503.15335](http://arxiv.org/abs/2503.15335)|null|
+|**2025-03-19**|**Brunovsky Riccati Recursion for Linear Model Predictive Control**|Shaohui Yang et.al.|[2503.15271](http://arxiv.org/abs/2503.15271)|null|
+|**2025-03-19**|**Sensing-Based Beamformed Resource Allocation in Standalone Millimeter-Wave Vehicular Networks**|Alessandro Traspadini et.al.|[2503.15228](http://arxiv.org/abs/2503.15228)|null|
+|**2025-03-19**|**Diffusion-Based Forecasting for Uncertainty-Aware Model Predictive Control**|Stelios Zarifis et.al.|[2503.15095](http://arxiv.org/abs/2503.15095)|null|
+|**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
 |**2025-03-17**|**Contribution to the Radio Light Curves of a Core-Collapse Supernova due to the Off-axis Gamma-Ray Burst Afterglow**|Yo Kusafuka et.al.|[2503.13291](http://arxiv.org/abs/2503.13291)|null|
 |**2025-03-17**|**Local-Global Learning of Interpretable Control Policies: The Interface between MPC and Reinforcement Learning**|Thomas Banker et.al.|[2503.13289](http://arxiv.org/abs/2503.13289)|null|
 |**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098](http://arxiv.org/abs/2503.13098)|null|
@@ -4821,6 +4841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
+|**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
+|**2025-03-19**|**Variational Quantum Annealing for Quantum Chemistry**|Ka-Wa Yip et.al.|[2503.15473](http://arxiv.org/abs/2503.15473)|null|
+|**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
+|**2025-03-19**|**An extensive simulation study evaluating the interaction of resampling techniques across multiple causal discovery contexts**|Ritwick Banerjee et.al.|[2503.15436](http://arxiv.org/abs/2503.15436)|null|
+|**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420](http://arxiv.org/abs/2503.15420)|null|
+|**2025-03-19**|**Mechanism of Shape Symmetry Breaking in Surfactant Mediated Crystal Growth**|Sam Oaks-Leaf et.al.|[2503.15419](http://arxiv.org/abs/2503.15419)|null|
+|**2025-03-19**|**Automated Processing of eXplainable Artificial Intelligence Outputs in Deep Learning Models for Fault Diagnostics of Large Infrastructures**|Giovanni Floreale et.al.|[2503.15415](http://arxiv.org/abs/2503.15415)|null|
+|**2025-03-19**|**Particle Pairing Caused Subdiffusion of Heavy Particles in the Imbalanced Hubbard Model**|Mirko Daumann et.al.|[2503.15409](http://arxiv.org/abs/2503.15409)|null|
 |**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438](http://arxiv.org/abs/2503.13438)|null|
 |**2025-03-17**|**Movement Sequencing: A Novel Approach to Quantifying the Building Blocks of Human Gait**|Alexandra Hammerberg et.al.|[2503.13425](http://arxiv.org/abs/2503.13425)|null|
 |**2025-03-17**|**Securing Virtual Reality Experiences: Unveiling and Tackling Cybersickness Attacks with Explainable AI**|Ripan Kumar Kundu et.al.|[2503.13419](http://arxiv.org/abs/2503.13419)|null|
