@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.21
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
+|**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Parallel Domain-Decomposition Algorithms for Complexity Certification of Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**|Shamisa Shoja et.al.|[2503.16411](http://arxiv.org/abs/2503.16411)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399](http://arxiv.org/abs/2503.16399)|null|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398](http://arxiv.org/abs/2503.16398)|null|
+|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392](http://arxiv.org/abs/2503.16392)|null|
+|**2025-03-20**|**A Mixed-FEM approximation with uniform conservation of the exponential stability for a class of anisotropic port-Hamiltonian system and its application to LQ control**|Luis A. Mora et.al.|[2503.16388](http://arxiv.org/abs/2503.16388)|null|
+|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
 |**2025-03-19**|**More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns**|Kushagra Gupta et.al.|[2503.15486](http://arxiv.org/abs/2503.15486)|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
 |**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481](http://arxiv.org/abs/2503.15481)|null|
@@ -4420,6 +4430,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Parallel Domain-Decomposition Algorithms for Complexity Certification of Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**|Shamisa Shoja et.al.|[2503.16411](http://arxiv.org/abs/2503.16411)|null|
+|**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399](http://arxiv.org/abs/2503.16399)|null|
+|**2025-03-20**|**Evaluation of Torque Ripple and Tooth Forces of a Skewed PMSM by 2D and 3D FE Simulations**|Karsten Müller et.al.|[2503.16279](http://arxiv.org/abs/2503.16279)|null|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**A Unifying Complexity-Certification Framework for Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**|Shamisa Shoja et.al.|[2503.16235](http://arxiv.org/abs/2503.16235)|null|
+|**2025-03-20**|**3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity**|Yulei Wang et.al.|[2503.16202](http://arxiv.org/abs/2503.16202)|null|
+|**2025-03-20**|**Neural Combinatorial Optimization for Real-World Routing**|Jiwoo Son et.al.|[2503.16159](http://arxiv.org/abs/2503.16159)|null|
+|**2025-03-20**|**Aging-aware Energy Management for Residential Multi-Carrier Energy Systems**|Darío Slaifstein et.al.|[2503.16139](http://arxiv.org/abs/2503.16139)|null|
+|**2025-03-20**|**Control Lyapunov Function Design via Configuration-Constrained Polyhedral Computing**|Boris Houska et.al.|[2503.16076](http://arxiv.org/abs/2503.16076)|null|
+|**2025-03-20**|**Finite-Horizon Discrete-Time Optimal Control for Nonlinear Systems under State and Control Constraints**|Chuanzhi Lv et.al.|[2503.15794](http://arxiv.org/abs/2503.15794)|null|
 |**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461](http://arxiv.org/abs/2503.15461)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
@@ -4841,6 +4861,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398](http://arxiv.org/abs/2503.16398)|null|
+|**2025-03-20**|**No Practical Quantum Broadcasting: Even Virtually**|Yunlong Xiao et.al.|[2503.16380](http://arxiv.org/abs/2503.16380)|null|
+|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
+|**2025-03-20**|**Fluctuation Relations associated to an arbitrary bijection in path space**|Raphael Chetrite et.al.|[2503.16369](http://arxiv.org/abs/2503.16369)|null|
+|**2025-03-20**|**Modular transport in two-dimensional conformal field theory**|Mihail Mintchev et.al.|[2503.16368](http://arxiv.org/abs/2503.16368)|null|
+|**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351](http://arxiv.org/abs/2503.16351)|null|
+|**2025-03-20**|**Many exact area-law scar eigenstates in the nonintegrable PXP and related models**|Andrew N. Ivanov et.al.|[2503.16327](http://arxiv.org/abs/2503.16327)|null|
+|**2025-03-20**|**On the Cone Effect in the Learning Dynamics**|Zhanpeng Zhou et.al.|[2503.16316](http://arxiv.org/abs/2503.16316)|null|
+|**2025-03-20**|**Active Learning For Repairable Hardware Systems With Partial Coverage**|Michael Potter et.al.|[2503.16315](http://arxiv.org/abs/2503.16315)|null|
+|**2025-03-20**|**Hamiltonian dynamics of classical spins**|Slobodan Radoševi\' c et.al.|[2503.16308](http://arxiv.org/abs/2503.16308)|null|
 |**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
 |**2025-03-19**|**Variational Quantum Annealing for Quantum Chemistry**|Ka-Wa Yip et.al.|[2503.15473](http://arxiv.org/abs/2503.15473)|null|
