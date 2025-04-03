@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**Accelerated Approximate Optimization of Multi-Commodity Flows on Directed Graphs**|Li Chen et.al.|[2503.24373](http://arxiv.org/abs/2503.24373)|null|
+|**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**Coordinating Distributed Energy Resources with Nodal Pricing in Distribution Networks: a Game-Theoretic Approach**|Eli Brock et.al.|[2503.24342](http://arxiv.org/abs/2503.24342)|null|
+|**2025-03-31**|**Faster Rates for No-Regret Learning in General Games via Cautious Optimism**|Ashkan Soleymani et.al.|[2503.24340](http://arxiv.org/abs/2503.24340)|null|
+|**2025-03-31**|**Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work**|Alexa Siu et.al.|[2503.24334](http://arxiv.org/abs/2503.24334)|null|
+|**2025-03-31**|**Mean field model of contagion processes in urban traffic networks**|Arturo Berrones-Santos et.al.|[2503.24333](http://arxiv.org/abs/2503.24333)|null|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**Verifying Nonlinear Neural Feedback Systems using Polyhedral Enclosures**|Samuel I. Akinwande et.al.|[2503.22660](http://arxiv.org/abs/2503.22660)|null|
 |**2025-03-28**|**Tropical Bisectors and Carlini-Wagner Attacks**|Gillian Grindstaff et.al.|[2503.22653](http://arxiv.org/abs/2503.22653)|null|
@@ -4470,6 +4480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Mean field model of contagion processes in urban traffic networks**|Arturo Berrones-Santos et.al.|[2503.24333](http://arxiv.org/abs/2503.24333)|null|
+|**2025-04-01**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326](http://arxiv.org/abs/2503.24326)|null|
+|**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
+|**2025-03-31**|**Advanced Quantum Annealing Approach to Vehicle Routing Problems with Time Windows**|James B. Holliday et.al.|[2503.24285](http://arxiv.org/abs/2503.24285)|null|
+|**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
+|**2025-03-31**|**Control Center Framework for Teleoperation Support of Automated Vehicles on Public Roads**|Maria-Magdalena Wolf et.al.|[2503.24249](http://arxiv.org/abs/2503.24249)|null|
+|**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
+|**2025-03-31**|**Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning**|Matej Jusup et.al.|[2503.24183](http://arxiv.org/abs/2503.24183)|**[link](https://github.com/mjusup1501/mf-vehicle-rebalancing)**|
+|**2025-03-31**|**Pseudo-Random UAV Test Generation Using Low-Fidelity Path Simulator**|Anas Shrinah et.al.|[2503.24172](http://arxiv.org/abs/2503.24172)|null|
+|**2025-03-31**|**Disturbance-adaptive Model Predictive Control for Bounded Average Constraint Violations**|Jicheng Shi et.al.|[2503.24169](http://arxiv.org/abs/2503.24169)|null|
 |**2025-03-28**|**Road-Width-Aware Network Optimisation for Bike Lane Planning**|Riccardo Basilone et.al.|[2503.22550](http://arxiv.org/abs/2503.22550)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
 |**2025-03-28**|**Optimized Vehicular Antenna Placement for Phase-Coherent Positioning**|Victor Pettersson et.al.|[2503.22530](http://arxiv.org/abs/2503.22530)|null|
@@ -4941,6 +4961,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386](http://arxiv.org/abs/2503.24386)|null|
+|**2025-03-31**|**The fundamental localization phases in quasiperiodic systems: A unified framework and exact results**|Xin-Chi Zhou et.al.|[2503.24380](http://arxiv.org/abs/2503.24380)|null|
+|**2025-04-01**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363](http://arxiv.org/abs/2503.24363)|null|
+|**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
+|**2025-03-31**|**Universality of Rényi Entropy in Conformal Field Theory**|Yuya Kusuki et.al.|[2503.24353](http://arxiv.org/abs/2503.24353)|null|
+|**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|
+|**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321](http://arxiv.org/abs/2503.24321)|null|
+|**2025-03-31**|**Thermodynamic Features of a Heat Engine Coupled with Exponentially Decreasing Temperature Across the Reaction Coordinate, as well as Perspectives on Nonequilibrium Thermodynamics**|Mesfin Taye et.al.|[2503.24317](http://arxiv.org/abs/2503.24317)|null|
+|**2025-03-31**|**Multiscale Insights of Domain Unfolding in Fibrin Mechanical Response**|Vivek Sharma et.al.|[2503.24315](http://arxiv.org/abs/2503.24315)|null|
+|**2025-03-31**|**Selective Inference in Graphical Models via Maximum Likelihood**|Sofia Guglielmini et.al.|[2503.24311](http://arxiv.org/abs/2503.24311)|null|
 |**2025-03-28**|**The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state**|Melissa Ewing et.al.|[2503.22665](http://arxiv.org/abs/2503.22665)|null|
 |**2025-03-28**|**On the effects of parameters on galaxy properties in CAMELS and the predictability of $Ω_{\rm m}$**|Gabriella Contardo et.al.|[2503.22654](http://arxiv.org/abs/2503.22654)|null|
 |**2025-03-28**|**Stochastic reduced-order Koopman model for turbulent flows**|Tianyi Chu et.al.|[2503.22649](http://arxiv.org/abs/2503.22649)|null|
