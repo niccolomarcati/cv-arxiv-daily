@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Observation of non-Hermitian dislocation bound states and dislocation skin effects**|Jia-Xin Zhong et.al.|[2504.02824](http://arxiv.org/abs/2504.02824)|null|
+|**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822](http://arxiv.org/abs/2504.02822)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach**|Zhipeng Huang et.al.|[2504.02814](http://arxiv.org/abs/2504.02814)|null|
+|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
+|**2025-04-03**|**An Assessment of the CO2 Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811](http://arxiv.org/abs/2504.02811)|null|
+|**2025-04-03**|**Spline-based Transformers**|Prashanth Chandran et.al.|[2504.02797](http://arxiv.org/abs/2504.02797)|null|
+|**2025-04-03**|**Suppression of decoherence dynamics by a dissipative bath at strong coupling**|Jitian Chen et.al.|[2504.02796](http://arxiv.org/abs/2504.02796)|null|
+|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
+|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
 |**2025-03-31**|**Accelerated Approximate Optimization of Multi-Commodity Flows on Directed Graphs**|Li Chen et.al.|[2503.24373](http://arxiv.org/abs/2503.24373)|null|
 |**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
@@ -4480,6 +4490,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766](http://arxiv.org/abs/2504.02766)|null|
+|**2025-04-03**|**A Numerically Efficient Method to Enhance Model Predictive Control Performance with a Reinforcement Learning Policy**|Andrea Ghezzi et.al.|[2504.02710](http://arxiv.org/abs/2504.02710)|null|
+|**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688](http://arxiv.org/abs/2504.02688)|null|
+|**2025-04-03**|**Utilizing 5G NR SSB Blocks for Passive Detection and Localization of Low-Altitude Drones**|Palatip Jopanya et.al.|[2504.02641](http://arxiv.org/abs/2504.02641)|null|
+|**2025-04-03**|**Regulating Spatial Fairness in a Tripartite Micromobility Sharing System via Reinforcement Learning**|Matteo Cederle et.al.|[2504.02597](http://arxiv.org/abs/2504.02597)|null|
+|**2025-04-03**|**Assessing Geographical and Seasonal Influences on Energy Efficiency of Electric Drayage Trucks**|Ankur Shiledar et.al.|[2504.02575](http://arxiv.org/abs/2504.02575)|null|
+|**2025-04-03**|**Detection of cosmological dipoles aligned with transverse peculiar velocities**|Yan-Chuan Cai et.al.|[2504.02525](http://arxiv.org/abs/2504.02525)|null|
+|**2025-04-03**|**CornerPoint3D: Look at the Nearest Corner Instead of the Center**|Ruixiao Zhang et.al.|[2504.02464](http://arxiv.org/abs/2504.02464)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[2504.02420](http://arxiv.org/abs/2504.02420)|null|
 |**2025-03-31**|**Mean field model of contagion processes in urban traffic networks**|Arturo Berrones-Santos et.al.|[2503.24333](http://arxiv.org/abs/2503.24333)|null|
 |**2025-04-01**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326](http://arxiv.org/abs/2503.24326)|null|
 |**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
@@ -4961,6 +4981,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Universal Log-Optimality for General Classes of e-processes and Sequential Hypothesis Tests**|Ian Waudby-Smith et.al.|[2504.02818](http://arxiv.org/abs/2504.02818)|null|
+|**2025-04-03**|**Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase**|Ratul Thakur et.al.|[2504.02815](http://arxiv.org/abs/2504.02815)|null|
+|**2025-04-03**|**The M31-M33 Interaction: Impact on M31's Center of Mass Motion and Satellite Orbits**|Ekta Patel et.al.|[2504.02805](http://arxiv.org/abs/2504.02805)|null|
+|**2025-04-03**|**Beating full state tomography for unentangled spectrum estimation**|Angelos Pelecanos et.al.|[2504.02785](http://arxiv.org/abs/2504.02785)|null|
+|**2025-04-03**|**Efficient Algorithms for Cardinality Estimation and Conjunctive Query Evaluation With Simple Degree Constraints**|Sungjin Im et.al.|[2504.02770](http://arxiv.org/abs/2504.02770)|null|
+|**2025-04-03**|**Monitored Fluctuating Hydrodynamics**|Sarang Gopalakrishnan et.al.|[2504.02734](http://arxiv.org/abs/2504.02734)|null|
+|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
+|**2025-04-03**|**Vortex Flows in the Solar Atmosphere: Detection and Heating Mechanisms in 3D MHD Numerical Simulations**|M. Koll Pistarini et.al.|[2504.02729](http://arxiv.org/abs/2504.02729)|null|
+|**2025-04-03**|**Computing High-dimensional Confidence Sets for Arbitrary Distributions**|Chao Gao et.al.|[2504.02723](http://arxiv.org/abs/2504.02723)|null|
+|**2025-04-03**|**Learning quantum Gibbs states locally and efficiently**|Chi-Fang Chen et.al.|[2504.02706](http://arxiv.org/abs/2504.02706)|null|
 |**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386](http://arxiv.org/abs/2503.24386)|null|
 |**2025-03-31**|**The fundamental localization phases in quasiperiodic systems: A unified framework and exact results**|Xin-Chi Zhou et.al.|[2503.24380](http://arxiv.org/abs/2503.24380)|null|
 |**2025-04-01**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363](http://arxiv.org/abs/2503.24363)|null|
