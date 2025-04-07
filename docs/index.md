@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.05
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4002,7 +4002,7 @@ layout: default
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
 |**2025-04-03**|**Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach**|Zhipeng Huang et.al.|[2504.02814](http://arxiv.org/abs/2504.02814)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
-|**2025-04-03**|**An Assessment of the CO2 Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811](http://arxiv.org/abs/2504.02811)|null|
+|**2025-04-03**|**An Assessment of the CO $_2$ Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811](http://arxiv.org/abs/2504.02811)|null|
 |**2025-04-03**|**Spline-based Transformers**|Prashanth Chandran et.al.|[2504.02797](http://arxiv.org/abs/2504.02797)|null|
 |**2025-04-03**|**Suppression of decoherence dynamics by a dissipative bath at strong coupling**|Jitian Chen et.al.|[2504.02796](http://arxiv.org/abs/2504.02796)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
