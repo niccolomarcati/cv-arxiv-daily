@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein et.al.|[2504.15282](http://arxiv.org/abs/2504.15282)|null|
+|**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
+|**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
+|**2025-04-21**|**Joint Knowledge and Power Management for Secure Semantic Communication Networks**|Xuesong Liu et.al.|[2504.15260](http://arxiv.org/abs/2504.15260)|null|
+|**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
+|**2025-04-21**|**Impulsive pattern recognition of a myoelectric hand via Dynamic Time Warping**|Mustafa Can Kadilar et.al.|[2504.15256](http://arxiv.org/abs/2504.15256)|null|
+|**2025-04-21**|**Shape-Guided Clothing Warping for Virtual Try-On**|Xiaoyu Han et.al.|[2504.15232](http://arxiv.org/abs/2504.15232)|**[link](https://github.com/xyhanhit/scw-vton)**|
+|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
+|**2025-04-21**|**A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing**|Nathan Steffen et.al.|[2504.15226](http://arxiv.org/abs/2504.15226)|null|
+|**2025-04-21**|**DRAGON: Distributional Rewards Optimize Diffusion Generative Models**|Yatong Bai et.al.|[2504.15217](http://arxiv.org/abs/2504.15217)|null|
 |**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
 |**2025-04-17**|**A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**|Lujie Yang et.al.|[2504.13170](http://arxiv.org/abs/2504.13170)|null|
 |**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Anya Zorin et.al.|[2504.13165](http://arxiv.org/abs/2504.13165)|null|
@@ -4550,6 +4560,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**An Efficient Aerial Image Detection with Variable Receptive Fields**|Liu Wenbin et.al.|[2504.15165](http://arxiv.org/abs/2504.15165)|null|
+|**2025-04-21**|**Optimal Behavior Planning for Implicit Communication using a Probabilistic Vehicle-Pedestrian Interaction Model**|Markus Amann et.al.|[2504.15098](http://arxiv.org/abs/2504.15098)|null|
+|**2025-04-21**|**Robust Planning and Control of Omnidirectional MRAVs for Aerial Communications in Wireless Networks**|Giuseppe Silano et.al.|[2504.15089](http://arxiv.org/abs/2504.15089)|null|
+|**2025-04-21**|**Energy-Efficient UAV-Mounted RIS for IoT: A Hybrid Energy Harvesting and DRL Approach**|Mahmoud M. Salim et.al.|[2504.15043](http://arxiv.org/abs/2504.15043)|null|
+|**2025-04-21**|**Energy-Efficient Irregular RIS-aided UAV-Assisted Optimization: A Deep Reinforcement Learning Approach**|Mahmoud M. Salim et.al.|[2504.15031](http://arxiv.org/abs/2504.15031)|null|
+|**2025-04-21**|**Gigaparsec structures are nowhere to be seen in $Λ$ CDM: an enhanced analysis of LSS in FLAMINGO-10K simulations**|A. M Lopez et.al.|[2504.14940](http://arxiv.org/abs/2504.14940)|null|
+|**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900](http://arxiv.org/abs/2504.14900)|null|
+|**2025-04-21**|**Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions**|Jingzehua Xu et.al.|[2504.14894](http://arxiv.org/abs/2504.14894)|null|
+|**2025-04-21**|**Collaborative Enhancement Network for Low-quality Multi-spectral Vehicle Re-identification**|Aihua Zheng et.al.|[2504.14877](http://arxiv.org/abs/2504.14877)|null|
+|**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
 |**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149](http://arxiv.org/abs/2504.13149)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088](http://arxiv.org/abs/2504.13088)|null|
 |**2025-04-17**|**An exact approach for the multi-depot electric vehicle scheduling problem**|Xenia Haslinger et.al.|[2504.13063](http://arxiv.org/abs/2504.13063)|null|
@@ -5101,6 +5121,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Beating the Correlation Breakdown: Robust Inference, Flexible Scenarios, and Stress Testing for Financial Portfolios**|JD Opdyke et.al.|[2504.15268](http://arxiv.org/abs/2504.15268)|null|
+|**2025-04-21**|**Population Models for Star Formation Timescales in Early Galaxies: The First Step Towards Solving Outshining in Star Formation History Inference**|Bingjie Wang et.al.|[2504.15255](http://arxiv.org/abs/2504.15255)|null|
+|**2025-04-21**|**On Learning Parallel Pancakes with Mostly Uniform Weights**|Ilias Diakonikolas et.al.|[2504.15251](http://arxiv.org/abs/2504.15251)|null|
+|**2025-04-21**|**Tracer dynamics in an interacting active bath: fluctuations and energy partition**|Ritwick Sarkar et.al.|[2504.15250](http://arxiv.org/abs/2504.15250)|null|
+|**2025-04-21**|**A Refreshment Stirred, Not Shaken (III): Can Swapping Be Differentially Private?**|James Bailie et.al.|[2504.15246](http://arxiv.org/abs/2504.15246)|null|
+|**2025-04-21**|**Faster Algorithms for Agnostically Learning Disjunctions and their Implications**|Ilias Diakonikolas et.al.|[2504.15244](http://arxiv.org/abs/2504.15244)|null|
+|**2025-04-21**|**Rydberg Atoms in a Ladder Geometry: Quench Dynamics and Floquet Engineering**|Mainak Pal et.al.|[2504.15230](http://arxiv.org/abs/2504.15230)|null|
+|**2025-04-21**|**A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention**|Tao Yang et.al.|[2504.15223](http://arxiv.org/abs/2504.15223)|null|
+|**2025-04-21**|**Did DESI DR2 truly reveal dynamical dark energy?**|Deng Wang et.al.|[2504.15222](http://arxiv.org/abs/2504.15222)|null|
+|**2025-04-22**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214](http://arxiv.org/abs/2504.15214)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
 |**2025-04-17**|**Testing for dice control at craps**|Stewart N. Ethier et.al.|[2504.13158](http://arxiv.org/abs/2504.13158)|null|
 |**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150](http://arxiv.org/abs/2504.13150)|null|
