@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2738,7 +2738,7 @@ layout: default
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
-|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|**[link](https://github.com/chen-hangyu/Thermal-Gaussian-main)**|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
@@ -4067,7 +4067,7 @@ layout: default
 |**2025-04-10**|**SKK groups of manifolds and non-unitary invertible TQFTs**|Renee S. Hoekzema et.al.|[2504.07917](http://arxiv.org/abs/2504.07917)|null|
 |**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913](http://arxiv.org/abs/2504.07913)|null|
 |**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
-|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|null|
+|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|**[link](https://github.com/OamIcs/MoSim)**|
 |**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084](http://arxiv.org/abs/2504.07084)|null|
 |**2025-04-10**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083](http://arxiv.org/abs/2504.07083)|null|
 |**2025-04-09**|**Self-Steering Language Models**|Gabriel Grand et.al.|[2504.07081](http://arxiv.org/abs/2504.07081)|null|
@@ -4678,7 +4678,7 @@ layout: default
 |**2025-04-03**|**Assessing Geographical and Seasonal Influences on Energy Efficiency of Electric Drayage Trucks**|Ankur Shiledar et.al.|[2504.02575](http://arxiv.org/abs/2504.02575)|null|
 |**2025-04-03**|**Detection of cosmological dipoles aligned with transverse peculiar velocities**|Yan-Chuan Cai et.al.|[2504.02525](http://arxiv.org/abs/2504.02525)|null|
 |**2025-04-03**|**CornerPoint3D: Look at the Nearest Corner Instead of the Center**|Ruixiao Zhang et.al.|[2504.02464](http://arxiv.org/abs/2504.02464)|null|
-|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|**[link](https://github.com/wutad-wjy/charms)**|
 |**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[2504.02420](http://arxiv.org/abs/2504.02420)|null|
 |**2025-03-31**|**Mean field model of contagion processes in urban traffic networks**|Arturo Berrones-Santos et.al.|[2503.24333](http://arxiv.org/abs/2503.24333)|null|
 |**2025-04-01**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326](http://arxiv.org/abs/2503.24326)|null|
@@ -5427,7 +5427,7 @@ layout: default
 |**2025-02-21**|**Spin- $s$ $Q$ -systems: Twist and Open Boundaries**|Yi-Jun He et.al.|[2502.15636](http://arxiv.org/abs/2502.15636)|null|
 |**2025-02-21**|**Extraction multi-étiquettes de relations en utilisant des couches de Transformer**|Ngoc Luyen Le et.al.|[2502.15619](http://arxiv.org/abs/2502.15619)|null|
 |**2025-02-21**|**Network topology of the Euro Area interbank market**|Ilias Aarab et.al.|[2502.15611](http://arxiv.org/abs/2502.15611)|null|
-|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|null|
+|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|**[link](https://github.com/fondress/pdeeppp)**|
 |**2025-02-21**|**Robust Bias Detection in MLMs and its Application to Human Trait Ratings**|Ingroj Shrestha et.al.|[2502.15600](http://arxiv.org/abs/2502.15600)|**[link](https://github.com/IngrojShrestha/robust_mlm_bias_detection_human_trait_ratings)**|
 |**2025-02-21**|**A Population Sampling Framework for Claim Reserving in General Insurance**|Sebastian Calcetero Vanegas et.al.|[2502.15598](http://arxiv.org/abs/2502.15598)|null|
 |**2025-02-21**|**Causal Modeling of fMRI Time-series for Interpretable Autism Spectrum Disorder Classification**|Peiyu Duan et.al.|[2502.15595](http://arxiv.org/abs/2502.15595)|null|
