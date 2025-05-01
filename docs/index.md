@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Modification of the scattering mechanisms in bilayer graphene in proximity to a molecular thin film probed in the mesoscopic regime**|Anise Mansour et.al.|[2504.20990](http://arxiv.org/abs/2504.20990)|null|
+|**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
+|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
+|**2025-04-29**|**Local energy communities optimization considering cost and greenhouse gases minimization**|S. Barja-Martinez et.al.|[2504.20973](http://arxiv.org/abs/2504.20973)|null|
+|**2025-04-29**|**A distance between operators acting in different Hilbert spaces and operator convergence**|Olaf Post et.al.|[2504.20971](http://arxiv.org/abs/2504.20971)|null|
+|**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944](http://arxiv.org/abs/2504.20944)|null|
+|**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|
+|**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
+|**2025-04-29**|**Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR**|Shahbaz P Qadri Syed et.al.|[2504.20927](http://arxiv.org/abs/2504.20927)|null|
+|**2025-04-29**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al.|[2504.20906](http://arxiv.org/abs/2504.20906)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
 |**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
 |**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530](http://arxiv.org/abs/2504.18530)|null|
@@ -4590,6 +4600,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**A Teacher-Student MPC-PPO Coupled Reinforcement Learning Framework for Winter Temperature Control of Solar Greenhouses in Northern China**|Jingxin Yu et.al.|[2504.20815](http://arxiv.org/abs/2504.20815)|null|
+|**2025-04-29**|**Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**|Chen Qian et.al.|[2504.20809](http://arxiv.org/abs/2504.20809)|null|
+|**2025-04-29**|**Intelligent Task Offloading in VANETs: A Hybrid AI-Driven Approach for Low-Latency and Energy Efficiency**|Tariq Qayyum et.al.|[2504.20735](http://arxiv.org/abs/2504.20735)|null|
+|**2025-04-29**|**A Novel Cipher for Enhancing MAVLink Security: Design, Security Analysis, and Performance Evaluation Using a Drone Testbed**|Bhavya Dixit et.al.|[2504.20626](http://arxiv.org/abs/2504.20626)|null|
+|**2025-04-29**|**TF1-EN-3M: Three Million Synthetic Moral Fables for Training Small, Open Language Models**|Mihai Nadas et.al.|[2504.20605](http://arxiv.org/abs/2504.20605)|null|
+|**2025-04-29**|**VIMU: Effective Physics-based Realtime Detection and Recovery against Stealthy Attacks on UAVs**|Yunbo Wang et.al.|[2504.20569](http://arxiv.org/abs/2504.20569)|null|
+|**2025-04-29**|**Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**|Kazuma Nonomura et.al.|[2504.20542](http://arxiv.org/abs/2504.20542)|null|
+|**2025-04-29**|**Beyond the Horizon: Decoupling UAVs Multi-View Action Recognition via Partial Order Transfer**|Wenxuan Liu et.al.|[2504.20530](http://arxiv.org/abs/2504.20530)|null|
+|**2025-04-29**|**Metaheuristic Optimization of Trajectory and Dynamic Time Splitting for UAV Communication Systems**|Trinh Van Chien et.al.|[2504.20425](http://arxiv.org/abs/2504.20425)|null|
+|**2025-04-29**|**A Geography-Inspired and Self-Adaptive Clustering Algorithm: A Study in Channel Measurement**|Yiqin Wang et.al.|[2504.20420](http://arxiv.org/abs/2504.20420)|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471](http://arxiv.org/abs/2504.18471)|null|
 |**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[2504.18439](http://arxiv.org/abs/2504.18439)|null|
 |**2025-04-25**|**Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning**|Lars Ullrich et.al.|[2504.18421](http://arxiv.org/abs/2504.18421)|null|
@@ -5181,6 +5201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**GDP-GFCF Dynamics Across Global Economies: A Comparative Study of Panel Regressions and Random Forest**|Alina Landowska et.al.|[2504.20993](http://arxiv.org/abs/2504.20993)|null|
+|**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992](http://arxiv.org/abs/2504.20992)|null|
+|**2025-04-29**|**Trapezodial property of the generalized Alexander polynomial**|Tamás Kálmán et.al.|[2504.20967](http://arxiv.org/abs/2504.20967)|null|
+|**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944](http://arxiv.org/abs/2504.20944)|null|
+|**2025-04-29**|**Scenario-based Compositional Verification of Autonomous Systems with Neural Perception**|Christopher Watson et.al.|[2504.20942](http://arxiv.org/abs/2504.20942)|null|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
+|**2025-04-29**|**Energy-Based Coarse-Graining in Molecular Dynamics: A Flow-Based Framework Without Data**|Maximilian Stupp et.al.|[2504.20940](http://arxiv.org/abs/2504.20940)|null|
+|**2025-04-29**|**Flexible Semantic-Aware Resource Allocation: Serving More Users Through Similarity Range Constraints**|Nasrin Gholami et.al.|[2504.20939](http://arxiv.org/abs/2504.20939)|null|
+|**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511](http://arxiv.org/abs/2504.18511)|null|
 |**2025-04-25**|**Music Tempo Estimation on Solo Instrumental Performance**|Zhanhong He et.al.|[2504.18502](http://arxiv.org/abs/2504.18502)|null|
 |**2025-04-25**|**DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics**|Yifeng Mao et.al.|[2504.18497](http://arxiv.org/abs/2504.18497)|null|
