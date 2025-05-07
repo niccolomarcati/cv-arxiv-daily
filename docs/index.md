@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
+|**2025-05-05**|**Structured Estimators: A New Perspective on Information Freshness**|Sahan Liyanaarachchi et.al.|[2505.02813](http://arxiv.org/abs/2505.02813)|null|
+|**2025-05-05**|**Towards Quantifying the Hessian Structure of Neural Networks**|Zhaorui Dong et.al.|[2505.02809](http://arxiv.org/abs/2505.02809)|null|
+|**2025-05-05**|**Cell-Free Massive MIMO-Assisted SWIPT for IoT Networks**|Mohammadali Mohammadi et.al.|[2505.02806](http://arxiv.org/abs/2505.02806)|null|
+|**2025-05-05**|**A note on the diameter of small sub-Riemannian balls**|Marco Di Marco et.al.|[2505.02790](http://arxiv.org/abs/2505.02790)|null|
+|**2025-05-05**|**Local Markov Equivalence and Local Causal Discovery for Identifying Controlled Direct Effects**|Timothée Loranchet et.al.|[2505.02781](http://arxiv.org/abs/2505.02781)|null|
+|**2025-05-06**|**Controlled Displacement of Stored Light at Room Temperature**|Arash Ahmadi et.al.|[2505.02774](http://arxiv.org/abs/2505.02774)|null|
+|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
+|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|null|
+|**2025-05-05**|**Sensing Birefringence and Diattenuation with Undetected Light**|Cristofero Oglialoro et.al.|[2505.02732](http://arxiv.org/abs/2505.02732)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
@@ -4610,6 +4620,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**SoK: Stealing Cars Since Remote Keyless Entry Introduction and How to Defend From It**|Tommaso Bianchi et.al.|[2505.02713](http://arxiv.org/abs/2505.02713)|null|
+|**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613](http://arxiv.org/abs/2505.02613)|null|
+|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598](http://arxiv.org/abs/2505.02598)|null|
+|**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540](http://arxiv.org/abs/2505.02540)|null|
+|**2025-05-05**|**Automating Automotive Software Development: A Synergy of Generative AI and Formal Methods**|Fengjunjie Pan et.al.|[2505.02500](http://arxiv.org/abs/2505.02500)|null|
+|**2025-05-05**|**Dynamic Graph-based Fingerprinting of In-browser Cryptomining**|Tanapoom Sermchaiwong et.al.|[2505.02493](http://arxiv.org/abs/2505.02493)|null|
+|**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440](http://arxiv.org/abs/2505.02440)|null|
+|**2025-05-05**|**Task-Oriented Semantic Communication in Large Multimodal Models-based Vehicle Networks**|Baoxia Du et.al.|[2505.02413](http://arxiv.org/abs/2505.02413)|null|
+|**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
+|**2025-05-04**|**Dexterous Contact-Rich Manipulation via the Contact Trust Region**|H. J. Terry Suh et.al.|[2505.02291](http://arxiv.org/abs/2505.02291)|null|
 |**2025-05-01**|**RIS Partitioning and User Clustering for Resilient Non-Orthogonal Multiple Access UAV Networks**|Mohammed Saif et.al.|[2505.00658](http://arxiv.org/abs/2505.00658)|null|
 |**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
 |**2025-05-01**|**Neural Network Verification for Gliding Drone Control: A Case Study**|Colin Kessler et.al.|[2505.00622](http://arxiv.org/abs/2505.00622)|null|
@@ -5221,6 +5241,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Pauli crystal superradiance**|Daniel Ortuño-Gonzalez et.al.|[2505.02837](http://arxiv.org/abs/2505.02837)|null|
+|**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827](http://arxiv.org/abs/2505.02827)|null|
+|**2025-05-05**|**Statistical mechanical theory of liquid water**|Lakshmanji Verma et.al.|[2505.02826](http://arxiv.org/abs/2505.02826)|null|
+|**2025-05-05**|**Database-Agnostic Gait Enrollment using SetTransformers**|Nicoleta Basoc et.al.|[2505.02815](http://arxiv.org/abs/2505.02815)|null|
+|**2025-05-05**|**Discrete signature tensors for persistence landscapes**|Vincenzo Galgano et.al.|[2505.02800](http://arxiv.org/abs/2505.02800)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
+|**2025-05-05**|**Particles, trajectories and diffusion: random walks in cooling granular gases**|Santos Bravo Yuste et.al.|[2505.02777](http://arxiv.org/abs/2505.02777)|null|
+|**2025-05-05**|**Can Transformers help us perform parameter estimation of overlapping signals in gravitational wave detectors?**|Lucia Papalini et.al.|[2505.02773](http://arxiv.org/abs/2505.02773)|null|
+|**2025-05-05**|**Teaching the social media generation: rethinking learning without sacrificing quality**|Sepinoud Azimi et.al.|[2505.02770](http://arxiv.org/abs/2505.02770)|null|
+|**2025-05-05**|**Debiased inference in error-in-variable problems with non-Gaussian measurement error**|Nicholas W. Woolsey et.al.|[2505.02754](http://arxiv.org/abs/2505.02754)|null|
 |**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666](http://arxiv.org/abs/2505.00666)|null|
 |**2025-05-02**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
 |**2025-05-01**|**Large Language Models Understanding: an Inherent Ambiguity Barrier**|Daniel N. Nissani et.al.|[2505.00654](http://arxiv.org/abs/2505.00654)|null|
