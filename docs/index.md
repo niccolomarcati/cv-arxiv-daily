@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.09
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Cell size heterogeneity controls crystallization of the developing fruit fly wing**|Kartik Chhajed et.al.|[2505.05437](http://arxiv.org/abs/2505.05437)|null|
+|**2025-05-08**|**Non-Markovianity in collision models with initial intra-environment correlations**|Graeme Pleasance et.al.|[2505.05433](http://arxiv.org/abs/2505.05433)|null|
+|**2025-05-08**|**Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems**|Nunzia Cerrato et.al.|[2505.05431](http://arxiv.org/abs/2505.05431)|null|
+|**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428](http://arxiv.org/abs/2505.05428)|null|
+|**2025-05-08**|**An efficient second-order cone programming approach for dynamic optimal transport on staggered grid discretization**|Liang Chen et.al.|[2505.05424](http://arxiv.org/abs/2505.05424)|null|
+|**2025-05-08**|**Coordinating Drop-Off Locations and Pickup Routes: A Budget-Constrained Routing Perspective**|Maria Albareda-Sambola et.al.|[2505.05418](http://arxiv.org/abs/2505.05418)|null|
+|**2025-05-08**|**Fermi lune and transdimensional orbital magnetism in rhombohedral multilayer graphene**|Min Li et.al.|[2505.05414](http://arxiv.org/abs/2505.05414)|null|
+|**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
+|**2025-05-08**|**Effect of Levy noise on the network of coupled Chialvo neurons: Impact of topology**|Swetha P et.al.|[2505.05394](http://arxiv.org/abs/2505.05394)|null|
 |**2025-05-07**|**Dissipative solitons in parity-time symmetric laser cavities**|Jesús Yelo-Sarrión et.al.|[2505.04624](http://arxiv.org/abs/2505.04624)|null|
 |**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|null|
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
@@ -4630,6 +4640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Coordinating Drop-Off Locations and Pickup Routes: A Budget-Constrained Routing Perspective**|Maria Albareda-Sambola et.al.|[2505.05418](http://arxiv.org/abs/2505.05418)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415](http://arxiv.org/abs/2505.05415)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo**|Thevathayarajh Thayananthan et.al.|[2505.05317](http://arxiv.org/abs/2505.05317)|null|
+|**2025-05-08**|**Localization and path following for an autonomous e-scooter**|David Meister et.al.|[2505.05314](http://arxiv.org/abs/2505.05314)|null|
+|**2025-05-08**|**CV-MP: Max-Pressure Control in Heterogeneously Distributed and Partially Connected Vehicle Environments**|Chaopeng Tan et.al.|[2505.05258](http://arxiv.org/abs/2505.05258)|null|
+|**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[2505.05223](http://arxiv.org/abs/2505.05223)|null|
+|**2025-05-08**|**PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**|Elad Feldman et.al.|[2505.05183](http://arxiv.org/abs/2505.05183)|null|
+|**2025-05-08**|**Online Velocity Profile Generation and Tracking for Sampling-Based Local Planning Algorithms in Autonomous Racing Environments**|Alexander Langmann et.al.|[2505.05157](http://arxiv.org/abs/2505.05157)|null|
 |**2025-05-07**|**Integrated equilibrium model for electrified logistics and power systems**|Rui Yao et.al.|[2505.04532](http://arxiv.org/abs/2505.04532)|null|
 |**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
 |**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[2505.04392](http://arxiv.org/abs/2505.04392)|null|
@@ -5261,6 +5281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/abs/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|
+|**2025-05-08**|**A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source**|Mousume Samad et.al.|[2505.05457](http://arxiv.org/abs/2505.05457)|null|
+|**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435](http://arxiv.org/abs/2505.05435)|null|
+|**2025-05-08**|**Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems**|Nunzia Cerrato et.al.|[2505.05431](http://arxiv.org/abs/2505.05431)|null|
+|**2025-05-08**|**CART-ELC: Oblique Decision Tree Induction via Exhaustive Search**|Andrew D. Laack et.al.|[2505.05402](http://arxiv.org/abs/2505.05402)|**[link](https://github.com/andrewlaack/cart-elc)**|
+|**2025-05-08**|**Rodent Breathing Waveforms in ApoE Rats: Statistical and Entropic Differentiation**|Stephen E. Wormald et.al.|[2505.05387](http://arxiv.org/abs/2505.05387)|null|
+|**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374](http://arxiv.org/abs/2505.05374)|null|
+|**2025-05-08**|**High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations**|Pungponhavoan Tep et.al.|[2505.05354](http://arxiv.org/abs/2505.05354)|null|
+|**2025-05-08**|**Open quantum systems with particle and bath driven by time-dependent fields**|Daniele Gamba et.al.|[2505.05348](http://arxiv.org/abs/2505.05348)|null|
+|**2025-05-08**|**Analysis of the accuracy of GNSS inferred precipitable water vapour against that from a 210 GHz WVR at the H.E.S.S. site**|Lott Frans et.al.|[2505.05346](http://arxiv.org/abs/2505.05346)|null|
 |**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627](http://arxiv.org/abs/2505.04627)|null|
 |**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625](http://arxiv.org/abs/2505.04625)|null|
 |**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613](http://arxiv.org/abs/2505.04613)|null|
