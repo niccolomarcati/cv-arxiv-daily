@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
+|**2025-05-13**|**Full-volume aberration-space holography**|Ian Christen et.al.|[2505.08777](http://arxiv.org/abs/2505.08777)|null|
+|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
+|**2025-05-13**|**Strategy for Bayesian Optimized Beam Steering at TRIUMF-ISAC's MEBT and HEBT Beamlines**|O. Hassan et.al.|[2505.08767](http://arxiv.org/abs/2505.08767)|null|
+|**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
+|**2025-05-13**|**The Environment-Dependent Regulatory Landscape of the E. coli Genome**|Tom Röschinger et.al.|[2505.08764](http://arxiv.org/abs/2505.08764)|null|
+|**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754](http://arxiv.org/abs/2505.08754)|null|
+|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735](http://arxiv.org/abs/2505.08735)|null|
+|**2025-05-13**|**Load-independent Metrics for Benchmarking Force Controllers**|Victor Shime et.al.|[2505.08730](http://arxiv.org/abs/2505.08730)|null|
+|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
 |**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225](http://arxiv.org/abs/2505.06225)|null|
 |**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
 |**2025-05-09**|**Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment**|Matthew Brun et.al.|[2505.06211](http://arxiv.org/abs/2505.06211)|null|
@@ -4669,12 +4679,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
+|**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754](http://arxiv.org/abs/2505.08754)|null|
+|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735](http://arxiv.org/abs/2505.08735)|null|
+|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
+|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589](http://arxiv.org/abs/2505.08589)|null|
+|**2025-05-13**|**SAR-GTR: Attributed Scattering Information Guided SAR Graph Transformer Recognition Algorithm**|Xuying Xiong et.al.|[2505.08547](http://arxiv.org/abs/2505.08547)|null|
+|**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
+|**2025-05-13**|**Dual-UAV-Enabled Secure Communication and Sensing for A2G-ISAC Systems with Maneuverable Jamming**|Libiao Lou et.al.|[2505.08523](http://arxiv.org/abs/2505.08523)|null|
+|**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
+|**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[2505.08404](http://arxiv.org/abs/2505.08404)|null|
 |**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
 |**2025-05-09**|**ABAMGuid+: An Enhanced Aerocapture Guidance Framework using Augmented Bank Angle Modulation**|Kyle A. Sonandres et.al.|[2505.06161](http://arxiv.org/abs/2505.06161)|null|
 |**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
@@ -5322,12 +5342,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Divisible and indivisible Stochastic-Quantum dynamics**|Leandro Silva Pimenta et.al.|[2505.08785](http://arxiv.org/abs/2505.08785)|null|
+|**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
+|**2025-05-13**|**The Environment-Dependent Regulatory Landscape of the E. coli Genome**|Tom Röschinger et.al.|[2505.08764](http://arxiv.org/abs/2505.08764)|null|
+|**2025-05-13**|**Statistical models of barren plateaus and anti-concentration of Pauli observables**|Nikita Nemkov et.al.|[2505.08758](http://arxiv.org/abs/2505.08758)|null|
+|**2025-05-13**|**Applying the ACE2 Emulator to SST Green's Functions for the E3SMv3 Climate Model**|Elynn Wu et.al.|[2505.08742](http://arxiv.org/abs/2505.08742)|null|
+|**2025-05-14**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740](http://arxiv.org/abs/2505.08740)|**[link](https://github.com/ambehroozi/sc_neural_operators)**|
+|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735](http://arxiv.org/abs/2505.08735)|null|
+|**2025-05-13**|**Testing the Missing Completely at Random Assumption for Functional Data**|Maximilian Ofner et.al.|[2505.08721](http://arxiv.org/abs/2505.08721)|null|
+|**2025-05-13**|**Be star demographics: a comprehensive study of thousands of lightcurves in the Magellanic Clouds**|A. L. Figueiredo et.al.|[2505.08714](http://arxiv.org/abs/2505.08714)|null|
+|**2025-05-13**|**Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation**|Ibrahim Elsharkawy et.al.|[2505.08709](http://arxiv.org/abs/2505.08709)|null|
 |**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228](http://arxiv.org/abs/2505.06228)|null|
 |**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
 |**2025-05-09**|**Optimal statistical ensembles for quantum thermal state preparation within the quantum singular value transformation framework**|Yasushi Yoneta et.al.|[2505.06216](http://arxiv.org/abs/2505.06216)|null|
@@ -5969,7 +5999,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
