@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5341,7 +5341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**Approximation-First Timeseries Monitoring Query At Scale**|Zeying Zhu et.al.|[2505.10560](http://arxiv.org/abs/2505.10560)|null|
+|**2025-05-15**|**Approximation-First Timeseries Monitoring Query At Scale**|Zeying Zhu et.al.|[2505.10560](http://arxiv.org/abs/2505.10560)|**[link](https://github.com/froot-netsys/promsketch)**|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
 |**2025-05-15**|**Observing Bethe strings in an attractive Bose gas far from equilibrium**|Milena Horvath et.al.|[2505.10550](http://arxiv.org/abs/2505.10550)|null|
 |**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536](http://arxiv.org/abs/2505.10536)|null|
