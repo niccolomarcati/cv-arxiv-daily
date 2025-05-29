@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504](http://arxiv.org/abs/2505.21504)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496](http://arxiv.org/abs/2505.21496)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
+|**2025-05-27**|**Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit**|Kyrylo Gerashchenko et.al.|[2505.21481](http://arxiv.org/abs/2505.21481)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
+|**2025-05-27**|**Quasi Steady-State Frequency**|Joan Gutierrez-Florensa et.al.|[2505.21461](http://arxiv.org/abs/2505.21461)|null|
+|**2025-05-27**|**Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling**|Xiangxin Zhou et.al.|[2505.21452](http://arxiv.org/abs/2505.21452)|null|
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151](http://arxiv.org/abs/2505.18151)|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139](http://arxiv.org/abs/2505.18139)|null|
 |**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
@@ -4710,6 +4720,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Out of the Past: An AI-Enabled Pipeline for Traffic Simulation from Noisy, Multimodal Detector Data and Stakeholder Feedback**|Rex Chen et.al.|[2505.21349](http://arxiv.org/abs/2505.21349)|null|
+|**2025-05-27**|**CiUAV: A Multi-Task 3D Indoor Localization System for UAVs based on Channel State Information**|Cunyi Yin et.al.|[2505.21216](http://arxiv.org/abs/2505.21216)|null|
+|**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161](http://arxiv.org/abs/2505.21161)|null|
+|**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
+|**2025-05-27**|**Large Language Model-enhanced Reinforcement Learning for Low-Altitude Economy Networking**|Lingyi Cai et.al.|[2505.21045](http://arxiv.org/abs/2505.21045)|null|
+|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
+|**2025-05-27**|**COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle**|Jun Liu et.al.|[2505.20926](http://arxiv.org/abs/2505.20926)|null|
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906](http://arxiv.org/abs/2505.20906)|null|
+|**2025-05-27**|**Generalized Coordination of Partially Cooperative Urban Traffic**|Max Bastian Mertens et.al.|[2505.20879](http://arxiv.org/abs/2505.20879)|null|
+|**2025-05-27**|**Research on a Two-Layer Demand Response Framework for Electric Vehicle Users and Aggregators Based on LLMs**|Zhaoyi Zhang et.al.|[2505.20877](http://arxiv.org/abs/2505.20877)|null|
 |**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115](http://arxiv.org/abs/2505.18115)|null|
 |**2025-05-23**|**Emergence of Hebbian Dynamics in Regularized Non-Local Learners**|David Koplow et.al.|[2505.18069](http://arxiv.org/abs/2505.18069)|null|
 |**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039](http://arxiv.org/abs/2505.18039)|null|
@@ -5421,6 +5441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Dust removal timescale in galaxies across cosmic time**|Aleksandra Leśniewska et.al.|[2505.21492](http://arxiv.org/abs/2505.21492)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
+|**2025-05-27**|**Algorithms and SQ Lower Bounds for Robustly Learning Real-valued Multi-index Models**|Ilias Diakonikolas et.al.|[2505.21475](http://arxiv.org/abs/2505.21475)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
+|**2025-05-27**|**Distribution Bounds on the Conditional ROC in a Poisson Field of Interferers and Clutters**|Gourab Ghatak et.al.|[2505.21456](http://arxiv.org/abs/2505.21456)|null|
+|**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
+|**2025-05-27**|**Full stochastic dynamics of a tracer in a dense single-file system**|Alexis Poncet et.al.|[2505.21446](http://arxiv.org/abs/2505.21446)|null|
+|**2025-05-27**|**Autoencoding Random Forests**|Binh Duc Vu et.al.|[2505.21441](http://arxiv.org/abs/2505.21441)|null|
+|**2025-05-27**|**Expectation-maximization for multi-reference alignment: Two pitfalls and one remedy**|Amnon Balanov et.al.|[2505.21435](http://arxiv.org/abs/2505.21435)|null|
+|**2025-05-27**|**Breaking co-existence: zealotry vs. nonlinear social impact**|Christopher R. Kitching et.al.|[2505.21407](http://arxiv.org/abs/2505.21407)|null|
 |**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150](http://arxiv.org/abs/2505.18150)|null|
 |**2025-05-23**|**A new measure of dependence: Integrated $R^2$**|Mona Azadkia et.al.|[2505.18146](http://arxiv.org/abs/2505.18146)|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
