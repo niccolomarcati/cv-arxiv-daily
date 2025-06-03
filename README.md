@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**Quantum Acoustics with Tunable Nonlinearity in the Superstrong Coupling Regime**|Marco Scigliuzzo et.al.|[2505.24865](http://arxiv.org/abs/2505.24865)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**A localized consensus-based sampling algorithm**|Arne Bouillon et.al.|[2505.24861](http://arxiv.org/abs/2505.24861)|null|
+|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860](http://arxiv.org/abs/2505.24860)|null|
+|**2025-05-30**|**Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization**|Joschka Braun et.al.|[2505.24859](http://arxiv.org/abs/2505.24859)|null|
+|**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853](http://arxiv.org/abs/2505.24853)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Cryogenic scanning photocurrent spectroscopy for materials responses to structured optical fields**|Duxing Hao et.al.|[2505.24833](http://arxiv.org/abs/2505.24833)|null|
+|**2025-05-30**|**Convex Approximations of Random Constrained Markov Decision Processes**|V Varagapriya et.al.|[2505.24815](http://arxiv.org/abs/2505.24815)|null|
 |**2025-05-29**|**Model Immunization from a Condition Number Perspective**|Amber Yijia Zheng et.al.|[2505.23760](http://arxiv.org/abs/2505.23760)|null|
 |**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
@@ -4749,12 +4759,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Coordinated Beamforming for RIS-Empowered ISAC Systems over Secure Low-Altitude Networks**|Chunjie Wang et.al.|[2505.24804](http://arxiv.org/abs/2505.24804)|null|
+|**2025-05-30**|**Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees**|Fu Luo et.al.|[2505.24627](http://arxiv.org/abs/2505.24627)|null|
+|**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
+|**2025-05-30**|**R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning**|Harsh Goel et.al.|[2505.24265](http://arxiv.org/abs/2505.24265)|null|
+|**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam et.al.|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
+|**2025-05-30**|**Channel Knowledge Maps for 6G Wireless Networks: Construction, Applications, and Future Challenges**|Xingchen Liu et.al.|[2505.24151](http://arxiv.org/abs/2505.24151)|null|
+|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
+|**2025-05-29**|**The Impact of Galaxy Overdensities and Ionized Bubbles on Ly $α$ Emission $z\sim7.0\mbox{--}8.5$**|Zuyi Chen et.al.|[2505.24080](http://arxiv.org/abs/2505.24080)|null|
+|**2025-05-29**|**The Dynamic Role of Aerosol and Exudate Transport in the Diffusion of Lung Infection in Respiratory Infectious Diseases (taking SARS-CoV-2 as an example): A Hypothesis Model**|Shi Qiru et.al.|[2505.24057](http://arxiv.org/abs/2505.24057)|null|
+|**2025-05-29**|**Nonlinear Oscillatory Response of Automated Vehicle Car-following: Theoretical Analysis with Traffic State and Control Input Limits**|Sixu Li et.al.|[2505.24029](http://arxiv.org/abs/2505.24029)|null|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
 |**2025-05-29**|**Collaborative Last-Mile Delivery: A Multi-Platform Vehicle Routing Problem With En-route Charging**|Sumbal Malik et.al.|[2505.23584](http://arxiv.org/abs/2505.23584)|null|
 |**2025-05-29**|**Self-driving technologies need the help of the public: A narrative review of the evidence**|Jonathan Smith et.al.|[2505.23472](http://arxiv.org/abs/2505.23472)|null|
@@ -5482,12 +5502,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855](http://arxiv.org/abs/2505.24855)|null|
+|**2025-05-30**|**Statistical mechanics of extensive-width Bayesian neural networks near interpolation**|Jean Barbier et.al.|[2505.24849](http://arxiv.org/abs/2505.24849)|null|
+|**2025-05-30**|**Accurate and efficient likelihood modeling for large-scale CMB data**|Giacomo Galloni et.al.|[2505.24829](http://arxiv.org/abs/2505.24829)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**Asymptotics for the harmonic descent chain and applications to critical beta-splitting trees**|Anna Brandenberger et.al.|[2505.24821](http://arxiv.org/abs/2505.24821)|null|
+|**2025-05-30**|**Closed-form survival probabilities for biased random walks at arbitrary step number**|Debendro Mookerjee et.al.|[2505.24814](http://arxiv.org/abs/2505.24814)|null|
+|**2025-05-30**|**Critical demand in a stochastic model of flows in supply networks**|Yannick Feld et.al.|[2505.24813](http://arxiv.org/abs/2505.24813)|null|
+|**2025-05-30**|**Locally Differentially Private Two-Sample Testing**|Alexander Kent et.al.|[2505.24811](http://arxiv.org/abs/2505.24811)|null|
 |**2025-05-29**|**Perturbative Likelihoods for Large-Scale Structure of the Universe**|Rodrigo Voivodic et.al.|[2505.23750](http://arxiv.org/abs/2505.23750)|null|
 |**2025-05-29**|**Group Convolutional Neural Network Ground State of the Quantum Dimer Model**|Ojasvi Sharma et.al.|[2505.23728](http://arxiv.org/abs/2505.23728)|null|
 |**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
@@ -6209,7 +6239,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
