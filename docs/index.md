@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3999,7 +3999,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
 |**2025-06-05**|**Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models**|Anirudh Bharadwaj et.al.|[2506.05339](http://arxiv.org/abs/2506.05339)|null|
-|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
+|**2025-06-06**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
 |**2025-06-05**|**MARBLE: Material Recomposition and Blending in CLIP-Space**|Ta-Ying Cheng et.al.|[2506.05313](http://arxiv.org/abs/2506.05313)|null|
 |**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308](http://arxiv.org/abs/2506.05308)|null|
