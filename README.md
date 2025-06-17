@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2055,7 +2055,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2323,7 +2323,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2605,7 +2605,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## NeRF
 
@@ -4014,12 +4014,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## STEER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Dictionary Learning Based Regularization in Quantitative MRI: A Nested Alternating Optimization Framework**|Guozhi Dong et.al.|[2506.11977](http://arxiv.org/abs/2506.11977)|null|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971](http://arxiv.org/abs/2506.11971)|null|
+|**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
+|**2025-06-13**|**Universal cooling of quantum systems via randomized measurements**|Josias Langbehn et.al.|[2506.11964](http://arxiv.org/abs/2506.11964)|null|
+|**2025-06-13**|**Achieving Optimal Locomotion using Self-Generated Waves**|D. O'Donovan et.al.|[2506.11961](http://arxiv.org/abs/2506.11961)|null|
+|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
+|**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Nadun Ranawaka Arachchige et.al.|[2506.11948](http://arxiv.org/abs/2506.11948)|null|
+|**2025-06-13**|**Intractable Cookie Crumbs: Unveiling the Nexus of Stateful Banner Interaction and Tracking Cookies**|Ali Rasaii et.al.|[2506.11947](http://arxiv.org/abs/2506.11947)|null|
+|**2025-06-13**|**Nash equilibria in semidefinite games and Lemke-Howson paths**|Constantin Ickstadt et.al.|[2506.11940](http://arxiv.org/abs/2506.11940)|null|
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
 |**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994](http://arxiv.org/abs/2506.09994)|null|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
@@ -4789,12 +4799,22 @@
 |**2024-12-11**|**Offset-free model predictive control: stability under plant-model mismatch**|Steven J. Kuntz et.al.|[2412.08104](http://arxiv.org/abs/2412.08104)|null|
 |**2024-12-11**|**Concept Bottleneck Large Language Models**|Chung-En Sun et.al.|[2412.07992](http://arxiv.org/abs/2412.07992)|**[link](https://github.com/trustworthy-ml-lab/cb-llms)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## MPC
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925](http://arxiv.org/abs/2506.11925)|null|
+|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**The Karl G. Jansky Very Large Array Local Group L-band Survey (LGLBS)**|Eric W. Koch et.al.|[2506.11792](http://arxiv.org/abs/2506.11792)|null|
+|**2025-06-13**|**Modeling Urban Air Quality Using Taxis as Sensors**|Anastasios Noulas et.al.|[2506.11720](http://arxiv.org/abs/2506.11720)|null|
+|**2025-06-13**|**An Empirical study on LLM-based Log Retrieval for Software Engineering Metadata Management**|Simin Sun et.al.|[2506.11659](http://arxiv.org/abs/2506.11659)|null|
+|**2025-06-13**|**Camera-based method for the detection of lifted truck axles using convolutional neural networks**|Bachir Tchana Tankeu et.al.|[2506.11574](http://arxiv.org/abs/2506.11574)|null|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Zachary Olkin et.al.|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**A Branch-and-Cut Algorithm for the Optimal Design of Parking Lots with One-way and Two-way Lanes**|Helen Thomas et.al.|[2506.09961](http://arxiv.org/abs/2506.09961)|null|
 |**2025-06-11**|**On the Linear Programming Model for Dynamic Stochastic Matching and Its Application on Pricing**|Junlin Chen et.al.|[2506.09924](http://arxiv.org/abs/2506.09924)|null|
@@ -5562,12 +5582,22 @@
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-11**|**Rigid Communication Topologies: Impact on Stability, Safety, Energy Consumption, Passenger Comfort, and Robustness of Vehicular Platoons**|Amir Zakerimanesh et.al.|[2412.08122](http://arxiv.org/abs/2412.08122)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## statistic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013](http://arxiv.org/abs/2506.12013)|null|
+|**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
+|**2025-06-13**|**Statistical State Dynamics based study of turbulence in Eady fronts. Part 1. Instability**|Eojin Kim et.al.|[2506.11993](http://arxiv.org/abs/2506.11993)|null|
+|**2025-06-13**|**Using gridpoint relaxation for forecast error diagnostics in neural weather models**|Uros Perkan et.al.|[2506.11987](http://arxiv.org/abs/2506.11987)|null|
+|**2025-06-13**|**Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders**|Paulin de Schoulepnikoff et.al.|[2506.11982](http://arxiv.org/abs/2506.11982)|null|
+|**2025-06-13**|**Most probable paths for active Ornstein-Uhlenbeck particles**|Sandipan Dutta et.al.|[2506.11978](http://arxiv.org/abs/2506.11978)|null|
+|**2025-06-13**|**Evaluating Program Sequences with Double Machine Learning: An Application to Labor Market Policies**|Fabian Muny et.al.|[2506.11960](http://arxiv.org/abs/2506.11960)|null|
+|**2025-06-13**|**Modeling Complex Life Systems: Bayesian Inference for Weibull Failure Times Using Adaptive MCMC**|Tobias Oketch et.al.|[2506.11949](http://arxiv.org/abs/2506.11949)|null|
+|**2025-06-13**|**Temporal Dynamics of Emotions in Italian Online Soccer Fandoms**|Salvatore Citraro et.al.|[2506.11934](http://arxiv.org/abs/2506.11934)|null|
+|**2025-06-16**|**Evaluating Sensitivity Parameters in Smartphone-Based Gaze Estimation: A Comparative Study of Appearance-Based and Infrared Eye Trackers**|Nishan Gunawardena et.al.|[2506.11932](http://arxiv.org/abs/2506.11932)|null|
 |**2025-06-11**|**Constrained Denoising, Empirical Bayes, and Optimal Transport**|Adam Quinn Jaffe et.al.|[2506.09986](http://arxiv.org/abs/2506.09986)|null|
 |**2025-06-11**|**Almost-Optimal Local-Search Methods for Sparse Tensor PCA**|Max Lovig et.al.|[2506.09959](http://arxiv.org/abs/2506.09959)|null|
 |**2025-06-11**|**Discrete-space and -time analogue of a super-diffusive fractional Brownian motion**|Enzo Marinari et.al.|[2506.09921](http://arxiv.org/abs/2506.09921)|null|
@@ -6329,7 +6359,7 @@
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
 |**2024-12-11**|**REPEAT: Improving Uncertainty Estimation in Representation Learning Explainability**|Kristoffer K. Wickstrøm et.al.|[2412.08513](http://arxiv.org/abs/2412.08513)|**[link](https://github.com/wickstrom/repeat)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

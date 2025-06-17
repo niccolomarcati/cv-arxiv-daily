@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Dictionary Learning Based Regularization in Quantitative MRI: A Nested Alternating Optimization Framework**|Guozhi Dong et.al.|[2506.11977](http://arxiv.org/abs/2506.11977)|null|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971](http://arxiv.org/abs/2506.11971)|null|
+|**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
+|**2025-06-13**|**Universal cooling of quantum systems via randomized measurements**|Josias Langbehn et.al.|[2506.11964](http://arxiv.org/abs/2506.11964)|null|
+|**2025-06-13**|**Achieving Optimal Locomotion using Self-Generated Waves**|D. O'Donovan et.al.|[2506.11961](http://arxiv.org/abs/2506.11961)|null|
+|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
+|**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Nadun Ranawaka Arachchige et.al.|[2506.11948](http://arxiv.org/abs/2506.11948)|null|
+|**2025-06-13**|**Intractable Cookie Crumbs: Unveiling the Nexus of Stateful Banner Interaction and Tracking Cookies**|Ali Rasaii et.al.|[2506.11947](http://arxiv.org/abs/2506.11947)|null|
+|**2025-06-13**|**Nash equilibria in semidefinite games and Lemke-Howson paths**|Constantin Ickstadt et.al.|[2506.11940](http://arxiv.org/abs/2506.11940)|null|
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
 |**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994](http://arxiv.org/abs/2506.09994)|null|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
@@ -4770,6 +4780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925](http://arxiv.org/abs/2506.11925)|null|
+|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**The Karl G. Jansky Very Large Array Local Group L-band Survey (LGLBS)**|Eric W. Koch et.al.|[2506.11792](http://arxiv.org/abs/2506.11792)|null|
+|**2025-06-13**|**Modeling Urban Air Quality Using Taxis as Sensors**|Anastasios Noulas et.al.|[2506.11720](http://arxiv.org/abs/2506.11720)|null|
+|**2025-06-13**|**An Empirical study on LLM-based Log Retrieval for Software Engineering Metadata Management**|Simin Sun et.al.|[2506.11659](http://arxiv.org/abs/2506.11659)|null|
+|**2025-06-13**|**Camera-based method for the detection of lifted truck axles using convolutional neural networks**|Bachir Tchana Tankeu et.al.|[2506.11574](http://arxiv.org/abs/2506.11574)|null|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Zachary Olkin et.al.|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**A Branch-and-Cut Algorithm for the Optimal Design of Parking Lots with One-way and Two-way Lanes**|Helen Thomas et.al.|[2506.09961](http://arxiv.org/abs/2506.09961)|null|
 |**2025-06-11**|**On the Linear Programming Model for Dynamic Stochastic Matching and Its Application on Pricing**|Junlin Chen et.al.|[2506.09924](http://arxiv.org/abs/2506.09924)|null|
@@ -5541,6 +5561,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013](http://arxiv.org/abs/2506.12013)|null|
+|**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
+|**2025-06-13**|**Statistical State Dynamics based study of turbulence in Eady fronts. Part 1. Instability**|Eojin Kim et.al.|[2506.11993](http://arxiv.org/abs/2506.11993)|null|
+|**2025-06-13**|**Using gridpoint relaxation for forecast error diagnostics in neural weather models**|Uros Perkan et.al.|[2506.11987](http://arxiv.org/abs/2506.11987)|null|
+|**2025-06-13**|**Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders**|Paulin de Schoulepnikoff et.al.|[2506.11982](http://arxiv.org/abs/2506.11982)|null|
+|**2025-06-13**|**Most probable paths for active Ornstein-Uhlenbeck particles**|Sandipan Dutta et.al.|[2506.11978](http://arxiv.org/abs/2506.11978)|null|
+|**2025-06-13**|**Evaluating Program Sequences with Double Machine Learning: An Application to Labor Market Policies**|Fabian Muny et.al.|[2506.11960](http://arxiv.org/abs/2506.11960)|null|
+|**2025-06-13**|**Modeling Complex Life Systems: Bayesian Inference for Weibull Failure Times Using Adaptive MCMC**|Tobias Oketch et.al.|[2506.11949](http://arxiv.org/abs/2506.11949)|null|
+|**2025-06-13**|**Temporal Dynamics of Emotions in Italian Online Soccer Fandoms**|Salvatore Citraro et.al.|[2506.11934](http://arxiv.org/abs/2506.11934)|null|
+|**2025-06-16**|**Evaluating Sensitivity Parameters in Smartphone-Based Gaze Estimation: A Comparative Study of Appearance-Based and Infrared Eye Trackers**|Nishan Gunawardena et.al.|[2506.11932](http://arxiv.org/abs/2506.11932)|null|
 |**2025-06-11**|**Constrained Denoising, Empirical Bayes, and Optimal Transport**|Adam Quinn Jaffe et.al.|[2506.09986](http://arxiv.org/abs/2506.09986)|null|
 |**2025-06-11**|**Almost-Optimal Local-Search Methods for Sparse Tensor PCA**|Max Lovig et.al.|[2506.09959](http://arxiv.org/abs/2506.09959)|null|
 |**2025-06-11**|**Discrete-space and -time analogue of a super-diffusive fractional Brownian motion**|Enzo Marinari et.al.|[2506.09921](http://arxiv.org/abs/2506.09921)|null|
