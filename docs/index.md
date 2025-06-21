@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
+|**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
+|**2025-06-18**|**Enhanced two-dimensional ferromagnetism in van der Waals $β$-UTe$_3$ monolayers**|S. M. Thomas et.al.|[2506.15667](http://arxiv.org/abs/2506.15667)|null|
+|**2025-06-18**|**A Data-Integrated Framework for Learning Fractional-Order Nonlinear Dynamical Systems**|Bahram Yaghooti et.al.|[2506.15665](http://arxiv.org/abs/2506.15665)|null|
+|**2025-06-18**|**AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning**|Tevin Wang et.al.|[2506.15651](http://arxiv.org/abs/2506.15651)|null|
+|**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
+|**2025-06-18**|**Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement**|Weixiang Zhao et.al.|[2506.15647](http://arxiv.org/abs/2506.15647)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**Duplication-divergence growing graph models**|Dario Borrelli et.al.|[2506.15640](http://arxiv.org/abs/2506.15640)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
 |**2025-06-13**|**Dictionary Learning Based Regularization in Quantitative MRI: A Nested Alternating Optimization Framework**|Guozhi Dong et.al.|[2506.11977](http://arxiv.org/abs/2506.11977)|null|
 |**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
 |**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971](http://arxiv.org/abs/2506.11971)|null|
@@ -4780,6 +4790,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle**|Kun Liu et.al.|[2506.15450](http://arxiv.org/abs/2506.15450)|null|
+|**2025-06-18**|**Model Predictive Path-Following Control for a Quadrotor**|David Leprich et.al.|[2506.15447](http://arxiv.org/abs/2506.15447)|null|
+|**2025-06-18**|**Comparison of Innovative Strategies for the Coverage Problem: Path Planning, Search Optimization, and Applications in Underwater Robotics**|Ahmed Ibrahim et.al.|[2506.15376](http://arxiv.org/abs/2506.15376)|null|
+|**2025-06-18**|**Unveiling the small-scale web around galaxies with miniJPAS and DESI: the role of local connectivity in star formation**|Daniela Galárraga-Espinosa et.al.|[2506.15345](http://arxiv.org/abs/2506.15345)|null|
+|**2025-06-18**|**A Kinematic Constraint on Pedestrian Walking: Power-law Scaling between Critical Angular Velocity and Speed**|Jinghui Wang et.al.|[2506.15321](http://arxiv.org/abs/2506.15321)|null|
+|**2025-06-18**|**SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes**|Jinglong Luo et.al.|[2506.15307](http://arxiv.org/abs/2506.15307)|null|
+|**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289](http://arxiv.org/abs/2506.15289)|null|
+|**2025-06-18**|**Context-Aware Deep Lagrangian Networks for Model Predictive Control**|Lucas Schulze et.al.|[2506.15249](http://arxiv.org/abs/2506.15249)|null|
+|**2025-06-18**|**Joint Computation Offloading and Resource Allocation for Uncertain Maritime MEC via Cooperation of UAVs and Vessels**|Jiahao You et.al.|[2506.15225](http://arxiv.org/abs/2506.15225)|null|
+|**2025-06-18**|**Operational Control of a Multi-energy District Heating System: Comparison of Model-Predictive Control and Rule-Based Control**|Michael Nikhil Descamps et.al.|[2506.15197](http://arxiv.org/abs/2506.15197)|null|
 |**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
 |**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925](http://arxiv.org/abs/2506.11925)|null|
 |**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
@@ -5561,6 +5581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Kinetic magnetism in the crossover between the square and triangular lattice Fermi-Hubbard models**|Darren Pereira et.al.|[2506.15669](http://arxiv.org/abs/2506.15669)|null|
+|**2025-06-18**|**On the Upper Bounds for the Matrix Spectral Norm**|Alexey Naumov et.al.|[2506.15660](http://arxiv.org/abs/2506.15660)|null|
+|**2025-06-18**|**Machine learning based prediction of dynamical clustering in granular gases**|Sai Preetham Sata et.al.|[2506.15657](http://arxiv.org/abs/2506.15657)|null|
+|**2025-06-18**|**Fokker-Planck Score Learning: Efficient Free-Energy Estimation under Periodic Boundary Conditions**|Daniel Nagel et.al.|[2506.15653](http://arxiv.org/abs/2506.15653)|null|
+|**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
+|**2025-06-18**|**Predictions of flow distortions inside a serpentine diffuser from large-eddy simulations**|Rahul Agrawal et.al.|[2506.15646](http://arxiv.org/abs/2506.15646)|null|
+|**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644](http://arxiv.org/abs/2506.15644)|null|
+|**2025-06-18**|**Flips Reveal the Universal Impact of Memory on Random Explorations**|Julien Brémont et.al.|[2506.15642](http://arxiv.org/abs/2506.15642)|null|
+|**2025-06-18**|**Duplication-divergence growing graph models**|Dario Borrelli et.al.|[2506.15640](http://arxiv.org/abs/2506.15640)|null|
+|**2025-06-18**|**Mitigating sloppiness in joint estimation of successive squeezing parameters**|Priyanka Sharma et.al.|[2506.15638](http://arxiv.org/abs/2506.15638)|null|
 |**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013](http://arxiv.org/abs/2506.12013)|null|
 |**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
 |**2025-06-13**|**Statistical State Dynamics based study of turbulence in Eady fronts. Part 1. Instability**|Eojin Kim et.al.|[2506.11993](http://arxiv.org/abs/2506.11993)|null|
