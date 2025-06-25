@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903](http://arxiv.org/abs/2506.18903)|null|
+|**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
+|**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
+|**2025-06-23**|**Electrostatic control of quantum phases in KTaO3-based planar constrictions**|Jordan T. McCourt et.al.|[2506.18894](http://arxiv.org/abs/2506.18894)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**A comparison principle for variational problems : with an application to optimal transport**|Flavien Léger et.al.|[2506.18884](http://arxiv.org/abs/2506.18884)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/abs/2506.18880)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
 |**2025-06-18**|**Enhanced two-dimensional ferromagnetism in van der Waals $β$-UTe$_3$ monolayers**|S. M. Thomas et.al.|[2506.15667](http://arxiv.org/abs/2506.15667)|null|
@@ -4790,6 +4800,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
+|**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
+|**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[2506.18737](http://arxiv.org/abs/2506.18737)|null|
+|**2025-06-23**|**FuGa3D: Fast full-sky analysis of Galaxy catalogs in 3D**|Elina Keihänen et.al.|[2506.18676](http://arxiv.org/abs/2506.18676)|null|
+|**2025-06-23**|**Crowdsourcing eHMI Designs: A Participatory Approach to Autonomous Vehicle-Pedestrian Communication**|Ronald Cumbal et.al.|[2506.18605](http://arxiv.org/abs/2506.18605)|null|
+|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
+|**2025-06-24**|**Detection of subsurface structures with a vehicle-based atom gravity gradiometer**|Xiaowei Zhang et.al.|[2506.18506](http://arxiv.org/abs/2506.18506)|null|
+|**2025-06-23**|**Physics-Informed Neural Networks for Nonlocal Flow Modeling of Connected Automated Vehicles**|Chenguang Zhao et.al.|[2506.18357](http://arxiv.org/abs/2506.18357)|null|
+|**2025-06-23**|**TritonZ: A Remotely Operated Underwater Rover with Manipulator Arm for Exploration and Rescue Operations**|Kawser Ahmed et.al.|[2506.18343](http://arxiv.org/abs/2506.18343)|null|
+|**2025-06-23**|**Programmable electro-optic frequency comb empowers integrated parallel convolution processing**|Jinze He et.al.|[2506.18310](http://arxiv.org/abs/2506.18310)|null|
 |**2025-06-18**|**SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle**|Kun Liu et.al.|[2506.15450](http://arxiv.org/abs/2506.15450)|null|
 |**2025-06-18**|**Model Predictive Path-Following Control for a Quadrotor**|David Leprich et.al.|[2506.15447](http://arxiv.org/abs/2506.15447)|null|
 |**2025-06-18**|**Comparison of Innovative Strategies for the Coverage Problem: Path Planning, Search Optimization, and Applications in Underwater Robotics**|Ahmed Ibrahim et.al.|[2506.15376](http://arxiv.org/abs/2506.15376)|null|
@@ -5581,6 +5601,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Finite-size security analysis for quantum protocols: A Python framework using the Entropy Accumulation Theorem with graphical interface**|Piotr Mironowicz et.al.|[2506.18888](http://arxiv.org/abs/2506.18888)|null|
+|**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
+|**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821](http://arxiv.org/abs/2506.18821)|null|
+|**2025-06-23**|**Structure and dynamics of finite three-dimensional Yukawa clusters in complex plasmas : Newtonian versus Langevin Dynamics**|Hirakjyoti Sarma et.al.|[2506.18820](http://arxiv.org/abs/2506.18820)|null|
+|**2025-06-23**|**Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures**|Aristotelis Papatheodorou et.al.|[2506.18812](http://arxiv.org/abs/2506.18812)|null|
+|**2025-06-24**|**A Practical Introduction to Regression-based Causal Inference in Meteorology (I): All confounders measured**|Caren Marzban et.al.|[2506.18808](http://arxiv.org/abs/2506.18808)|null|
+|**2025-06-23**|**Rethinking Scientific Rankings with Breakthrough and Disruption Metrics: A Complex Network-Based Approach**|Adarsh Raghuvanshi et.al.|[2506.18804](http://arxiv.org/abs/2506.18804)|null|
+|**2025-06-23**|**3D Arena: An Open Platform for Generative 3D Evaluation**|Dylan Ebert et.al.|[2506.18787](http://arxiv.org/abs/2506.18787)|null|
+|**2025-06-23**|**Likelihood Ratio test for Poisson graph**|Chen Shuyan et.al.|[2506.18778](http://arxiv.org/abs/2506.18778)|null|
+|**2025-06-23**|**A complete census of planet-hosting binaries**|Philippe Thebault et.al.|[2506.18759](http://arxiv.org/abs/2506.18759)|null|
 |**2025-06-18**|**Kinetic magnetism in the crossover between the square and triangular lattice Fermi-Hubbard models**|Darren Pereira et.al.|[2506.15669](http://arxiv.org/abs/2506.15669)|null|
 |**2025-06-18**|**On the Upper Bounds for the Matrix Spectral Norm**|Alexey Naumov et.al.|[2506.15660](http://arxiv.org/abs/2506.15660)|null|
 |**2025-06-18**|**Machine learning based prediction of dynamical clustering in granular gases**|Sai Preetham Sata et.al.|[2506.15657](http://arxiv.org/abs/2506.15657)|null|
