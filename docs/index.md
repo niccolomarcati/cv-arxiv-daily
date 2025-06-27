@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666](http://arxiv.org/abs/2506.20666)|null|
+|**2025-06-25**|**A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing**|Joshua Agterberg et.al.|[2506.20659](http://arxiv.org/abs/2506.20659)|null|
+|**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
+|**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
+|**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
+|**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636](http://arxiv.org/abs/2506.20636)|null|
+|**2025-06-25**|**Nonlinear Enhancement of Measurement Precision via a Hybrid Quantum Switch**|Lei Chen et.al.|[2506.20632](http://arxiv.org/abs/2506.20632)|null|
+|**2025-06-25**|**Cost-benefit analysis of an AI-driven operational digital platform for integrated electric mobility, renewable energy, and grid management**|Arega Getaneh Abate et.al.|[2506.20631](http://arxiv.org/abs/2506.20631)|null|
+|**2025-06-25**|**First-order methods for stochastic and finite-sum convex optimization with deterministic constraints**|Zhaosong Lu et.al.|[2506.20630](http://arxiv.org/abs/2506.20630)|null|
+|**2025-06-25**|**Identifiability and Maximum Likelihood Estimation for System Identification of Networks of Dynamical Systems**|Anders Hansson et.al.|[2506.20628](http://arxiv.org/abs/2506.20628)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903](http://arxiv.org/abs/2506.18903)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
@@ -4800,6 +4810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646](http://arxiv.org/abs/2506.20646)|null|
+|**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636](http://arxiv.org/abs/2506.20636)|null|
+|**2025-06-25**|**Cost-benefit analysis of an AI-driven operational digital platform for integrated electric mobility, renewable energy, and grid management**|Arega Getaneh Abate et.al.|[2506.20631](http://arxiv.org/abs/2506.20631)|null|
+|**2025-06-25**|**Task Allocation of UAVs for Monitoring Missions via Hardware-in-the-Loop Simulation and Experimental Validation**|Hamza Chakraa et.al.|[2506.20626](http://arxiv.org/abs/2506.20626)|null|
+|**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
+|**2025-06-25**|**WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning**|Arno Geimer et.al.|[2506.20518](http://arxiv.org/abs/2506.20518)|null|
+|**2025-06-25**|**EANS: Reducing Energy Consumption for UAV with an Environmental Adaptive Navigation Strategy**|Tian Liu et.al.|[2506.20485](http://arxiv.org/abs/2506.20485)|null|
+|**2025-06-26**|**Smart Ride and Delivery Services with Electric Vehicles: Leveraging Bidirectional Charging for Profit Optimisation**|Jinchun Du et.al.|[2506.20401](http://arxiv.org/abs/2506.20401)|null|
+|**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
+|**2025-06-25**|**A Unified Framework for UAV-Based Free-Space Quantum Links: Beam Shaping and Adaptive Field-of-View Control**|Mohammad Taghi Dabiri et.al.|[2506.20336](http://arxiv.org/abs/2506.20336)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
 |**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
 |**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[2506.18737](http://arxiv.org/abs/2506.18737)|null|
@@ -5601,6 +5621,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**An iterative CMB lensing estimator minimizing instrumental noise bias**|Louis Legrand et.al.|[2506.20667](http://arxiv.org/abs/2506.20667)|null|
+|**2025-06-25**|**A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing**|Joshua Agterberg et.al.|[2506.20659](http://arxiv.org/abs/2506.20659)|null|
+|**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
+|**2025-06-25**|**rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**|Sandy H. S. Herho et.al.|[2506.20633](http://arxiv.org/abs/2506.20633)|**[link](https://github.com/sandyherho/rd_spiral)**|
+|**2025-06-25**|**Lost in Retraining: Roaming the Parameter Space of Exponential Families Under Closed-Loop Learning**|Fariba Jangjoo et.al.|[2506.20623](http://arxiv.org/abs/2506.20623)|null|
+|**2025-06-25**|**Probing the Physical Reality of Projective Measurements**|Leonard Werner Pingen et.al.|[2506.20618](http://arxiv.org/abs/2506.20618)|null|
+|**2025-06-25**|**A New Regression Model for Analyzing Non-Stationary Extremes in Response and Covariate Variables with an Application in Meteorology**|Amina El Bernoussi et.al.|[2506.20615](http://arxiv.org/abs/2506.20615)|null|
+|**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614](http://arxiv.org/abs/2506.20614)|null|
+|**2025-06-25**|**Depinning and activated motion of chiral self-propelled robots**|Juan Pablo Carrillo-Mora et.al.|[2506.20610](http://arxiv.org/abs/2506.20610)|null|
+|**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
 |**2025-06-23**|**Finite-size security analysis for quantum protocols: A Python framework using the Entropy Accumulation Theorem with graphical interface**|Piotr Mironowicz et.al.|[2506.18888](http://arxiv.org/abs/2506.18888)|null|
 |**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
 |**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821](http://arxiv.org/abs/2506.18821)|null|
