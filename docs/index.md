@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.27
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
+|**2025-06-26**|**Gaussian Invariant Markov Chain Monte Carlo**|Michalis K. Titsias et.al.|[2506.21511](http://arxiv.org/abs/2506.21511)|null|
+|**2025-06-26**|**Joint Scheduling of DER under Demand Charges: Structure and Approximation**|Ruixiao Yang et.al.|[2506.21510](http://arxiv.org/abs/2506.21510)|null|
+|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499](http://arxiv.org/abs/2506.21499)|null|
+|**2025-06-26**|**Ad-Hoc Human-AI Coordination Challenge**|Tin Dizdarević et.al.|[2506.21490](http://arxiv.org/abs/2506.21490)|null|
+|**2025-06-26**|**An equation-based batch distillation simulation to evaluate the effect of multiplicities in thermodynamic activity coefficients**|Jennifer Werner et.al.|[2506.21483](http://arxiv.org/abs/2506.21483)|null|
+|**2025-06-26**|**Reinforcement Learning for Optimal Control of Spin Magnetometers**|Logan W. Cooke et.al.|[2506.21475](http://arxiv.org/abs/2506.21475)|null|
+|**2025-06-26**|**Linear and Second-order-cone Valid Inequalities for Problems with Storage**|Juan M. Morales et.al.|[2506.21470](http://arxiv.org/abs/2506.21470)|null|
+|**2025-06-26**|**Evaluation of Traffic Signals for Daily Traffic Pattern**|Mohammad Shokrolah Shirazi et.al.|[2506.21469](http://arxiv.org/abs/2506.21469)|null|
 |**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666](http://arxiv.org/abs/2506.20666)|null|
 |**2025-06-25**|**A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing**|Joshua Agterberg et.al.|[2506.20659](http://arxiv.org/abs/2506.20659)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
@@ -4810,6 +4820,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
+|**2025-06-26**|**Evaluation of Traffic Signals for Daily Traffic Pattern**|Mohammad Shokrolah Shirazi et.al.|[2506.21469](http://arxiv.org/abs/2506.21469)|null|
+|**2025-06-26**|**ToosiCubix: Monocular 3D Cuboid Labeling via Vehicle Part Annotations**|Behrooz Nasihatkon et.al.|[2506.21358](http://arxiv.org/abs/2506.21358)|null|
+|**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
+|**2025-06-26**|**Coordinated Control of Autonomous Vehicles for Traffic Density Reduction at a Signalized Junction: An MPC Approach**|Rudra Sen et.al.|[2506.21302](http://arxiv.org/abs/2506.21302)|null|
+|**2025-06-26**|**Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou**|Pengfei Fan et.al.|[2506.21269](http://arxiv.org/abs/2506.21269)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
+|**2025-06-26**|**Co-Design of Sensing, Communications, and Control for Low-Altitude Wireless Networks**|Haijia Jin et.al.|[2506.20970](http://arxiv.org/abs/2506.20970)|null|
 |**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646](http://arxiv.org/abs/2506.20646)|null|
 |**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636](http://arxiv.org/abs/2506.20636)|null|
 |**2025-06-25**|**Cost-benefit analysis of an AI-driven operational digital platform for integrated electric mobility, renewable energy, and grid management**|Arega Getaneh Abate et.al.|[2506.20631](http://arxiv.org/abs/2506.20631)|null|
@@ -5621,6 +5641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Detecting weighted hidden cliques**|Urmisha Chatterjee et.al.|[2506.21543](http://arxiv.org/abs/2506.21543)|null|
+|**2025-06-26**|**Continuous symmetry breaking in 1D spin chains and 1+1D field theory**|Adam Nahum et.al.|[2506.21540](http://arxiv.org/abs/2506.21540)|null|
+|**2025-06-26**|**Asymptotic Inference for Exchangeable Gibbs Partition**|Takuya Koriyama et.al.|[2506.21527](http://arxiv.org/abs/2506.21527)|null|
+|**2025-06-26**|**Gaussian Invariant Markov Chain Monte Carlo**|Michalis K. Titsias et.al.|[2506.21511](http://arxiv.org/abs/2506.21511)|null|
+|**2025-06-26**|**Robust Alignment via Partial Gromov-Wasserstein Distances**|Xiaoyun Gong et.al.|[2506.21507](http://arxiv.org/abs/2506.21507)|null|
+|**2025-06-26**|**Causal inference via implied interventions**|Carlos García Meixide et.al.|[2506.21501](http://arxiv.org/abs/2506.21501)|null|
+|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499](http://arxiv.org/abs/2506.21499)|null|
+|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486](http://arxiv.org/abs/2506.21486)|null|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
+|**2025-06-26**|**A Comprehensive Dataset for Underground Miner Detection in Diverse Scenario**|Cyrus Addy et.al.|[2506.21451](http://arxiv.org/abs/2506.21451)|null|
 |**2025-06-25**|**An iterative CMB lensing estimator minimizing instrumental noise bias**|Louis Legrand et.al.|[2506.20667](http://arxiv.org/abs/2506.20667)|null|
 |**2025-06-25**|**A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing**|Joshua Agterberg et.al.|[2506.20659](http://arxiv.org/abs/2506.20659)|null|
 |**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
