@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4888,7 +4888,7 @@ layout: default
 |**2025-06-05**|**En Route Path-planning for Partially Occupied Vehicles in Ride-pooling Systems**|Pengbo Zhu et.al.|[2506.04968](http://arxiv.org/abs/2506.04968)|null|
 |**2025-06-05**|**Bilevel Optimization for Improved Flexibility Aggregation Models of Electric Vehicle Fleets**|Philipp Härtel et.al.|[2506.04843](http://arxiv.org/abs/2506.04843)|null|
 |**2025-06-05**|**MineInsight: A Multi-sensor Dataset for Humanitarian Demining Robotics in Off-Road Environments**|Mario Malizia et.al.|[2506.04842](http://arxiv.org/abs/2506.04842)|**[link](https://github.com/mariomlz99/mineinsight)**|
-|**2025-06-05**|**Fool the Stoplight: Realistic Adversarial Patch Attacks on Traffic Light Detectors**|Svetlana Pavlitska et.al.|[2506.04823](http://arxiv.org/abs/2506.04823)|null|
+|**2025-06-05**|**Fool the Stoplight: Realistic Adversarial Patch Attacks on Traffic Light Detectors**|Svetlana Pavlitska et.al.|[2506.04823](http://arxiv.org/abs/2506.04823)|**[link](https://github.com/kastel-mobilitylab/attacks-on-traffic-light-detection)**|
 |**2025-06-05**|**Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots**|Tianxin Hu et.al.|[2506.04752](http://arxiv.org/abs/2506.04752)|null|
 |**2025-06-04**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|TDCOSMO Collaboration et.al.|[2506.03023](http://arxiv.org/abs/2506.03023)|null|
 |**2025-06-03**|**Computation- and Communication-Efficient Online FL for Resource-Constrained Aerial Vehicles**|Md-Ferdous Pervej et.al.|[2506.02972](http://arxiv.org/abs/2506.02972)|null|
@@ -5920,7 +5920,7 @@ layout: default
 |**2025-04-17**|**Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control**|Howon Ryu et.al.|[2504.13124](http://arxiv.org/abs/2504.13124)|null|
 |**2025-04-17**|**CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0<z<11.4**|Denis Burgarella et.al.|[2504.13118](http://arxiv.org/abs/2504.13118)|null|
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112](http://arxiv.org/abs/2504.13112)|null|
-|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|null|
+|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|**[link](https://github.com/kumarmanas/SHIFT)**|
 |**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|**[link](https://github.com/lewisclifton/mamba-wbc-classification)**|
 |**2025-04-15**|**Predicting Wave Dynamics using Deep Learning with Multistep Integration Inspired Attention and Physics-Based Loss Decomposition**|Indu Kant Deo et.al.|[2504.11433](http://arxiv.org/abs/2504.11433)|null|
 |**2025-04-15**|**Improving Statistical Privacy by Subsampling**|Dennis Breutigam et.al.|[2504.11429](http://arxiv.org/abs/2504.11429)|null|
