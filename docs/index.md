@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO $_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435](http://arxiv.org/abs/2506.22435)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428](http://arxiv.org/abs/2506.22428)|null|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423](http://arxiv.org/abs/2506.22423)|null|
+|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418](http://arxiv.org/abs/2506.22418)|null|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406](http://arxiv.org/abs/2506.22406)|null|
+|**2025-06-27**|**Data-Driven Intrusion Detection in Vehicles: Integrating Unscented Kalman Filter (UKF) with Machine Learning**|Shuhao Bian et.al.|[2506.22404](http://arxiv.org/abs/2506.22404)|null|
+|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401](http://arxiv.org/abs/2506.22401)|null|
+|**2025-06-27**|**A high stellar multiplicity rate amongst TESS planet candidates in the Neptunian desert using Gaia DR3 astrometry**|Fintan Eeles-Nolle et.al.|[2506.22399](http://arxiv.org/abs/2506.22399)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
 |**2025-06-26**|**Gaussian Invariant Markov Chain Monte Carlo**|Michalis K. Titsias et.al.|[2506.21511](http://arxiv.org/abs/2506.21511)|null|
@@ -4820,6 +4830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423](http://arxiv.org/abs/2506.22423)|null|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406](http://arxiv.org/abs/2506.22406)|null|
+|**2025-06-27**|**Data-Driven Intrusion Detection in Vehicles: Integrating Unscented Kalman Filter (UKF) with Machine Learning**|Shuhao Bian et.al.|[2506.22404](http://arxiv.org/abs/2506.22404)|null|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
+|**2025-06-27**|**Cool Gas in the Circumgalactic Medium of Massive Post Starburst Galaxies**|Zoe Harvey et.al.|[2506.22287](http://arxiv.org/abs/2506.22287)|null|
+|**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257](http://arxiv.org/abs/2506.22257)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**Stretch to stretch, dust to dust: low-value local $H_{0}$ measurement from two-population modelling of type Ia supernovae**|Radosław Wojtak et.al.|[2506.22150](http://arxiv.org/abs/2506.22150)|null|
+|**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[2506.22111](http://arxiv.org/abs/2506.22111)|null|
+|**2025-06-27**|**Learning to Solve Multi-Objective Routing Problems on Multigraphs**|Filip Rydin et.al.|[2506.22095](http://arxiv.org/abs/2506.22095)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
 |**2025-06-26**|**Evaluation of Traffic Signals for Daily Traffic Pattern**|Mohammad Shokrolah Shirazi et.al.|[2506.21469](http://arxiv.org/abs/2506.21469)|null|
 |**2025-06-26**|**ToosiCubix: Monocular 3D Cuboid Labeling via Vehicle Part Annotations**|Behrooz Nasihatkon et.al.|[2506.21358](http://arxiv.org/abs/2506.21358)|null|
@@ -5641,6 +5661,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436](http://arxiv.org/abs/2506.22436)|null|
+|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430](http://arxiv.org/abs/2506.22430)|null|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429](http://arxiv.org/abs/2506.22429)|null|
+|**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
+|**2025-06-27**|**A General Test for Independent and Identically Distributed Hypothesis**|Tongyu Li et.al.|[2506.22361](http://arxiv.org/abs/2506.22361)|null|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
+|**2025-06-27**|**Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts**|Xiang Li et.al.|[2506.22343](http://arxiv.org/abs/2506.22343)|null|
+|**2025-06-27**|**A Framework for Multi-source Privacy Preserving Epidemic Analysis**|Zihan Guan et.al.|[2506.22342](http://arxiv.org/abs/2506.22342)|null|
+|**2025-06-27**|**Meson-baryon scattering lengths without annihilation diagrams to order $p^4$ in heavy baryon chiral perturbation theory**|Jing Ou-Yang et.al.|[2506.22339](http://arxiv.org/abs/2506.22339)|null|
+|**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
 |**2025-06-26**|**Detecting weighted hidden cliques**|Urmisha Chatterjee et.al.|[2506.21543](http://arxiv.org/abs/2506.21543)|null|
 |**2025-06-26**|**Continuous symmetry breaking in 1D spin chains and 1+1D field theory**|Adam Nahum et.al.|[2506.21540](http://arxiv.org/abs/2506.21540)|null|
 |**2025-06-26**|**Asymptotic Inference for Exchangeable Gibbs Partition**|Takuya Koriyama et.al.|[2506.21527](http://arxiv.org/abs/2506.21527)|null|
