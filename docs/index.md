@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126](http://arxiv.org/abs/2506.24126)|null|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
+|**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Decadal Analysis of Delhi's Air Pollution Crisis: Unraveling the Contributors**|Prachi Tewari et.al.|[2506.24087](http://arxiv.org/abs/2506.24087)|null|
+|**2025-06-30**|**Time Shift Governor-Guided MPC with Collision Cone CBFs for Safe Adaptive Cruise Control in Dynamic Environments**|Robin Inho Kee et.al.|[2506.24083](http://arxiv.org/abs/2506.24083)|null|
+|**2025-06-30**|**AutoLyap: A Python package for computer-assisted Lyapunov analyses for first-order methods**|Manu Upadhyaya et.al.|[2506.24076](http://arxiv.org/abs/2506.24076)|null|
+|**2025-06-30**|**Dissipation Pathways in a Photosynthetic Complex**|Ignacio Gustin et.al.|[2506.24075](http://arxiv.org/abs/2506.24075)|null|
+|**2025-06-30**|**Spectroscopy of drive-induced unwanted state transitions in superconducting circuits**|W. Dai et.al.|[2506.24070](http://arxiv.org/abs/2506.24070)|null|
 |**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO $_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435](http://arxiv.org/abs/2506.22435)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428](http://arxiv.org/abs/2506.22428)|null|
@@ -4830,6 +4840,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Decadal Analysis of Delhi's Air Pollution Crisis: Unraveling the Contributors**|Prachi Tewari et.al.|[2506.24087](http://arxiv.org/abs/2506.24087)|null|
+|**2025-06-30**|**Time Shift Governor-Guided MPC with Collision Cone CBFs for Safe Adaptive Cruise Control in Dynamic Environments**|Robin Inho Kee et.al.|[2506.24083](http://arxiv.org/abs/2506.24083)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999](http://arxiv.org/abs/2506.23999)|null|
+|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995](http://arxiv.org/abs/2506.23995)|null|
+|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982](http://arxiv.org/abs/2506.23982)|null|
+|**2025-06-30**|**A hybrid numerical algorithm based on the stochastic particle Shakhov and DSMC method**|Hao Jin et.al.|[2506.23917](http://arxiv.org/abs/2506.23917)|null|
+|**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[2506.23771](http://arxiv.org/abs/2506.23771)|null|
+|**2025-06-30**|**How Long Can I Transmit? A Mobility Aware mmWave-based UAV Communication Framework**|Shawon Mitra et.al.|[2506.23755](http://arxiv.org/abs/2506.23755)|null|
+|**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423](http://arxiv.org/abs/2506.22423)|null|
 |**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406](http://arxiv.org/abs/2506.22406)|null|
 |**2025-06-27**|**Data-Driven Intrusion Detection in Vehicles: Integrating Unscented Kalman Filter (UKF) with Machine Learning**|Shuhao Bian et.al.|[2506.22404](http://arxiv.org/abs/2506.22404)|null|
@@ -5661,6 +5681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Beneath the Surface: >85% of z>5.9 QSOs in Massive Host Galaxies are UV-Faint**|R. J. Bouwens et.al.|[2506.24128](http://arxiv.org/abs/2506.24128)|null|
+|**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126](http://arxiv.org/abs/2506.24126)|null|
+|**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
+|**2025-06-30**|**Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions**|Mariah C. Boudreau et.al.|[2506.24103](http://arxiv.org/abs/2506.24103)|null|
+|**2025-06-30**|**Tidal Inflation is Stronger for Misaligned Neptune-Sized Planets Than Aligned Ones**|Ritika Sethi et.al.|[2506.24100](http://arxiv.org/abs/2506.24100)|null|
+|**2025-06-30**|**Ruelle-Pollicott resonances of diffusive U(1)-invariant qubit circuits**|Urban Duh et.al.|[2506.24097](http://arxiv.org/abs/2506.24097)|null|
+|**2025-06-30**|**Maximum entropy principle for quantum processes**|Siddhartha Das et.al.|[2506.24079](http://arxiv.org/abs/2506.24079)|null|
+|**2025-06-30**|**DNA Unzipping Transition**|Somendra M. Bhattacharjee et.al.|[2506.24064](http://arxiv.org/abs/2506.24064)|null|
+|**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
+|**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|
 |**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436](http://arxiv.org/abs/2506.22436)|null|
 |**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430](http://arxiv.org/abs/2506.22430)|null|
 |**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429](http://arxiv.org/abs/2506.22429)|null|
