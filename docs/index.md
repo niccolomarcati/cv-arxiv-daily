@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+|**2025-07-03**|**Stiefel optimization is NP-hard**|Zehua Lai et.al.|[2507.02839](http://arxiv.org/abs/2507.02839)|null|
+|**2025-07-03**|**Early time hydrodynamic attractor in a nearly-unitary Fermi gas**|Michal P. Heller et.al.|[2507.02838](http://arxiv.org/abs/2507.02838)|null|
+|**2025-07-03**|**LCQNN: Linear Combination of Quantum Neural Networks**|Hongshun Yao et.al.|[2507.02832](http://arxiv.org/abs/2507.02832)|null|
+|**2025-07-03**|**Prediction of synthesis parameters for N, Si, Ge and Sn diamond vacancy centers using machine learning**|Zhi Jiang et.al.|[2507.02808](http://arxiv.org/abs/2507.02808)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**Self-Steering Deep Non-Linear Spatially Selective Filters for Efficient Extraction of Moving Speakers under Weak Guidance**|Jakob Kienegger et.al.|[2507.02791](http://arxiv.org/abs/2507.02791)|null|
 |**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126](http://arxiv.org/abs/2506.24126)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
@@ -4840,6 +4850,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures**|Frida Sundfeldt et.al.|[2507.02607](http://arxiv.org/abs/2507.02607)|null|
+|**2025-07-03**|**Observer-Based Distributed Model Predictive Control for String-Stable Multi-vehicle Systems with Markovian Switching Topology**|Wenwei Que et.al.|[2507.02584](http://arxiv.org/abs/2507.02584)|null|
+|**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
+|**2025-07-03**|**Improving Consistency in Vehicle Trajectory Prediction Through Preference Optimization**|Caio Azevedo et.al.|[2507.02406](http://arxiv.org/abs/2507.02406)|null|
+|**2025-07-03**|**DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**|Maximilian Zipfl et.al.|[2507.02400](http://arxiv.org/abs/2507.02400)|null|
+|**2025-07-03**|**A learning model predictive control for virtual coupling in railroads**|Miguel A. Vaquero-Serrano et.al.|[2507.02383](http://arxiv.org/abs/2507.02383)|null|
+|**2025-07-03**|**Predictive Control over LAWN: Joint Trajectory Design and Resource Allocation**|Haijia Jin et.al.|[2507.02374](http://arxiv.org/abs/2507.02374)|null|
+|**2025-07-03**|**Path Planning using a One-shot-sampling Skeleton Map**|Gabriel O. Flores-Aquino et.al.|[2507.02328](http://arxiv.org/abs/2507.02328)|null|
+|**2025-07-03**|**A Vehicle-in-the-Loop Simulator with AI-Powered Digital Twins for Testing Automated Driving Controllers**|Zengjie Zhang et.al.|[2507.02313](http://arxiv.org/abs/2507.02313)|null|
+|**2025-07-03**|**Measurements and Modeling of Air-Ground Integrated Channel in Forest Environment Based on OFDM Signals**|Zhe Xiao et.al.|[2507.02303](http://arxiv.org/abs/2507.02303)|null|
 |**2025-06-30**|**Decadal Analysis of Delhi's Air Pollution Crisis: Unraveling the Contributors**|Prachi Tewari et.al.|[2506.24087](http://arxiv.org/abs/2506.24087)|null|
 |**2025-06-30**|**Time Shift Governor-Guided MPC with Collision Cone CBFs for Safe Adaptive Cruise Control in Dynamic Environments**|Robin Inho Kee et.al.|[2506.24083](http://arxiv.org/abs/2506.24083)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
@@ -5681,6 +5701,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain et.al.|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
+|**2025-07-03**|**On the Structure of Replicable Hypothesis Testers**|Anders Aamand et.al.|[2507.02842](http://arxiv.org/abs/2507.02842)|null|
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
+|**2025-07-03**|**Designs from magic-augmented Clifford circuits**|Yuzhen Zhang et.al.|[2507.02828](http://arxiv.org/abs/2507.02828)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**Genetic Features for Drug Responses in Cancer -- Investigating an Ensemble-Feature-Selection Approach**|Johannes Schlüter et.al.|[2507.02818](http://arxiv.org/abs/2507.02818)|null|
+|**2025-07-03**|**Prediction of synthesis parameters for N, Si, Ge and Sn diamond vacancy centers using machine learning**|Zhi Jiang et.al.|[2507.02808](http://arxiv.org/abs/2507.02808)|null|
+|**2025-07-03**|**Splitting algorithm and normed convergence for drawing the random Loewner curves**|Jiaming Chen et.al.|[2507.02776](http://arxiv.org/abs/2507.02776)|null|
+|**2025-07-03**|**Contextual Online Pricing with (Biased) Offline Data**|Yixuan Zhang et.al.|[2507.02762](http://arxiv.org/abs/2507.02762)|null|
+|**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
 |**2025-06-30**|**Beneath the Surface: >85% of z>5.9 QSOs in Massive Host Galaxies are UV-Faint**|R. J. Bouwens et.al.|[2506.24128](http://arxiv.org/abs/2506.24128)|null|
 |**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126](http://arxiv.org/abs/2506.24126)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
