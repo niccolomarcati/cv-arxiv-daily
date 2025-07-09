@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235](http://arxiv.org/abs/2507.05235)|null|
+|**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229](http://arxiv.org/abs/2507.05229)|null|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-08**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
+|**2025-07-07**|**Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism**|Andreas Mayer et.al.|[2507.05187](http://arxiv.org/abs/2507.05187)|null|
+|**2025-07-07**|**A Two-Stage Scheduling Method for Nurse Scheduling and Its Practical Application**|Keisuke Nakashima et.al.|[2507.05182](http://arxiv.org/abs/2507.05182)|null|
 |**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
@@ -4850,6 +4860,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
+|**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229](http://arxiv.org/abs/2507.05229)|null|
+|**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111](http://arxiv.org/abs/2507.05111)|null|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems**|Jiangbo Yu et.al.|[2507.04996](http://arxiv.org/abs/2507.04996)|null|
+|**2025-07-07**|**Introducing the Phoebos simulation: galaxy properties at the dawn of galaxy formation**|Floor van Donkelaar et.al.|[2507.04927](http://arxiv.org/abs/2507.04927)|null|
+|**2025-07-07**|**Automated UAV-based Wind Turbine Blade Inspection: Blade Stop Angle Estimation and Blade Detail Prioritized Exposure Adjustment**|Yichuan Shi et.al.|[2507.04922](http://arxiv.org/abs/2507.04922)|null|
+|**2025-07-07**|**Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images**|Dibyabha Deb et.al.|[2507.04915](http://arxiv.org/abs/2507.04915)|null|
+|**2025-07-08**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846](http://arxiv.org/abs/2507.04846)|null|
 |**2025-07-03**|**Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures**|Frida Sundfeldt et.al.|[2507.02607](http://arxiv.org/abs/2507.02607)|null|
 |**2025-07-03**|**Observer-Based Distributed Model Predictive Control for String-Stable Multi-vehicle Systems with Markovian Switching Topology**|Wenwei Que et.al.|[2507.02584](http://arxiv.org/abs/2507.02584)|null|
 |**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
@@ -5701,6 +5721,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
+|**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
+|**2025-07-07**|**Cascade: Token-Sharded Private LLM Inference**|Rahul Thomas et.al.|[2507.05228](http://arxiv.org/abs/2507.05228)|null|
+|**2025-07-08**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
+|**2025-07-07**|**Quantitative Morphology of Galactic Cirrus in Deep Optical Imaging**|Qing Liu et.al.|[2507.05217](http://arxiv.org/abs/2507.05217)|null|
+|**2025-07-07**|**Bridging Prediction and Intervention Problems in Social Systems**|Lydia T. Liu et.al.|[2507.05216](http://arxiv.org/abs/2507.05216)|null|
+|**2025-07-07**|**On the Posterior Computation Under the Dirichlet-Laplace Prior**|Paolo Onorati et.al.|[2507.05214](http://arxiv.org/abs/2507.05214)|null|
+|**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
+|**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
+|**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183](http://arxiv.org/abs/2507.05183)|null|
 |**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain et.al.|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
 |**2025-07-03**|**On the Structure of Replicable Hypothesis Testers**|Anders Aamand et.al.|[2507.02842](http://arxiv.org/abs/2507.02842)|null|
 |**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
