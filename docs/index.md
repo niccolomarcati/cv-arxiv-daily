@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.11
+## Updated on 2025.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992](http://arxiv.org/abs/2507.07992)|null|
+|**2025-07-10**|**Purcell enhancement of photogalvanic currents in a van der Waals plasmonic self-cavity**|Xinyu Li et.al.|[2507.07987](http://arxiv.org/abs/2507.07987)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
+|**2025-07-10**|**Spectral networks for polynomial cubic differentials**|Omar Kidwai et.al.|[2507.07971](http://arxiv.org/abs/2507.07971)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Dynamic Chunking for End-to-End Hierarchical Sequence Modeling**|Sukjun Hwang et.al.|[2507.07955](http://arxiv.org/abs/2507.07955)|null|
+|**2025-07-10**|**Incremental Collision Laws Based on the Bouc-Wen Model: External Forces and Corner Cases**|Mihails Milehins et.al.|[2507.07953](http://arxiv.org/abs/2507.07953)|null|
+|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-10**|**Quantum Wall States for Noise Mitigation and Eternal Purity Bounds**|Miguel Casanova et.al.|[2507.07944](http://arxiv.org/abs/2507.07944)|null|
 |**2025-07-09**|**Does Data Scaling Lead to Visual Compositional Generalization?**|Arnas Uselis et.al.|[2507.07102](http://arxiv.org/abs/2507.07102)|null|
 |**2025-07-09**|**Incremental Averaging Method to Improve Graph-Based Time-Difference-of-Arrival Estimation**|Klaus Brümann et.al.|[2507.07087](http://arxiv.org/abs/2507.07087)|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
@@ -4870,6 +4880,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
+|**2025-07-10**|**Baryonification: An alternative to hydrodynamical simulations for cosmological studies**|Aurel Schneider et.al.|[2507.07892](http://arxiv.org/abs/2507.07892)|null|
+|**2025-07-10**|**Improving AEBS Validation Through Objective Intervention Classification Leveraging the Prediction Divergence Principle**|Daniel Betschinske et.al.|[2507.07872](http://arxiv.org/abs/2507.07872)|null|
+|**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773](http://arxiv.org/abs/2507.07773)|null|
+|**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
+|**2025-07-10**|**Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles**|Jiaxu Wan et.al.|[2507.07487](http://arxiv.org/abs/2507.07487)|null|
+|**2025-07-10**|**Energy Transfer and Data Collection from Batteryless Sensors in Low-altitude Wireless Networks**|Wen Zhang et.al.|[2507.07481](http://arxiv.org/abs/2507.07481)|null|
+|**2025-07-10**|**Towards Safe Autonomous Driving: A Real-Time Safeguarding Concept for Motion Planning Algorithms**|Korbinian Moller et.al.|[2507.07444](http://arxiv.org/abs/2507.07444)|null|
+|**2025-07-10**|**Distributed and adaptive model predictive control for vehicle platoon systems under non-ideal communication**|Qiaoni Han et.al.|[2507.07429](http://arxiv.org/abs/2507.07429)|null|
 |**2025-07-09**|**Results from IceCube Follow-up of Nearby Supernova SN2023ixf**|Alicia Mand et.al.|[2507.07097](http://arxiv.org/abs/2507.07097)|null|
 |**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090](http://arxiv.org/abs/2507.07090)|null|
 |**2025-07-09**|**When Context Is Not Enough: Modeling Unexplained Variability in Car-Following Behavior**|Chengyuan Zhang et.al.|[2507.07012](http://arxiv.org/abs/2507.07012)|null|
@@ -5741,6 +5761,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000](http://arxiv.org/abs/2507.08000)|null|
+|**2025-07-10**|**Gravitational lensing rarely produces high-mass outliers to the compact binary population**|Amanda Farah et.al.|[2507.07964](http://arxiv.org/abs/2507.07964)|null|
+|**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963](http://arxiv.org/abs/2507.07963)|null|
+|**2025-07-10**|**A c-theorem for the effective central charge in the R=1 replica limit, and applications to systems with measurement-induced randomness**|Rushikesh A. Patil et.al.|[2507.07959](http://arxiv.org/abs/2507.07959)|null|
+|**2025-07-10**|**Sum Rules in Quantum Liquids**|Riccardo Fantoni et.al.|[2507.07950](http://arxiv.org/abs/2507.07950)|null|
+|**2025-07-10**|**TinierHAR: Towards Ultra-Lightweight Deep Learning Models for Efficient Human Activity Recognition on Edge Devices**|Sizhen Bian et.al.|[2507.07949](http://arxiv.org/abs/2507.07949)|null|
+|**2025-07-10**|**Physics-Informed Gaussian Process Inference of Liquid Structure from Scattering Data**|Harry W. Sullivan et.al.|[2507.07948](http://arxiv.org/abs/2507.07948)|null|
+|**2025-07-10**|**Computational barriers for permutation-based problems, and cumulants of weakly dependent random variables**|Bertrand Even et.al.|[2507.07946](http://arxiv.org/abs/2507.07946)|null|
+|**2025-07-10**|**Finite-time and Finite-size scalings of coercivity in dynamic hysteresis**|Miao Chen et.al.|[2507.07933](http://arxiv.org/abs/2507.07933)|null|
+|**2025-07-10**|**Measuring Hypothesis Testing Errors in the Evaluation of Retrieval Systems**|Jack McKechnie et.al.|[2507.07924](http://arxiv.org/abs/2507.07924)|null|
 |**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100](http://arxiv.org/abs/2507.07100)|null|
 |**2025-07-09**|**IceCube population constraints on neutrino emission by Fermi-LAT detected active galactic nuclei**|Sam Hori et.al.|[2507.07098](http://arxiv.org/abs/2507.07098)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
