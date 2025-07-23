@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3997,6 +3997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Optimized Fabrication Procedure for High-Quality Graphene-based Moiré Superlattice Devices**|Shuwen Sun et.al.|[2507.15853](http://arxiv.org/abs/2507.15853)|null|
+|**2025-07-21**|**Electron-Transfer and Exchange-Interaction Model of the Ligand Hyperfine Structure of Alkylated Iron-Sulfur Clusters**|William C. Robinson et.al.|[2507.15838](http://arxiv.org/abs/2507.15838)|null|
+|**2025-07-21**|**Data-driven optimal approximation on Hardy spaces in simply connected domains**|Alessandro Borghi et.al.|[2507.15837](http://arxiv.org/abs/2507.15837)|null|
+|**2025-07-21**|**Rigorous dense graph limit of a model for biological transportation networks**|Nuno J. Alves et.al.|[2507.15829](http://arxiv.org/abs/2507.15829)|null|
+|**2025-07-21**|**Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering**|Mauro Marcelino et.al.|[2507.15828](http://arxiv.org/abs/2507.15828)|null|
+|**2025-07-21**|**ACS: An interactive framework for conformal selection**|Yu Gui et.al.|[2507.15825](http://arxiv.org/abs/2507.15825)|null|
+|**2025-07-21**|**Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks**|Hope Schroeder et.al.|[2507.15821](http://arxiv.org/abs/2507.15821)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Power-Constrained Policy Gradient Methods for LQR**|Ashwin Verma et.al.|[2507.15806](http://arxiv.org/abs/2507.15806)|null|
+|**2025-07-21**|**Identifying Solution Constraints for ODE Systems**|Nicolae Tarfulea et.al.|[2507.15805](http://arxiv.org/abs/2507.15805)|null|
 |**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Yiqi Wang et.al.|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
 |**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
 |**2025-07-17**|**Privacy-Preserving Fusion for Multi-Sensor Systems Under Multiple Packet Dropouts**|Jie Huang et.al.|[2507.13286](http://arxiv.org/abs/2507.13286)|null|
@@ -4910,6 +4920,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
+|**2025-07-21**|**Explainable Anomaly Detection for Electric Vehicles Charging Stations**|Matteo Cederle et.al.|[2507.15718](http://arxiv.org/abs/2507.15718)|null|
+|**2025-07-21**|**Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms**|Huayue Liang et.al.|[2507.15677](http://arxiv.org/abs/2507.15677)|null|
+|**2025-07-21**|**Vehicular Cloud Computing: A cost-effective alternative to Edge Computing in 5G networks**|Rosario Patanè et.al.|[2507.15670](http://arxiv.org/abs/2507.15670)|null|
+|**2025-07-21**|**A Universal Vehicle-Trailer Navigation System with Neural Kinematics and Online Residual Learning**|Yanbo Chen et.al.|[2507.15607](http://arxiv.org/abs/2507.15607)|null|
+|**2025-07-21**|**Improving Functional Reliability of Near-Field Monitoring for Emergency Braking in Autonomous Vehicles**|Junnan Pan et.al.|[2507.15594](http://arxiv.org/abs/2507.15594)|null|
+|**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
+|**2025-07-21**|**Signatures of Exploding Supermassive PopIII Stars at High Redshift in JWST, EUCLID and Roman Space Telescope**|Cédric Jockel et.al.|[2507.15556](http://arxiv.org/abs/2507.15556)|null|
+|**2025-07-21**|**An $n^{O(\log\log n)}$ time approximation scheme for capacitated VRP in the Euclidean plane**|René Sitters et.al.|[2507.15549](http://arxiv.org/abs/2507.15549)|null|
+|**2025-07-21**|**Movable-Antenna Empowered AAV-Enabled Data Collection over Low-Altitude Wireless Networks**|Xuhui Zhang et.al.|[2507.15515](http://arxiv.org/abs/2507.15515)|null|
 |**2025-07-17**|**Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour**|Emma M. A. Harrison et.al.|[2507.13277](http://arxiv.org/abs/2507.13277)|null|
 |**2025-07-17**|**QTCAJOSA: Low-Complexity Joint Offloading and Subchannel Allocation for NTN-Enabled IoMT**|Alejandro Flores C. et.al.|[2507.13242](http://arxiv.org/abs/2507.13242)|null|
 |**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Rahel Rickenbach et.al.|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
@@ -5821,6 +5841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
+|**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819](http://arxiv.org/abs/2507.15819)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Empirical Likelihood Based Inference for a Divergence Measure Based on Survival Extropy**|Naresh Garg et.al.|[2507.15810](http://arxiv.org/abs/2507.15810)|null|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809](http://arxiv.org/abs/2507.15809)|null|
+|**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
+|**2025-07-21**|**Deep-Learning Investigation of Vibrational Raman Spectra for Plant-Stress Analysis**|Anoop C. Patil et.al.|[2507.15772](http://arxiv.org/abs/2507.15772)|null|
+|**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
+|**2025-07-21**|**Toward an event-level analysis of hadron structure using differential programming**|Kevin Braga et.al.|[2507.15768](http://arxiv.org/abs/2507.15768)|null|
+|**2025-07-21**|**Meson mass spectrum in Ising Field Theory**|Alexey Litvinov et.al.|[2507.15766](http://arxiv.org/abs/2507.15766)|null|
 |**2025-07-17**|**Expansion creates spin-glass order in finite-connectivity models: a rigorous and intuitive approach from the theory of LDPC codes**|Benedikt Placke et.al.|[2507.13342](http://arxiv.org/abs/2507.13342)|null|
 |**2025-07-17**|**The Making of a Community Dark Matter Dataset with the National Science Data Fabric**|Amy Roberts et.al.|[2507.13297](http://arxiv.org/abs/2507.13297)|null|
 |**2025-07-17**|**Stochastic Weakly Convex Optimization Under Heavy-Tailed Noises**|Tianxi Zhu et.al.|[2507.13283](http://arxiv.org/abs/2507.13283)|null|
